@@ -1,0 +1,22 @@
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            About This Project
+        </title>
+    </head>
+
+    <body>
+<!--include logo.txt -->
+<!--include menu.txt -->
+        <h1>
+            About This Project
+        </h1>
+
+        <p>
+            This site is for use with CS 1114 at the Tandon School of
+            Engineering.
+        </p>
+
+    </body>
+</html>

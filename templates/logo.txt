@@ -1,0 +1,6 @@
+        <div style="text-align:center">
+            <figure class="logo">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/200px-Python_logo_and_wordmark.svg.png">
+            </figure>
+        </div>
+

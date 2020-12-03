@@ -1,0 +1,21 @@
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            Code examples
+        </title>
+    </head>
+
+    <body>
+<!--include logo.txt -->
+<!--include menu.txt -->
+        <h1>
+            Code examples
+        </h1>
+
+        <p>
+            Coming soon!
+        </p>
+
+    </body>
+</html>
