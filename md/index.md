@@ -2,7 +2,7 @@
     <head>
 <!--include head.txt -->
         <title>
-            Software Enginneering
+            Software Enginneering / Design Project
         </title>
     </head>
 
@@ -10,9 +10,8 @@
 <!--include logo.txt -->
 <!--include menu.txt -->
 
-# Software Enginneering
+# Software Enginneering / Design Project
 
-The following are the topics for Sprint 2020.
 
 </body>
 </html>
