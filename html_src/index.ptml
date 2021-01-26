@@ -2,7 +2,7 @@
     <head>
 <!--include head.txt -->
         <title>
-            Software Enginneering / Design Project
+            Software Engineering / Design Project
         </title>
     </head>
 
@@ -10,6 +10,10 @@
 <!--include logo.txt -->
 <!--include menu.txt -->
 
-<h1>Software Enginneering / Design Project</h1>
+<h1>Software Engineering / Design Project</h1>
+<h3>Lectures:</h3>
+<ul>
+<li><a href="https://github.com/gcallah/SoftwareEngineering/blob/master/notebooks/WhatIsSE.ipynb">What Is Software Engineering?</a></li>
+</ul>
 </body>
 </html>

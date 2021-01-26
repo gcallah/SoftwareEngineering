@@ -1,6 +1,6 @@
         <div style="text-align:center">
             <figure class="logo">
-				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/200px-Python_logo_and_wordmark.svg.png">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Kernel_Layout.svg/192px-Kernel_Layout.svg.png">
             </figure>
         </div>
 

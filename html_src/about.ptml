@@ -2,21 +2,15 @@
     <head>
 <!--include head.txt -->
         <title>
-            About This Project
+            About This Site
         </title>
     </head>
 
-    <body>
+ <body>
 <!--include logo.txt -->
 <!--include menu.txt -->
-        <h1>
-            About This Project
-        </h1>
 
-        <p>
-            This site is for use with CS 1114 at the Tandon School of
-            Engineering.
-        </p>
-
-    </body>
+<h1>About This Site</h1>
+<p>This site was built by Prof. Eugene Callahan, Gordon Lei, and Rihui Zheng for use with CS-UY 4513 and 4523 at NYU Tandon School of Engineering.</p>
+</body>
 </html>

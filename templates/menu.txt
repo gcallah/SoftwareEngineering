@@ -3,7 +3,7 @@
     <a href="index.html">HOME</a>
     </li>
     <li>
-    <a href="code.html">CODE</a>
+    <a href="readings.html">READINGS</a>
     </li>
     <li>
     <a href="about.html">ABOUT</a>
