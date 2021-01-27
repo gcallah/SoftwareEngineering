@@ -1,0 +1,139 @@
+Preface 3
+Part 1 Introduction to Software Engineering 15
+Chapter 1 Introduction 17
+1.1 Professional software development 19
+1.2 Software engineering ethics 28
+1.3 Case studies 31
+Chapter 2 Software processes 43
+2.1 Software process models 45
+2.2 Process activities 54
+2.3 Coping with change 61
+2.4 Process improvement 65
+Chapter 3 Agile software development 72
+3.1 Agile methods 75
+3.2 Agile development techniques 77
+3.3 Agile project management 84
+3.4 Scaling agile methods 88
+Chapter 4 Requirements engineering 101
+4.1 Functional and non-functional requirements 105
+4.2 Requirements engineering processes 111
+4.3 Requirements elicitation 112
+4.4 Requirements specification 120
+4.5 Requirements validation 129
+4.6 Requirements change 130
+Chapter 5 System modeling 138
+5.1 Context models 141
+5.2 Interaction models 144
+5.3 Structural models 149
+5.4 Behavioral models 154
+5.5 model-driven architecture 159
+Chapter 6 Architectural design 167
+6.1 Architectural design decisions 171
+6.2 Architectural views 173
+6.3 Architectural patterns 175
+6.4 Application architectures 184
+Chapter 7 Design and implementation 196
+7.1 Object-oriented design using the UmL 198
+7.2 Design patterns 209
+7.3 Implementation issues 212
+7.4 Open-source development 219
+Chapter 8 Software testing 226
+8.1 Development testing 231
+8.2 Test-driven development 242 
+8.3 Release testing 245
+8.4 User testing 249
+Chapter 9 Software evolution 255
+9.1 Evolution processes 258
+9.2 Legacy systems 261
+9.3 Software maintenance 270
+Part 2 System Dependability and Security 283
+Chapter 10 Dependable systems 285
+10.1 Dependability properties 288
+10.2 Sociotechnical systems 291
+10.3 Redundancy and diversity 295
+10.4 Dependable processes 297
+10.5 Formal methods and dependability 299
+Chapter 11 Reliability engineering 306
+11.1 Availability and reliability 309
+11.2 Reliability requirements 312
+11.3 Fault-tolerant architectures 318
+11.4 Programming for reliability 325
+11.5 Reliability measurement 331
+Chapter 12 Safety engineering 339
+12.1 Safety-critical systems 341
+12.2 Safety requirements 344
+12.3 Safety engineering processes 352
+12.4 Safety cases 361
+Chapter 13 Security engineering 373
+13.1 Security and dependability 376
+13.2 Security and organizations 380
+13.3 Security requirements 382
+13.4 Secure systems design 388
+13.5 Security testing and assurance 402
+Chapter 14 Resilience engineering 408
+14.1 Cybersecurity 412
+14.2 Sociotechnical resilience 416
+14.3 Resilient systems design 424
+Part 3 Advanced Software Engineering 435
+Chapter 15 Software reuse 437
+15.1 The reuse landscape 440
+15.2 Application frameworks 443
+15.3 Software product lines 446
+15.4 Application system reuse 453
+Chapter 16 Component-based software engineering 464
+16.1 Components and component models 467
+16.2 CBSE processes 473
+16.3 Component composition 480
+Chapter 17 Distributed software engineering 490
+17.1 Distributed systems 492
+17.2 Client–server computing 499
+17.3 Architectural patterns for distributed systems 501
+17.4 Software as a service 512
+Chapter 18 Service-oriented software engineering 520
+18.1 Service-oriented architecture 524
+18.2 RESTful services 529
+18.3 Service engineering 533
+18.4 Service composition 541
+Chapter 19 Systems engineering 551
+19.1 Sociotechnical systems 556
+19.2 Conceptual design 563
+19.3 System procurement 566
+19.4 System development 570
+19.5 System operation and evolution 574
+Chapter 20 Systems of systems 580
+20.1 System complexity 584
+20.2 Systems of systems classification 587
+20.3 Reductionism and complex systems 590
+20.4 Systems of systems engineering 593
+20.5 Systems of systems architecture 599
+Chapter 21 Real-time software engineering 610
+21.1 Embedded system design 613
+21.2 Architectural patterns for real-time software 620
+21.3 Timing analysis 626
+21.4 Real-time operating systems 631
+Part 4 Software Management 639
+Chapter 22 Project management 641
+22.1 Risk management 644
+22.2 managing people 652
+22.3 Teamwork 656
+Chapter 23 Project planning 667
+23.1 Software pricing 670
+23.2 Plan-driven development 672
+23.3 Project scheduling 675
+23.4 Agile planning 680
+23.5 Estimation techniques 682
+23.6 COCOmO cost modeling 686
+Chapter 24 Quality management 700
+24.1 Software quality 703
+24.2 Software standards 706
+24.3 Reviews and inspections 710
+24.4 Quality management and agile development 714
+24.5 Software measurement 716
+Chapter 25 Configuration management 730
+25.1 Version management 735
+25.2 System building 740
+25.3 Change management 745
+25.4 Release management 750
+Glossary 757
+Subject index 777
+Author index 803
