@@ -1,13 +1,35 @@
 # Chapter 1: Introduction
 
 
-## Professional software development
+## 1.1 Professional software development
 
 
-## Software engineering ethics
+
+### What is Software Engineering 
 
 
-## Case studies
+
+### Software Engineering Diversity
+
+
+
+### Internet Software Engineering 
+
+
+
+## 1.2 Software engineering ethics
+
+
+### Example professional responsibilities
+
+
+
+### The Ethic Code and its Eight Principles 
+
+
+
+## 1.3 Case studies
+
 
 ### An embedded system
 
