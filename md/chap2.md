@@ -1,7 +1,6 @@
 # Chapter 2 Software processes
 
-
-## 2.1 Software process models
+## Preface 
 
 
 ### Four Fundamental Software Engineering Activities 
@@ -10,6 +9,9 @@
 
 ### What influences the sequence of activites 
 
+
+
+## 2.1 Software process models
 
 
 ### Three general process models 

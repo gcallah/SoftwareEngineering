@@ -1,7 +1,7 @@
 # Chapter 3 Agile software development
 
 
-## 3.1 Agile methods
+## Preface
 
 
 ### Common characteristics of Agile Methods 
@@ -10,6 +10,9 @@
 
 ### Distinction between plan-driven processes and agile development
 
+
+
+## 3.1 Agile methods
 
 
 ### Agile Manifesto 

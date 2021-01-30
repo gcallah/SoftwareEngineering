@@ -1,7 +1,7 @@
 # Chapter 1: Introduction
 
 
-## Professional software development
+## 1.1 Professional software development
 
 
 
@@ -17,7 +17,7 @@
 
 
 
-## Software engineering ethics
+## 1.2 Software engineering ethics
 
 
 ### Example professional responsibilities
@@ -28,7 +28,7 @@
 
 
 
-## Case studies
+## 1.3 Case studies
 
 
 ### An embedded system
