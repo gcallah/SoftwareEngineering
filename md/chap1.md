@@ -31,9 +31,14 @@
 ## 1.3 Case studies
 
 
+
 ### An embedded system
 
+![Insulin Pump Activity Model](../images/chap/1.4_insulin_pump.png)
 
+![Insulin Pump Activity Model](../images/chap/1.5_activity_model.png)
+
+![Mentcare Organiuzation](../images/chap/1.6_mentcare_organization.png)
 
 ### An information system
 
