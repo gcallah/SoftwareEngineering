@@ -104,7 +104,12 @@ is.
 
 ### Software Engineering Diversity
 
+<<<<<<< HEAD
 There are many types of systems that can be made which include (textbook pg. 25):
+=======
+There are many types of systems that can be made which include:
+
+>>>>>>> 2912be510666b97561af7d64dae1d3af54a71a85
 * **Stand-alone applications**
 * **Interactive transaction-based applications**
 * **Embedded control systems**
@@ -114,29 +119,35 @@ There are many types of systems that can be made which include (textbook pg. 25)
 * **Data collection and analysis systems**
 * **System of systems**
 
-Despite the diversity of software system types, their aare several fundamental principles that are applicable for all software (textbook pg. 26):
-* Systems should be made by using an understood and managed development process
-* Dependability and performance are crucial for the success of the software
-* Understanding what the software application and requirements are 
-* Reuse software that has been made before rather than write new software (when applicable)
+Despite the diversity of software system types, their are several fundamental
+principles that are applicable for all software:
+
+* Systems should be made by using an understood and managed development process.
+* Dependability and performance are crucial for the success of all software.
+* Developers must understand what the software is for!
+* Developers should re-use existing software in preference to writing new programs.
 
 ### Internet Software Engineering 
 
-The increasing development of the Internet brings in an advent of web-based systems that can be accessed with a web browser; these software (for example Microsoft Office 365 and the Google Suite) runs on remote "clouds"  instead of local servers. 
+The fact that most software today runs on the Internet introduces new
+considerations:
 
-Some qualities of web-based systems are:
+- Does the software work across a variety of user interfaces: popular web
+browsers, custom phone apps, and API access from other programs?
+- Is the software secure, given the entire world can access it?
 
-* Software reuse 
-* Incremental and agile development
-* Service-oriented systems 
-* Rich interfaces
+The increasing development of the Internet also allows information to be not stored in local drives; 
+instead applications such as Microsoft Office 265 and the Google Suite allows users to be able to add and house 
+information in remote "clouds". 
+
 
 ## 1.2 Software engineering ethics
 
 
 ### Example professional responsibilities
 
-Similar to how other engineering or science disciplines have an ethic code, software engineering has the same. Such resposnibilites include (textbook pg. 28-29):
+Similar to how other engineering or science disciplines have an ethic code, 
+software engineering has the same. Such resposnibilites include (textbook pg. 28-29):
 * **Confidentiality**
 * **Competence**
 * **Intellectual property rights**
@@ -145,7 +156,9 @@ Similar to how other engineering or science disciplines have an ethic code, soft
 
 ### The Ethic Code and its Eight Principles 
 
-CM and the IEEE are professional associations that created a code of ethics that contains eight Principles related to how software engineers should behave and make decisions. These eight principles include (textbook pg. 30):
+CM and the IEEE are professional associations that created a code of ethics that contains 
+eight Principles related to how software engineers should behave and make decisions. 
+These eight principles include (textbook pg. 30):
 * **Public**
 * **Client and Employer**
 * **Product**
@@ -156,7 +169,6 @@ CM and the IEEE are professional associations that created a code of ethics that
 * **Self**
 
 ## 1.3 Case studies
-
 
 
 ### An embedded system: Insulin Pump Control System
