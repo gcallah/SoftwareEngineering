@@ -104,6 +104,7 @@ is.
 ### Software Engineering Diversity
 
 There are many types of systems that can be made which include:
+
 * **Stand-alone applications**
 * **Interactive transaction-based applications**
 * **Embedded control systems**
@@ -113,15 +114,24 @@ There are many types of systems that can be made which include:
 * **Data collection and analysis systems**
 * **System of systems**
 
-Despite the diversity of software system types, their aare several fundamental principles that are applicable for all software:
-* Systems should be made by using an understood and managed development process
-* Dependability and performance are crucial for the success of the software
-* Understanding what the software application and requirements are 
-* Reuse software that has been made before rather than write new software (when applicable)
+Despite the diversity of software system types, their are several fundamental
+principles that are applicable for all software:
+
+* Systems should be made by using an understood and managed development
+process.
+* Dependability and performance are crucial for the success of all software.
+* Developers must understand what the software is for!
+* Developers should re-use existing software in preference to writing new
+programs.
 
 ### Internet Software Engineering 
 
+The fact that most software today runs on the Internet introduces new
+considerations:
 
+- Does the software work across a variety of user interfaces: popular web
+browsers, custom phone apps, and API access from other programs?
+- Is the software secure, given the entire world can access it?
 
 ## 1.2 Software engineering ethics
 
