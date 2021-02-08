@@ -10,7 +10,7 @@ involve these four parts (textbook pg. 44):
 * **Validation**
 * **Evolution**
 
-In this chapter, we will explain three software processes that can be visualized as a model. 
+In this chapter, we will explain three software processes that can be visualized as a model. Note that in practice, development will most likely not solely follow one model; instead it will use a mixture of some elements from each model.
 
 
 
@@ -73,42 +73,102 @@ Inceremental development has three main benefits:
 
 Incremental development has two main drawbacks:
 * The process is not clearly visible as mutliple versions of the product may be happening at the same time and thier may not be one "main" version. It will also cost a lot in order to create a lot of versions of the product.
-* Adding multiple changes may degrade the original system structure as code must be refactored to better optimize it or maybe everything work with the new changes. Think of this like the Telephone game. In this game there are multiple people lined up; on one end, one person tells the person adjacent to him a message.  This person must repeat the message to the other person who is adjacent to him until the message goes down the line to the last person on the opposite end. Each person could alter the message until when the final person receives the message, that message may be completely different and may not make sense in the end. Similarly, every added change to the software would require the development team to make sure the original features still work and the new features was intergrated properly to the prior version to create the new version.
+* Adding multiple changes may degrade the original system structure as code must be refactored to better optimize it or maybe everything work with the new changes. Think of this like the Telephone game. In this game there are multiple people lined up; on one end, one person tells the person adjacent to him a message.  This person must repeat the message to the other person who is adjacent to him until the message goes down the line to the last person on the opposite end but each person cannot ask the prior person to repeat the message. Each person could alter the message until when the final person receives the message, that message may be completely different and may not make sense in the end. Similarly, every added change to the software would require the development team to make sure the original features still work and the new features was intergrated properly to the prior version to create the new version.
 
 
 ### Intergration and configuration
 
+Integration and configuration is the process of using already existing code. Instead of building from the ground up, the already existing code would be modified and added to wahtegver prototype development has produced so far.  
+
+Examples of when this model is used for is for (textbook pg. 52): 
+
+* Stand-alone applications
+* Collections of objects that are bundled into a package that will be used for a framework 
+* Web services that have to follow a standard 
+
 ![Reuse oriented](../images/chap/2.3_reuse_oriented.png)
+
+**Reuse-Oriented software engineering** is based around this software process model and has 5 main steps:
+* Requriements specifciation 
+* Software discovery and evaluation 
+* Refinement of requirements 
+* Configuration and adpation of software
+  * If the software is an application system, configure it
+  * If the software is a component(s), adapt the components and develop new ones if neccessary to prepare for integration.
+* Integrate the discovered system into the current protoype/iteration
+
+Benefits | Cons
+------------ | -------------
+Because less new software is made, development costs are lowered| Reusing code instead of creating from scratch may mean that those reused code may not work with future addtions of features. 
+Faster deployment of software | May have to worry about liscnesning of borrowed code which may increase cost
+
 
 ## 2.2 Process activities
 
+![Requirement Engineering Process](../images/chap/2.4_requirements_engineering_process.png)
+
+In this section, we will discusse what the four process activities (specification, development, validation, and evolution) entail. 
 
 ### Software Specification
 
-![Requirement Engineering Process](../images/chap/2.4_requirements_engineering_process.png)
+
+Software specification, also known as the requirement engineering process, is the stage where developers will figure out and outline what features are required by stakeholders. The end result of this process is to create documentation that stakeholders understand and add upon to aid developers know what features they (the developers) need to create to meet the needs of the client. Software specification can be visualized as the top 3 bubbles in figure 2.4. 
+
+Note that stakeholder requirements and whereas ystem requirements are not interchangeable with each other;this difference will be explained in a later section. 
+
+
+The requirements engineering process is composed of three main stages (textbook pg 55):
+* **Requirements elicitation and analysis**
+* **Requirements specification**
+* **Requirements validation**
 
 ### Software design and implementation
 
+Software design and implementation can be visuzalized as the layer that is comprised of the bottom 3 rectangles in figure 2.4. 
+
+
 ![Design Process](../images/chap/2.5_design_process_model.png)
 
-![Stages of testing](../images/chap/2.6_stages_of_testing.png)
+Figure 2.5 outlines the process in which a software design is made. Design inputs are the foundation to the software as they are the required parts that the software must either include or adhere to. Platform information is the information regarding what other software systems the product will interact with. Examples of these other systems include operating system, database, and other applications. Requirement specifications is the specification of what the system will require and what functionalities the clients want in the product. Data descriptions are what datasets the product might rely on.
+
+After taken into consideration the inputs, developers will then consider four designs to make (textbook pg 57): 
+* **Architectural design**
+* **Database design**
+* **Interace design**
+* **Component selection and design**
+
 
 ### Software validation
 
+Softare validation, also known as V & V (Verification and validation), is used to test whether or not the current version of the software meets the demands of the consumers and any such specification. This process may involve using dummy/fake data or specific test cases to simulate usage of the software.
 
+![Stages of testing](../images/chap/2.6_stages_of_testing.png)
 
-### Software evolution
+In a simple software testing process, there are 3 main stages (textbook pg 59):
+* **Component testing**
+  * In this phase, individual functions are components are tested as single parts; in other words each component is tested isolated from each other. 
+* **System testing**
+  * The whole entire system will be tested to make sure each component works with each other.
+* **Customer testing**
+  * The consumer tests the system to give their opinions in order to see if the system meets the consumer's needs.
 
 ![Testing phases](../images/chap/2.7_testing_phases.png)
 
-![Testing phases](../images/chap/2.8_software_system_evolution.png)
+Figure 2.7 shows a more complicated form of testing that is mostly used in plan-driven software processes such as in the waterfall model. 
+
+### Software evolution
+
+Software evolution is also known as software maintence as software has to be flexible; changes to requirements are consistent and software must be able to evolve or be maintainable to address those changes. Figure 2.8 outlines the thought process that occurs during software evolution.  
+
+![Software Evolution](../images/chap/2.8_software_system_evolution.png)
 
 ## 2.3 Coping with change
 
+It should be apparent that change is inevitable. We see in the last two decades physical techonology has evolved and advanced greatly and software is the same as well; with gfrowing times, the needs and wants of people change. Software projects will eventually need to be reworked to account for different business changes, new technologies and techniques being used, and the obsolescence of platforms. 
 
-### Two approaches to reducde costs of rework
-
-
+Change therefore is expensive as it means the current working version must be redone in order to meet the new changes. Two ways to reduce the cost of reworking include:
+* **Change anticipation**
+* **Incremental delivery**
 
 ### Prototyping 
 
