@@ -35,7 +35,8 @@ As seen in the image above, the waterfall model has 5 main stages (textbook pg.4
 The waterfall model is a straight forward model where the software process follows a linear pattern; 
 in order for it to advance to the next stage, the prior stage must be completed. 
 Only after the "operation and maintence" step is completed can the project go to earlier steps as it sees fit. 
-The waterfall model is commonly known as a **plan-driven** model as the requirement specification phase and the development phase are distinct from each other; 
+The waterfall model is commonly known as a **plan-driven** model as the requirement specification phase 
+and the development phase are distinct from each other; 
 the requirement specification phase must be completed before the development of the product begins.
 As a result, one drawback of this model is that it should only be used if the problem 
 is fully understood in order to limit potential changes to customer needs and wants. 
@@ -78,7 +79,9 @@ Incremental development has two main drawbacks:
 
 ### Intergration and configuration
 
-Integration and configuration is the process of using already existing code. Instead of building from the ground up, the already existing code would be modified and added to wahtegver prototype development has produced so far.  
+Integration and configuration is the process of using already existing code. 
+Instead of building from the ground up, the already existing code would be modified and added to wahtegver 
+prototype development has produced so far.  
 
 Examples of when this model is used for is for (textbook pg. 52): 
 
@@ -99,7 +102,8 @@ Examples of when this model is used for is for (textbook pg. 52):
 
 Benefits | Cons
 ------------ | -------------
-Because less new software is made, development costs are lowered| Reusing code instead of creating from scratch may mean that those reused code may not work with future addtions of features. 
+Because less new software is made, development costs are lowered| Reusing code instead of creating from scratch 
+may mean that those reused code may not work with future addtions of features. 
 Faster deployment of software | May have to worry about liscnesning of borrowed code which may increase cost
 
 
@@ -112,9 +116,14 @@ In this section, we will discusse what the four process activities (specificatio
 ### Software Specification
 
 
-Software specification, also known as the requirement engineering process, is the stage where developers will figure out and outline what features are required by stakeholders. The end result of this process is to create documentation that stakeholders understand and add upon to aid developers know what features they (the developers) need to create to meet the needs of the client. Software specification can be visualized as the top 3 bubbles in figure 2.4. 
+Software specification, also known as the requirement engineering process, is the stage where developers 
+will figure out and outline what features are required by stakeholders. 
+The end result of this process is to create documentation that stakeholders understand and add upon to aid developers 
+know what features they (the developers) need to create to meet the needs of the client. Software specification 
+can be visualized as the top 3 bubbles in figure 2.4. 
 
-Note that stakeholder requirements and whereas ystem requirements are not interchangeable with each other;this difference will be explained in a later section. 
+Note that stakeholder requirements and whereas ystem requirements are not interchangeable with each other;
+this difference will be explained in a later section. 
 
 
 The requirements engineering process is composed of three main stages (textbook pg 55):
@@ -129,7 +138,12 @@ Software design and implementation can be visuzalized as the layer that is compr
 
 ![Design Process](../images/chap/2.5_design_process_model.png)
 
-Figure 2.5 outlines the process in which a software design is made. Design inputs are the foundation to the software as they are the required parts that the software must either include or adhere to. Platform information is the information regarding what other software systems the product will interact with. Examples of these other systems include operating system, database, and other applications. Requirement specifications is the specification of what the system will require and what functionalities the clients want in the product. Data descriptions are what datasets the product might rely on.
+Figure 2.5 outlines the process in which a software design is made. 
+Design inputs are the foundation to the software as they are the required parts that the software must either include or adhere to. 
+Platform information is the information regarding what other software systems the product will interact with. 
+Examples of these other systems include operating system, database, and other applications. 
+Requirement specifications is the specification of what the system will require and what functionalities the clients want in the product. 
+Data descriptions are what datasets the product might rely on.
 
 After taken into consideration the inputs, developers will then consider four designs to make (textbook pg 57): 
 * **Architectural design**
@@ -140,7 +154,9 @@ After taken into consideration the inputs, developers will then consider four de
 
 ### Software validation
 
-Softare validation, also known as V & V (Verification and validation), is used to test whether or not the current version of the software meets the demands of the consumers and any such specification. This process may involve using dummy/fake data or specific test cases to simulate usage of the software.
+Softare validation, also known as V & V (Verification and validation), is used to test whether or not the current 
+version of the software meets the demands of the consumers and any such specification. 
+This process may involve using dummy/fake data or specific test cases to simulate usage of the software.
 
 ![Stages of testing](../images/chap/2.6_stages_of_testing.png)
 
@@ -158,38 +174,100 @@ Figure 2.7 shows a more complicated form of testing that is mostly used in plan-
 
 ### Software evolution
 
-Software evolution is also known as software maintence as software has to be flexible; changes to requirements are consistent and software must be able to evolve or be maintainable to address those changes. Figure 2.8 outlines the thought process that occurs during software evolution.  
+Software evolution is also known as software maintence as software has to be flexible; 
+changes to requirements are consistent and software must be able to evolve or be maintainable to address those changes. 
+Figure 2.8 outlines the thought process that occurs during software evolution.  
 
 ![Software Evolution](../images/chap/2.8_software_system_evolution.png)
 
 ## 2.3 Coping with change
 
-It should be apparent that change is inevitable. We see in the last two decades physical techonology has evolved and advanced greatly and software is the same as well; with gfrowing times, the needs and wants of people change. Software projects will eventually need to be reworked to account for different business changes, new technologies and techniques being used, and the obsolescence of platforms. 
+It should be apparent that change is inevitable. 
+We see in the last two decades physical techonology has evolved and advanced greatly and software is the same as well; 
+with growing times, the needs and wants of people change. 
+Software projects will eventually need to be reworked to account for different business changes, 
+new technologies and techniques being used, and the obsolescence of platforms. 
 
-Change therefore is expensive as it means the current working version must be redone in order to meet the new changes. Two ways to reduce the cost of reworking include:
+Change therefore is expensive as it means the current working version must be redone in order to meet the new changes. 
+Two ways to reduce the cost of reworking include:
 * **Change anticipation**
 * **Incremental delivery**
 
 ### Prototyping 
 
+System prototyping is used to aid in limiting the amount of changes needed after the final product is made. 
+A **prototype** is an early iteration of the desired product that is a proof of concept; 
+it used to test out designs and to see if there are problems that need further consideration and analysis. 
+
 ![Prototype development](../images/chap/2.9_prototype_development.png)
+
+Figure 2.9 outlines the steps to creating a prototype. The top row is the acutal processes 
+that is done whereas the bottom row represents what documentation will be produced via those actions. 
+The steps are as follows (textbook pg. 63):
+* Establishing prototype objectives 
+  * This means that developers will come into an agreement on what is the end goal of the product. Is it to create a usable user interface? Is it to add CRUD (Create Read Update Delete) operations to the application?
+* Define prototype functionality
+  * In this stage, developers will decide what functionalities the prototype must have. The prototype does not have to have all the functionalities required for the final product. For example, if the objectyive of the prototype is to create a user interface for the user interface for the login and account creation pages for the software, the actual account-creation functionalities do not need to be added for this prototype.
+* Develop prototype
+  * This stage is the actual development and creation of the prototype.
+* Evaluate prototype
+  * In this stage, the prototype will be evaluted by whether or not it achieved its objective.
+
+Benefits of prototyping include:
+* More resembles what the client needs 
+* Reduced development and maintence cost 
+* Improved maintabilility and usability 
 
 ### Incremental delivery
 
 ![Incremental delivery](../images/chap/2.10_incremental_delivery.png)
 
+Incremental delivery is the process of breaking down the system into multiple segments 
+with each segement being built upon the prior to add more required functionality. 
+Every iterations/prototypes of the software is given to the client so they can comment on the progress and ask for any changes 
+they would like during the development process. 
+Because of this, generally the most important requirements (usually the user/client requirements) 
+are done in the first increments in order to be able to provide the client a usuable early prototype. 
+
+Advantages of incremental delivery include:
+* Customer can give opinions earlier as system functionalities are prioritized first to give working versions to customers faster 
+* Higher priority functionaltities receive more testing 
+* Projects are have a lower risk to fail 
+
+Problems of incremental delivery include:
+* People may be unwilling to stop using a working but slow component of a system instead of a new similar component that works faster but is incomplete. 
+* Common basic functions that are required by different compononents of the system can be difficult to identify as requirements are not fully developed in every iteration. Requirements are added and removed in every iteration.
+* This is an iterative process which goes against the prodecural nature of many organizations. In other words, organizations would like to have everything planned out before hand where as incremental delivery requires multiple iterations of the prodcut to be made until the specification is finalized. 
+
+
 ## 2.4 Process improvement
 
+In order to be competitive against similar products, software companioes must both maintain their product as well as improve its quality. 
+The goal of process improvement is to identify what component (whether developmental or organizational as in )
 
+Two approaches to improvement include:
+* **The process matiurity approach:**
+* **The agile approach**
 
-### Two approaches to process improvement and changes 
-
-
-
-### Cyclical Process
-
+## The process improvement model
 ![Process improvement](../images/chap/2.11_process_improvement_cycle.png)
+
+In general, the process improvement model is a cyclical process with three stages:
+* Process measurement
+* Process analysis 
+* Process change
 
 ### The Software Engineering Institute (SEI) Model of Process Capability Maturity
 
 ![Capability Maturity Model](../images/chap/2.12_capability_maturity_levels.png)
+
+The maturity of a model can be seen as how good software practices are used in a company and how well processes are managed. 
+The SEI Model visualizes this in five different levels where the 
+bottom most level is the least "mature" whereas the topmost is the most "mature". 
+In other words, the higher up you are in this model, the more likely the company is managing software processes well. 
+These levels are as follows:
+* Initial
+* Managed
+* Defined 
+* Quantively managed
+* Optimizing 

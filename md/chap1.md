@@ -75,18 +75,26 @@ need to follow.
 
 In order for the software to be deemed as good, it must follow four principles: 
 * **Acceptability**
+  * The software must be usable for its consumer (whether it means it can run on the customer's systems or if meets the needs of the customer).
 * **Dependability and security**
+  * The software must not be harmful to the consumer and do not allow any malicious users or criminals to be able to tamper with the software.
 * **Efficiency**
+  * The software should not waste resources but instead be able to utilize them well and be repsonsive.
 * **Maintainability**
+  * The software should be able to address any future changes the consumer may need. 
 
 In order to create such softwares that follow these four princples, the
 software process (a sequence of activities that is used to produce a software)
 must include four fundamental acitivies (textbook pg. 23): 
 
-* **Software specification**
+* **Software specification**:
+  * Customers and developers define what software is to be built, what functionalities it will have, and what constraints it will have
 * **Software development**
+  * The stage in which the software is made.
 * **Software validation**
+  * The softawre is checked to see if it meets its specification
 * **Software evolution**
+  * The stage where software is maintained in order to meet future changes in its requirements and specification
 
 During the softare process, there are four issues taht may affect what type of software you produce (textbook pg. 24):
 
@@ -104,12 +112,7 @@ is.
 
 ### Software Engineering Diversity
 
-<<<<<<< HEAD
 There are many types of systems that can be made which include (textbook pg. 25):
-=======
-There are many types of systems that can be made which include:
-
->>>>>>> 2912be510666b97561af7d64dae1d3af54a71a85
 * **Stand-alone applications**
 * **Interactive transaction-based applications**
 * **Embedded control systems**
