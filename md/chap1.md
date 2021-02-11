@@ -144,8 +144,9 @@ considerations:
 browsers, custom phone apps, and API access from other programs?
 - Is the software secure, given the entire world can access it?
 
-The increasing development of the Internet also allows information to be not stored in local drives; 
-instead applications such as Microsoft Office 265 and the Google Suite allows users to be able to add and house 
+The increasing development of the Internet also allows information storage
+apart from local disk drives.
+Instead applications such as Microsoft Office 365 and the Google Suite allow users house 
 information in remote "clouds". 
 
 
@@ -159,7 +160,7 @@ software engineering has the same. Such resposnibilites include (textbook pg. 28
 * **Confidentiality**
 * **Competence**
 * **Intellectual property rights**
-* **Computer misues**
+* **Computer misuses**
 
 
 ### The Ethic Code and its Eight Principles 
