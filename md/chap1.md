@@ -39,8 +39,8 @@ Two potential ways that software projects fail include (textbook pg. 18):
 
 ![FAQ](../images/chap/1.1_faq.png)
 
-Software engineering is a discipline that encompasses the very start of
-creation of the software to even beyond its completition and into the maintence
+Software engineering is a discipline that runs from the very start of
+creation of the software to beyond its completition and into the maintenance
 of the software. There are two important concepts to keep in mind about what is
 the core of software engineering (textbook pg. 21-22):
 
@@ -49,12 +49,12 @@ the core of software engineering (textbook pg. 21-22):
 
 As stated in the preface, software engineering is important because: 
 * More people are relying on software syystems 
-* It is cheaper to use such techniques for professional systems as it generally
-has quality assurance, lowers cost, and is good for long-term maintence. 
-
+* It is cheaper to use such techniques for professional systems as they generally
+have quality assurance, lower cost, and are more maintainable.
 
 
 Sofware produced can be split into two categories (textbook pg. 20-21):
+
 * **Generic products**
   * These are stand-alone general-purpose products sold to any customers/consumers 
   * Ex) PC software such as graphics/art programs, project management tools
@@ -65,7 +65,8 @@ Sofware produced can be split into two categories (textbook pg. 20-21):
   * Ex) Systems written to a particular business process, or air traffic
   control systems.
 
-The main difference between these categorization is who specifies what are the requirements for the software. 
+The main difference between these categorization is who specifies what are the
+requirements for the software. 
 In the case of a generic product, the software developers
 control the specification and can choose how and what is needed to be made for
 their product as there product is for general use and not for a specialized case. 
@@ -74,21 +75,24 @@ the ones that outline the specification and requirements that the developers
 need to follow. 
 
 In order for the software to be deemed as good, it must follow four principles: 
+
 * **Acceptability**
-  * The software must be usable for its consumer (whether it means it can run on the customer's systems or if meets the needs of the customer).
+  * The software must be usable for its consumer (whether it means it can run
+  on the customer's systems or if meets the needs of the customer).
 * **Dependability and security**
   * The software must not be harmful to the consumer and do not allow any malicious users or criminals to be able to tamper with the software.
 * **Efficiency**
-  * The software should not waste resources but instead be able to utilize them well and be repsonsive.
+  * The software should not waste resources but instead be able to utilize them well and be responsive.
 * **Maintainability**
   * The software should be able to address any future changes the consumer may need. 
 
 In order to create such softwares that follow these four princples, the
-software process (a sequence of activities that is used to produce a software)
+software process (a sequence of activities that is used to produce a program)
 must include four fundamental acitivies (textbook pg. 23): 
 
 * **Software specification**:
-  * Customers and developers define what software is to be built, what functionalities it will have, and what constraints it will have
+  * Customers and developers define what software is to be built, what
+  functionalities it will have, and what constraints it will have
 * **Software development**
   * The stage in which the software is made.
 * **Software validation**
@@ -96,9 +100,10 @@ must include four fundamental acitivies (textbook pg. 23):
 * **Software evolution**
   * The stage where software is maintained in order to meet future changes in its requirements and specification
 
-During the softare process, there are four issues taht may affect what type of software you produce (textbook pg. 24):
+During the softare process, there are four issues that may affect what type of software you produce (textbook pg. 24):
 
 * **Heterogeniety**
+  * Can the software run as a Windows app, a Web app, and a phone app?
 * **Business and social change**
 * **Security and trust**
 * **Scale**
