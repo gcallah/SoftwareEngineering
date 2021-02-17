@@ -15,8 +15,9 @@
 ### Lectures:
 
 - [What Is Software Engineering?](https://github.com/gcallah/SoftwareEngineering/blob/master/notebooks/WhatIsSE.ipynb)
-- [Software Engineering, Chapter
-1](https://github.com/gcallah/SoftwareEngineering/blob/master/md/chap1.md)
+- [Introduction](https://github.com/gcallah/SoftwareEngineering/blob/master/md/chap1.md)
+- [Software Process Models](https://github.com/gcallah/SoftwareEngineering/blob/master/md/chap2.md)
+- [Agile Project Management](https://github.com/gcallah/SoftwareEngineering/blob/master/md/chap3.md)
 
 </body>
 </html>

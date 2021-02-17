@@ -1,5 +1,10 @@
 # Chapter 1: Introduction
 
+## Videos
+
+[The textbook author's videos are
+here.](https://iansommerville.com/software-engineering-book/videos/se/)
+
 ## Preface 
 
 You might be wondering, why should I study software engineering? Walk down the
