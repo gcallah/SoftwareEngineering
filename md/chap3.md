@@ -68,23 +68,15 @@ Agile methods work best in these scenarios because the software created generall
 
 ### Extreme Programming 
 
-![Plan-based vs Agile](../images/chap/3.3_XP.png)
+![XP release cycle](../images/chap/3.3_XP.png)
 
 Extreme Programming, also known as XP programming, is as what is sounds; agile methodologies are taken to an "extreme" level. The goal of this development technique was to create several increments within a day and be able to test them. 
 
 Instead of creating a document regarding requirement specifications, scenarios known as user stories are used instead. Pair programming is conducted, and tests are created before the code is written. All tests must be passed successfully for the tested code to be added to the system. 
 
 Extreme programming includes the following practices:
-* Collective ownership
-* Continuous integration 
-* Incremental planning
-* On-site customer
-* Pair programming 
-* Refactoring
-* Simple design
-* Small releases 
-* Sustainable pace 
-* Test-first development 
+
+![XP practices](../images/chap/3.4_XP_definitions.png)
 
 Because of this long list of practices, generally not XP practices can be implemented for a project. Because of this, only a select few are used during development depending on their usefulness. 
 
@@ -176,6 +168,8 @@ approaches that can be used in tangent with agile methods to help with
 incremental development to limit overhead caused by documentation. 
 
 ### Scrum
+
+![XP practices](../images/chap/3.8_scrum.png)
 
 Scrum is an agile approach that focuses on the management and organization of iterative development. There are three main phases in Scrum:
 * Initial Phase
