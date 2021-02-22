@@ -138,9 +138,9 @@ this difference will be explained in a later section.
 
 The requirements engineering process is composed of three main stages (textbook pg 55):
 * **Requirements elicitation and analysis**
-  * This stage involves discussing the setting in which the system will be used (who are the users, what environment/hardware will they be using, etc.), and what functionalities and other such requirements will it need.
+  * This stage involves discussing the setting in which the system will be used (who are the users, what environment/hardware will they be using, etc.), and what functions and other such requirements will it need.
 * **Requirements specification**
-  * This stage is writing the information discussed in the prior step into two actual documents: user requirements and system requirements. User requirements are what functionalities and systems users want. System requirements are descriptions of the functionalities that are more descriptive so developers can understand what is needed. 
+  * This stage is writing the information discussed in the prior step into two actual documents: user requirements and system requirements. User requirements are what functions and systems users want. System requirements are descriptions of the functions that are more detailed so developers can understand more of what is needed. 
 * **Requirements validation**
   * This stage involves checking over the documentation and fixing any errors. Errors can also include whether requirements are realistic and complete. 
 
