@@ -115,8 +115,7 @@ Examples of when this model is used for is for (textbook pg. 52):
 
 Benefits | Cons
 ------------ | -------------
-Because less new software is made, development costs are lowered| Reusing code instead of creating from scratch 
-may mean that those reused codes may not work with future additions of features. 
+Because less new software is made, development costs are lowered| Reusing code instead of creating from scratch may mean that those reused codes may not work with future additions of features. 
 Faster deployment of software | May have to worry about licensing of borrowed code which may increase the cost
 
 ## 2.2 Process activities
@@ -140,7 +139,7 @@ The requirements engineering process is composed of three main stages (textbook 
 * **Requirements elicitation and analysis**
   * This stage involves discussing the setting in which the system will be used (who are the users, what environment/hardware will they be using, etc.), and what functions and other such requirements will it need.
 * **Requirements specification**
-  * This stage is writing the information discussed in the prior step into two actual documents: user requirements and system requirements. User requirements are what functions and systems users want. System requirements are descriptions of the functions that are more detailed so developers can understand more of what is needed. 
+  * This stage is writing the information discussed in the prior step into two actual documents: user requirements and system requirements. User requirements are what functions and systems users want. System requirements are descriptions of the functions that are more detailed, generally containing terminology more relevant for developers so they can have a better understand of what is needed. 
 * **Requirements validation**
   * This stage involves checking over the documentation and fixing any errors. Errors can also include whether requirements are realistic and complete. 
 
