@@ -38,7 +38,7 @@ As seen in the image above, the waterfall model has 5 main stages (textbook pg.4
 * **Requirements definition**
   * The system's components, goals, functionalities, services, and constraints will be determined and written in detail in the documentation. This documentation will be known as the system specification. 
 * **System and software design**
-  * Determine if the requirement is either part of the hardware and software 
+  * Determine the overall system architecture
 * **Implementation and unit testing**
   * This stage involves breaking down the software design into components and verifying whether the components address requirement specifications 
 * **Integration and system testing**
