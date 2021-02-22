@@ -1,5 +1,10 @@
 # Chapter 2 Software processes
 
+## Videos
+
+[The textbook author's videos are
+here.](https://iansommerville.com/software-engineering-book/videos/se/)
+
 ## Preface 
 
 The software process is a set of activities used to create a software system. 
