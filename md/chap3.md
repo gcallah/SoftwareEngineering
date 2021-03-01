@@ -108,15 +108,14 @@ Problems of user stories include:
 ### Refactoring 
 
 Extreme programming believes that you should not design systems to cope with
-change. Instead, code should be refactored/improved constantly. Refactoring
+change because often times anticipated changes may not occur or a completely different change occurs. Instead, code should be refactored, or in other words improved, constantly. Refactoring
 includes renaming names of methods and attributes, removing duplicate code to
 reorganize class hierarchies and relationships, replacing code that is similar
 to each other, etc. The objective of doing this is to make developers
 understand the software more which would lead to less of a need for
 documentation due to the code being easier to understand and structured well.
 
-Problems of refactoring include:
-* 
+However, refactoring is not always possible as developmental pressures may occur and push for new features to be implented instead of refacotring old code. Refactoring system archiectures are also extremely expensive. 
 
 ### Test-first Development
 
