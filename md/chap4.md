@@ -325,9 +325,9 @@ requirements are expensive so it is better to be able to fix the error before th
 
 Five potential problems of requirements that can be checked for in the requirements validation phase include:
 * **Validity**
-  *, Do the functions added address what stakeholders require?
+  *Do the functions added address what stakeholders require?
 * **Consistency**
-  *, Do any requirements conflict with each other?
+  *Do any requirements conflict with each other?
 * **Completeness**
   * Are all the requirements from stakeholders addressed in the system?
 * **Realism**
