@@ -75,10 +75,8 @@ functional requirement as being able to search for all open appointments for eve
 developers may interpret this as the users should first pick a clinic then 
 see every available appointment for that specific clinic. 
 
-![Readers of requirement specifications](../images/chap/4.2_readers_of_requirements.png)
 
 ### Non-functional requirements
-
 
 Non-functional requirements focus on the constraints on the functionality of the 
 system as a whole rather than individual components. This may include what times 
@@ -89,6 +87,10 @@ project as well as what IDE is mandatory. You can see non-functional requirement
 being more vital than functional requirements as if the non-functional requirements are not met, 
 the system will not function and may be useless as the functionalities of the system cannot be used. 
 
+![non-functional requirements](../images/chap/4.4_non_functional.png)
+
+
+
 Implementing non-functional requirements is difficult for three reasons:
 * Non-functional requirements can affect system architectures 
 * Non-functional requirements might cause the need for new functional requirements. They can also create requirements that restrict pre-existing requirements. 
@@ -96,7 +98,9 @@ Implementing non-functional requirements is difficult for three reasons:
 * Non-functional requirements should be measurable. 
   * For example, stakeholders can impose goals such as being easy to use or fast user response. Developers will need to be able to judge these qualities with numbers to make sure they reach those requirements.
 
- 
+Figure 4.5 shows show ways of measuring specific properties:
+
+![Metrics](../images/chap/4.5_metrics.png)
 
 Figure 4.3 categorizes non-functional requirements into 3 types:
 * **Product requirements**
@@ -134,8 +138,6 @@ the type of system being developed, and other such factors. After this process
 is completed, a system requirement document is formed. 
 
 ## 4.3 Requirements elicitation
-
-![Requirements Elicitation Process](../images/chap/4.7_requirements_elicitation.png)
 
 Requirement elicitation is the stage where requirements are discovered. 
 This process focuses on understanding what stakeholders do and how they may 
@@ -218,6 +220,8 @@ what types of systems have they interacted with. Because they are practical
 and real-life accounts of how people use the product, stakeholders tend to be 
 able to relate to them and can add their own opinions more easily. 
 
+![user story](../images/chap/4.9_user_story.png)
+
 Stories generally are written as a narrative and have a higher-level description 
 of how the system is used. In contrast, scenarios are a more structured form 
 of user stories that can be broken into 5 main parts:
@@ -226,6 +230,8 @@ of user stories that can be broken into 5 main parts:
 * Description of errors that can occur 
 * Information about anything that is happening at the same time
 * Description of the end state when the event ends 
+
+![user scenario](../images/chap/4.10_scenario.png)
 
 In other words, you can think of scenarios as a more "filtered" version of a 
 story where it removes any unnecessary information contained in a story and groups them into the 5 general steps. 
@@ -241,6 +247,7 @@ understand the document. System requirements include more technical terminology.
 
 ### Notations for writing system requirements 
 
+![notation](../images/chap/4.11_notations.png)
 
 ### Natural language specification
 
@@ -262,6 +269,8 @@ Problems of natural language include:
 * Functional and non-functional requirements can be mixed  
 * Several requirements may be expressed together and be difficult to separate into individual requirements
 
+![Written Requirements](../images/chap/4.12_written_requirements.png)
+
 ### Structured specifications
 
 Structured specification involves writing system requirements in a standard way. 
@@ -279,8 +288,12 @@ For example, an example template would be:
 This works best where requirements have a strict structure or have a 
 complete understanding of the component. 
 
+![Structured](../images/chap/4.13_structured.png)
+
 Tables are a useful way to visualize how components should react, especially 
 if different actions can be taken depending on a condition.
+
+![table](../images/chap/4.14_table.png)
 
 ### Use cases 
 Use cases describe the interaction between users and systems using the graphical 
@@ -315,6 +328,8 @@ Information contained with this document depends on the type of system
 that is to be created as well as what development model is used. This document can 
 also be influenced by any type of standard, such as the IEEE standard. 
 Figure 4.17 shows a possible structure and outline of the document.
+
+![SRD](../images/chap/4.17_SRD.png)
 
 ## 4.5 Requirements validation
 
