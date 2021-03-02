@@ -32,7 +32,8 @@ Figure 4.1 shows an example of the difference between user and system requiremen
 
 ![User and system requirements for Mentcare](../images/chap/4.1_requirements.png)
 
-Figure 4.2 outlines potential readers of requirement documents.
+Figure 4.2 outlines potential readers of requirement documents. 
+
 ![Readers of requirement specifications](../images/chap/4.2_readers_of_requirements.png)
 
 ### What are stakeholders
