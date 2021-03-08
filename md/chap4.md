@@ -1,6 +1,11 @@
 # Chapter 4 Requirements engineering
 
 
+## Videos
+
+[Requirments engineering videos from the textbook
+author.](https://iansommerville.com/software-engineering-book/videos/req/)
+
 ## Preface
 
 
