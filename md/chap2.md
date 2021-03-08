@@ -38,7 +38,7 @@ As seen in the image above, the waterfall model has 5 main stages (textbook pg.4
 * **Requirements definition**
   * The system's components, goals, functionalities, services, and constraints will be determined and written in detail in the documentation. This documentation will be known as the system specification. 
 * **System and software design**
-  * Determine if the requirement is either part of the hardware and software 
+  * Determine the overall system architecture
 * **Implementation and unit testing**
   * This stage involves breaking down the software design into components and verifying whether the components address requirement specifications 
 * **Integration and system testing**
@@ -87,8 +87,8 @@ Incremental development has three main benefits:
 * With faster delivery, customers can comment on the product earlier.
 
 Incremental development has two main drawbacks:
-* The process is not visible as multiple versions of the product may be happening at the same time and there may not be one "main" version. It will also cost a lot to create a lot of versions of the product.
-* Adding multiple changes may degrade the original system structure as code must be refactored to better optimize it or maybe everything works with the new changes. Think of this as the Telephone Game. In this game there are multiple people lined up; on one end, one person tells the person adjacent to him a message.  This person must repeat the message to the other person who is adjacent to him until the message goes down the line to the last person on the opposite end but each person cannot ask the prior person to repeat the message. Each person could alter the message until when the final person receives the message, that message may be completely different and may not make sense in the end. Similarly, every added change to the software would require the development team to make sure the original features still work and the new features were integrated properly into the prior version to create the new version.
+* The process is not visible as multiple versions of the product may be happening at the same time and there may not be one "main" version. It will also cost a lot to create a lot of versions of the product. [**Note from Professor Callahan**: This "drawback" is nonsense: a principle of Agile is *make work visible*. It is the Waterfall Model that hides the work.]
+* Adding multiple changes may degrade the original system structure as code must be refactored to better optimize it. Think of this as the Telephone Game. In this game there are multiple people lined up; on one end, one person tells the person adjacent to him a message.  This person must repeat the message to the other person who is adjacent to him until the message goes down the line to the last person on the opposite end but each person cannot ask the prior person to repeat the message. Each person could alter the message until when the final person receives the message, that message may be completely different and may not make sense in the end. Similarly, every added change to the software would require the development team to make sure the original features still work and the new features were integrated properly into the prior version to create the new version.
 
 ### Intergration and configuration
 
@@ -115,8 +115,7 @@ Examples of when this model is used for is for (textbook pg. 52):
 
 Benefits | Cons
 ------------ | -------------
-Because less new software is made, development costs are lowered| Reusing code instead of creating from scratch 
-may mean that those reused codes may not work with future additions of features. 
+Because less new software is made, development costs are lowered| Reusing code instead of creating from scratch may mean that those reused codes may not work with future additions of features. 
 Faster deployment of software | May have to worry about licensing of borrowed code which may increase the cost
 
 ## 2.2 Process activities
@@ -138,9 +137,9 @@ this difference will be explained in a later section.
 
 The requirements engineering process is composed of three main stages (textbook pg 55):
 * **Requirements elicitation and analysis**
-  * This stage involves discussing the setting in which the system will be used (who are the users, what environment/hardware will they be using, etc.), and what functionalities and other such requirements will it need.
+  * This stage involves discussing the setting in which the system will be used (who are the users, what environment/hardware will they be using, etc.), and what functions and other such requirements will it need.
 * **Requirements specification**
-  * This stage is writing the information discussed in the prior step into two actual documents: user requirements and system requirements. User requirements are what functionalities and systems users want. System requirements are descriptions of the functionalities that are more descriptive so developers can understand what is needed. 
+  * This stage is writing the information discussed in the prior step into two actual documents: user requirements and system requirements. User requirements are what functions and systems users want. System requirements are descriptions of the functions that are more detailed, generally containing terminology more relevant for developers so they can have a better understand of what is needed. 
 * **Requirements validation**
   * This stage involves checking over the documentation and fixing any errors. Errors can also include whether requirements are realistic and complete. 
 

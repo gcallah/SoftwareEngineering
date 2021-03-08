@@ -68,23 +68,15 @@ Agile methods work best in these scenarios because the software created generall
 
 ### Extreme Programming 
 
-![Plan-based vs Agile](../images/chap/3.3_XP.png)
+![XP release cycle](../images/chap/3.3_XP.png)
 
 Extreme Programming, also known as XP programming, is as what is sounds; agile methodologies are taken to an "extreme" level. The goal of this development technique was to create several increments within a day and be able to test them. 
 
 Instead of creating a document regarding requirement specifications, scenarios known as user stories are used instead. Pair programming is conducted, and tests are created before the code is written. All tests must be passed successfully for the tested code to be added to the system. 
 
 Extreme programming includes the following practices:
-* Collective ownership
-* Continuous integration 
-* Incremental planning
-* On-site customer
-* Pair programming 
-* Refactoring
-* Simple design
-* Small releases 
-* Sustainable pace 
-* Test-first development 
+
+![XP practices](../images/chap/3.4_XP_definitions.png)
 
 Because of this long list of practices, generally not XP practices can be implemented for a project. Because of this, only a select few are used during development depending on their usefulness. 
 
@@ -116,15 +108,14 @@ Problems of user stories include:
 ### Refactoring 
 
 Extreme programming believes that you should not design systems to cope with
-change. Instead, code should be refactored/improved constantly. Refactoring
+change because often times anticipated changes may not occur or a completely different change occurs. Instead, code should be refactored, or in other words improved, constantly. Refactoring
 includes renaming names of methods and attributes, removing duplicate code to
 reorganize class hierarchies and relationships, replacing code that is similar
 to each other, etc. The objective of doing this is to make developers
 understand the software more which would lead to less of a need for
 documentation due to the code being easier to understand and structured well.
 
-Problems of refactoring include:
-* 
+However, refactoring is not always possible as developmental pressures may occur and push for new features to be implented instead of refacotring old code. Refactoring system archiectures are also extremely expensive. 
 
 ### Test-first Development
 
@@ -176,6 +167,8 @@ approaches that can be used in tangent with agile methods to help with
 incremental development to limit overhead caused by documentation. 
 
 ### Scrum
+
+![XP practices](../images/chap/3.8_scrum.png)
 
 Scrum is an agile approach that focuses on the management and organization of iterative development. There are three main phases in Scrum:
 * Initial Phase
