@@ -52,6 +52,8 @@ current system is used in.
 
 Figure 5.1 shows an example context model. 
 
+![Context Model](../images/chap/5.1_context.png)
+
 Notice how the context model only shows the environment that the system will be 
 used in. The context model does not tell developers how the system should be 
 developed and how it is used by the other systems. In other words, context models 
@@ -64,6 +66,8 @@ these specific actions in their relationship will be outlined in other diagrams 
 
 UML activity diagrams show the order in which actions are taken within a single 
 process and how the data is processed. Figure 5.2 is an example of a UML activity model. 
+
+![Process Model](../images/chap/5.2_process.png)
 
 The starts of processes are indicated by a filled circle and the end of a process 
 is indicated by a filled circle surrounded by another circle. Rounded rectangles 
@@ -83,9 +87,17 @@ As you can see in figure 5.2, you can add what systems are used in the process.
 
 ### Use case modeling
 
+![Transfer-data use case](../images/chap/5.3_transfer.png)
+
+![Tabular description](../images/chap/5.4_table.png)
+
+![Use case](../images/chap/5.5_use_case.png)
 
 ### Sequence diagrams
 
+![Sequence diagram](../images/chap/5.6_sequence.png)
+
+![Sequence diagram v2](../images/chap/5.7_sequence.png)
 
 ## 5.3 Structural models
 
@@ -100,6 +112,10 @@ these digrams are necessary to show relationships between classes. The term "obj
 is used to represent one object/component within the system and the term "association" 
 represents a relationship or link between such object classes. 
 
+![Class diagram](../images/chap/5.8_class.png)
+
+![Class diagram v2](../images/chap/5.9_class.png)
+
 Figure 5.8 and 5.9 are examples of class diagrams. The numbers above the lines denote 
 the cardinality between both objects. For example, the relationship between Patient 
 and Consultant in Figure 5.9 is as follow:
@@ -109,6 +125,8 @@ and Consultant in Figure 5.9 is as follow:
 Figure 5.10 uses UML to show the attributes and operations a class can do. In this class 
 diagram, the top rectangle contains the name of the object, the middle rectangle contains 
 class attributes, and the bottom-most rectangle contains the operations/methods of the class. 
+
+![Class box](../images/chap/5.10_class.png)
 
 ### Generalization
 
@@ -120,13 +138,19 @@ Figure 5.11 shows an example of a generalization hierarchy. Arrows point upwards
 the more general class. Lower-level classes inherit attributes and operations 
 found in higher-level classes that they point to (in other words their superclasses). 
 
+![Generalization](../images/chap/5.11_generalization.png)
+
 Figure 5.12 shows a generalization hierarchy but with added details. 
+
+![Generalization](../images/chap/5.12_generalization.png)
 
 ### Aggregation
 
 Aggregation models show how classes may be composed of other classes. 
 
 Figure 5.13 is an example of an aggregation model. 
+
+![Aggregation](../images/chap/5.13_aggregation.png)
 
 ## 5.4 Behavioral models
 
@@ -142,8 +166,12 @@ Data-driven models show what steps are taken to process input data and their cor
 Figure 5.14 is a simple activity diagram that shows the activities taken as 
 rounded rectangles and the data that is processed and/or outputted as rectangles. 
 
+![Activity model](../images/chap/5.14_activity.png)
+
 Figure 5.15 is an alternative using a sequence model. These models highlight 
 the objects in the system and what actions they can do.  
+
+![Activity model v2](../images/chap/5.15_order.png)
 
 ### Event-driven modeling
 
@@ -155,12 +183,18 @@ State Machine Models are an example of event-driven modeling; each node is a
 state whereas the arcs/lines connecting such nodes represent events. 
 Figure 5.16 is an example of state machine models. 
 
+![State model](../images/chap/5.16_state.png)
+
 One flaw of state machine models is that there may be too many states to keep track of. 
 To encapsulate such data so it visually makes more sense, designers may group states 
 into a "superstate". Figure 5.17 shows an example of a superstate. 
 
+![Superstate](../images/chap/5.17_state.png)
+
 State models can also be supplemented with a table to describe each state and what 
 causes the changes between states; figure 5.18 shows an example of the table. 
+
+![table](../images/chap/5.18_table.png)
 
 ### Model-driven engineering
 
@@ -192,8 +226,12 @@ showing three levels of abstraction through three such models:
 * **Platform Specific Models (PSM)**
   * These show how PIMs are transformed for different application platforms. Figure 5.20 shows examples of such transformation.  
 
+![transformation](../images/chap/5.20_model.png)
+
 MDA has similar fundamentals to MDE where models can be created and eventually 
 implemented automatically by the software. Figure 5.19 shows this level of transformation. 
+
+![MDA](../images/chap/5.19_MDA.png)
 
 However like MDE, in practice, this level of transformation will most likely not 
 be possible as it is often too complex to implement due to how.
