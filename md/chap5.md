@@ -127,7 +127,7 @@ The sequence of interactions is read from top to bottom. Actors are shown
 on the top of the diagram as rectangles with vertical dotted lines under them. 
 Annotated arrows represent the specific interactions between objects; 
 these annotations should show what function call is used, its parameters, 
-and its return values. . Rectangles on the dotted line represent how long the 
+and its return values. Rectangles on the dotted line represent how long the 
 object is used in the interaction.
  
 Figures 5.6 and 5.7 are example sequence diagrams.
