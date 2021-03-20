@@ -1,5 +1,10 @@
 # Chapter 5 System modeling
  
+### Videos
+
+System modeling videos [can be found
+here](https://iansommerville.com/software-engineering-book/videos/req/)
+
 ## Preface
  
 ### What is system modeling
