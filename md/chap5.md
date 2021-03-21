@@ -249,17 +249,17 @@ Cons of this approach include:
 This approach is still being developed and the scopes of its effects on the
 development process are not understood well enough yet. 
  
-## 5.5 model-driven architecture
+## 5.5 Model-driven architecture
  
 Model-Driven Architecture (MDA) is the precursor to MDE and focuses on creating UML
 models to represent a system from different levels of abstraction. MDA recommends
 showing three levels of abstraction through three such models:
 * **Computation Independent Model (CIM)**
- * These model domain (for example security, patient records, etc.) abstractions
+  * These model domain (for example security, patient records, etc.) abstractions
 * **Platform Independent Model (PIM)**
- * These model how systems will operate and show how the system responds to events
+  * These model how systems will operate and show how the system responds to events
 * **Platform Specific Models (PSM)**
- * These show how PIMs are transformed for different application platforms. Figure 5.20 shows examples of such transformation. 
+  * These show how PIMs are transformed for different application platforms. Figure 5.20 shows examples of such transformation. 
  
 ![Transformation](../images/chap/5.20_model.png)
  

@@ -164,6 +164,8 @@ information in remote "clouds".
 
 ### Example professional responsibilities
 
+![Ethics](../images/chap/1.3_ethics.png)
+
 Similar to how other engineering or science disciplines have an ethics code, 
 software engineering has the same. Such responsibilities include (textbook pg. 28-29):
 * **Confidentiality**

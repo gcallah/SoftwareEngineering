@@ -23,11 +23,11 @@ instead, it will use a mixture of some elements from each model.
 ## 2.1 Software process models
 
 The three generic software processes are:
-* **the waterfall model**
+* **The waterfall model**
   * Model in which the fundamental activities are in separate phases
-* **incremental development**
+* **Incremental development**
   * Model in which fundamental activities are done at the same time; the system is developed in multiple iterations with each new version building upon the prior
-* **integration and configuration**
+* **Integration and configuration**
   * Model in which old/already-existing components are used and added to the current version
 
 ### Waterfall model
@@ -44,7 +44,7 @@ As seen in the image above, the waterfall model has 5 main stages (textbook pg.4
 * **Integration and system testing**
   * Every component is combined to form a single system and is tested to see if they components mesh well with each other. 
 * **Operation and maintenance**
-  * The system is shipped out and maintenance (improving the system and fixing any bugs that were not discovered earlier).
+  * The system is shipped out and maintenance (improving the system and fixing any bugs that were not discovered earlier.
 
 The waterfall model is a straight forward model where the 
 software process follows a linear pattern; 
@@ -164,14 +164,10 @@ of what the system will require and what functionalities the clients want in the
 Data descriptions are what datasets the product might rely on.
 
 After taken into consideration the inputs, developers will then consider four designs to make (textbook pg 57): 
-* **Architectural design**
-  * This design involves the system structure and the relationship between any components or subsystems of the structure.
-* **Database design**
-  * This design involves how data is represented in the database. 
-* **Interface design**
-  * This design involves UI (user interface) for components and how information may be sent from one component to another component. 
-* **Component selection and design**
-  * This design involves reusable and new components and descriptions of such. These are usually drawn in UML diagrams. 
+* **Architectural design**: involves the system structure and the relationship between any components or subsystems of the structure.
+* **Database design**: involves how data is represented in the database. 
+* **Interface design**: involves UI (user interface) for components and how information may be sent from one component to another component. 
+* **Component selection and design**: involves reusable and new components and descriptions of such. These are usually drawn in UML diagrams. 
 
 ### Software validation
 
@@ -284,12 +280,9 @@ Two approaches to improvement include:
 ![Process improvement](../images/chap/2.11_process_improvement_cycle.png)
 
 In general, the process improvement model is a cyclical process with three stages:
-* **Process measurement**
-  * This stage involves examining activities or components of the software process or product respectively by taking quantitative data on these parts. 
-* **Process analysis**
-  * This stage involves analyzing the quantitative data produced in the prior stage and possibly creating models or charts from the data to see where weaknesses may lie in which sectors of the software process. 
-* **Process change**
-  * This stage involves addressing and solving the problems found in the first 2 stages. 
+* **Process measurement**: involves examining activities or components of the software process or product respectively by taking quantitative data on these parts. 
+* **Process analysis**: involves analyzing the quantitative data produced in the prior stage and possibly creating models or charts from the data to see where weaknesses may lie in which sectors of the software process. 
+* **Process change**: involves addressing and solving the problems found in the first 2 stages. 
 
 ### The Software Engineering Institute (SEI) Model of Process Capability Maturity
 

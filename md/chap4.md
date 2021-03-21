@@ -44,7 +44,7 @@ Figure 4.2 outlines potential readers of requirement documents.
 
 ### What are stakeholders
 
-Figure 4.2 are examples of what are system stakeholders; a stakeholder is 
+Figure 4.2 shows examples of what are **system stakeholders**; a stakeholder is 
 any organization or person that is interested in the product, whether they 
 want to buy the product or are affected by it in any way. 
 
@@ -108,12 +108,9 @@ Figure 4.5 shows show ways of measuring specific properties:
 ![Metrics](../images/chap/4.5_metrics.png)
 
 Figure 4.3 categorizes non-functional requirements into 3 types:
-* **Product requirements**
-  * These include how the product should behave in terms of speed, reliability, etc. 
-* **Organizational requirements**
-  * These include policies or steps outlined by the higher organization, such as standards in process, implementation requirements, etc. 
-* **External requirements**
-  * These include factors outside of the control of the system and developers, such as laws, regulation approval, interoperability, etc.
+* **Product requirements**: include how the product should behave in terms of speed, reliability, etc. 
+* **Organizational requirements**: include policies or steps outlined by the higher organization, such as standards in process, implementation requirements, etc. 
+* **External requirements**: include factors outside of the control of the system and developers, such as laws, regulation approval, interoperability, etc.
 
 ![Non-functional requirement examples](../images/chap/4.3_nonfunctional.png)
 

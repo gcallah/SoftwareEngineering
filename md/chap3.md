@@ -28,7 +28,7 @@ Every agile method share these characteristics:
 
 The image above outlines how plan-driven processes and agile development are
 different. Plan-driven processes have their iterations within separate stages.
-DOcumentation is then created to move to the next stage. However, in the agile
+Documentation is then created to move to the next stage. However, in the agile
 approach, the activities requirements and implementation are done at the same
 time.
 
@@ -130,11 +130,12 @@ Refactoring system archiectures are also extremely expensive.
 ### Test-first Development
 
 ![Test Cases](../images/chap/3.7_test_case.png)
-Extreme Programming included new ideas of testing. FOur key principles of testing 
+
+Extreme Programming included new ideas of testing. Four key principles of testing 
 in extreme programming are (textbook pg 81):
-* test-first development / test-driven development 
-* incremental test development from scenarios
-* user involvement in the test development and validation
+* Test-first development / test-driven development 
+* Incremental test development from scenarios
+* User involvement in the test development and validation
 * Automated testing frameworks 
 
 In test-first development/test-driven development, tests are written first
@@ -183,12 +184,9 @@ incremental development to limit overhead caused by documentation.
 
 Scrum is an agile approach that focuses on the management and organization 
 of iterative development. There are three main phases in Scrum:
-* **Initial Phase**
-  * The project begins by outlining objectives for the project and a rough design of the software architecture. 
-* **Sprint Cycles**
-  * This phase is the incremental portion of development; each cycle will develop an increment of the project.
-* **Closure phase**
-  * This phase involves wrapping up the project and completing any documentation that is required 
+* **Initial Phase**: begin by outlining objectives for the project and a rough design of the software architecture. 
+* **Sprint Cycles**: are the incremental portion of development; each cycle will develop an increment of the project.
+* **Closure phase**: involves wrapping up the project and completing any documentation that is required 
 
 ![Scrum Sprints](../images/chap/3.9_Scrum_Sprint.png)
 
