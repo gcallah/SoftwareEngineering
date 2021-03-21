@@ -22,7 +22,7 @@ it will not tell you the lower-level details on how the system works but will
 tell you the high-level functionalities so the model is easier to understand.
  
 Example of models that you might create include (textbook pg. 139):
-* An external perspective where you model the environment that the system will be located at and any context in which the system will be used for
+* An external perspective where you model the environment (such as other systems or software) that may interact with the system you are working on
 * An interaction perspective where you show the interactions between the system and its environment and/or the interactions between components within the system
 * A structural perspective where you show how data is pipelined and processed by the system and the hierarchy of components (and any other such organization) of the system
 * A behavioral perspective where you show how the system will respond given certain inputs
@@ -30,23 +30,18 @@ Example of models that you might create include (textbook pg. 139):
 ### Graphical model usage
  
 There are three main reasons why graphical models are used:
-* can help create discussion about the system and aid in deciding which components should be focused on
+* Can help create discussion about the system and aid in deciding which components should be focused on
 * Can be used as further documentation about the system
-* can help aid in implementing system features as they generalize what portions of code should be created
+* Can help aid in implementing system features as they generalize what portions of code should be created
  
 UML has 13 different types of diagrams; however, we will focus on only 5 of
 them as these 5 are the most commonly used diagrams and generally represent
 what parts are needed by the system. These diagrams are (textbook pg 141):
-* Activity diagrams
- * shows what steps are taken to process data
-* Use case diagrams
- * shows interactions between the environment/context and the system
-* Sequence diagrams
- * shows interactions between the actors/users and system components
-* Class diagrams
- * shows relationships between object classes
-* State diagrams
- * shows how the system will react to internal and external events
+* **Activity diagrams**:  shows what steps are taken to process data
+* **Use case diagrams**: shows interactions between the environment/context and the system
+* **Sequence diagrams**: shows interactions between the actors/users and system components
+* **Class diagrams**: shows relationships between object classes
+* **State diagrams**: shows how the system will react to internal and external events
  
 ## 5.1 Context models
  
@@ -97,10 +92,8 @@ Modeling these interactions is important as they identify potential problems and
 such as whether or not the system meets stakeholders' requirements.
  
 In this section we will discuss two methods of interaction modeling:
-* Use case modeling
-   * shows user-system or system-system interactions (in other words interactions between the system and outside forces)
-* Sequence diagrams
-   * shows interactions between system components
+* **Use case modeling**: shows user-system or system-system interactions (in other words interactions between the system and outside forces)
+* **Sequence diagrams**: shows interactions between system components
  
  
 ### Use case modeling
@@ -236,7 +229,7 @@ into a "superstate". Figure 5.17 shows an example of a superstate.
 State models can also be supplemented with a table to describe each state and what
 causes the changes between states; figure 5.18 shows an example of the table.
  
-![table](../images/chap/5.18_table.png)
+![Table](../images/chap/5.18_table.png)
  
 ### Model-driven engineering
  
@@ -268,7 +261,7 @@ showing three levels of abstraction through three such models:
 * **Platform Specific Models (PSM)**
  * These show how PIMs are transformed for different application platforms. Figure 5.20 shows examples of such transformation. 
  
-![transformation](../images/chap/5.20_model.png)
+![Transformation](../images/chap/5.20_model.png)
  
 MDA has similar fundamentals to MDE where models can be created and eventually
 implemented automatically by the software. Figure 5.19 shows this level of transformation.
@@ -282,7 +275,7 @@ be possible as it is often too complex to implement due to how.
  
 The textbook outlines 4 other problems of MDA (textbook pg 161 - 162):
 * Abstraction good for discussions does not necessarily mean that they are also good for implementation.
-* requirements engineering, security and dependability, integration with older/legacy systems, and testing are more important than implementation.
+* Requirements engineering, security and dependability, integration with older/legacy systems, and testing are more important than implementation.
 * Savings produced from MDA will be outweighed by the costs of creating/using tools needed for MDA for standard platforms (Windows, Linux, etc.)
 * Agile methods are adopted more widely than when MDA methods were being developed and refined.
  

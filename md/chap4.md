@@ -70,10 +70,8 @@ Functional requirements should be precise to have few, if none, imprecisions as
 developers and stakeholders may understand terminology differently. 
 
 Requirements should be 
-* **Complete**
-  * include descriptions of every required service 
-* **Consistent**
-  * there are no contradictions or differences in descriptions for the system services. 
+* **Complete**: include descriptions of every required service 
+* **Consistent**: there are no contradictions or differences in descriptions for the system services. 
 
 In other words, ambiguous requirements will be interpreted differently by 
 stakeholders and developers. Let us take the first functional requirement in 
@@ -319,7 +317,7 @@ It is not a document to show the design but rather it tells you WHAT the system 
 instead of HOW to do it. 
 
 
-agile methods argue that because requirements change frequently, this 
+Agile methods argue that because requirements change frequently, this 
 documentation will become out of date quickly. Agile methods argue that 
 instead of creating such documentation, requirements should be addressed in increments of development. 
 
@@ -347,9 +345,9 @@ requirements are expensive so it is better to be able to fix the error before th
 
 Five potential problems of requirements that can be checked for in the requirements validation phase include:
 * **Validity**
-  *Do the functions added address what stakeholders require?
+  * Do the functions added address what stakeholders require?
 * **Consistency**
-  *Do any requirements conflict with each other?
+  * Do any requirements conflict with each other?
 * **Completeness**
   * Are all the requirements from stakeholders addressed in the system?
 * **Realism**
@@ -387,21 +385,21 @@ it is beneficial to track what connections (in other words how will it affect) a
 
 Below are four considerations are taken in when management requirements:
 * **Requirements identification**
-  * requirements must be able to be uniquely identified
+  * Requirements must be able to be uniquely identified
 * **Change Management Process**
   * These activities will check how much impact and how costly a change will be if it is implemented
 * **Traceability Policies**
   * These policies define relationships between each requirement as well as the system design
 * **Tool support**
-  * these are tools that can help record all the above data and aid in management. 
+  * These are tools that can help record all the above data and aid in management. 
 
 You will need tool support for the following:
-* **requirements storage**
+* **Requirements storage**
   * Requirement documentation will have to be accessible to everyone. 
-* **change management**
-  * tools can help track changes and how developers should respond to those changes
-* **traceability management**
-  * tools can help discovered relationships between requirements. 
+* **Change management**
+  * Tools can help track changes and how developers should respond to those changes
+* **Traceability management**
+  * Tools can help discovered relationships between requirements. 
 
 ### Requirements change management
 
@@ -412,6 +410,6 @@ There are three mainstages to the change management process:
   * This is the preliminary step to check if the problem and solution/change is fully understood
 * **Change analysis and costing**
   * This step involves assessing the effect of the proposed change and a decision regarding whether the change will be implemented. 
-* **change implementation** 
+* **Change implementation** 
   * The change is implemented and any required documentation is done. 
 
