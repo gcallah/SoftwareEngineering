@@ -21,6 +21,9 @@
 - [Agile Project Management](https://github.com/gcallah/SoftwareEngineering/blob/master/md/chap3.md)
 - [Requirements Engineering](https://github.com/gcallah/SoftwareEngineering/blob/master/md/chap4.md)
 - [System Modeling](https://github.com/gcallah/SoftwareEngineering/blob/master/md/chap5.md)
+- [Architectural Design](https://github.com/gcallah/SoftwareEngineering/blob/master/md/chap6.md)
+- [Design and Implementation](https://github.com/gcallah/SoftwareEngineering/blob/master/md/chap7.md)
+- [Software Testing](https://github.com/gcallah/SoftwareEngineering/blob/master/md/chap8.md)
 
 </body>
 </html>
