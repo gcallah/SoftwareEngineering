@@ -28,7 +28,7 @@ Every agile method share these characteristics:
 
 The image above outlines how plan-driven processes and agile development are
 different. Plan-driven processes have their iterations within separate stages.
-DOcumentation is then created to move to the next stage. However, in the agile
+Documentation is then created to move to the next stage. However, in the agile
 approach, the activities requirements and implementation are done at the same
 time.
 
@@ -43,23 +43,23 @@ the other approach.
 
 The agile manifesto is a collection of principles that 
 explain the reasoning behind the agile approach. These principles include: 
-* Customer involvement
+* **Customer involvement**
     * Stakeholders should give their input in all stages of the development process to show what components should be prioritized and give input that can be analyzed to evaluate the progress of every iteration. 
-* Embrace change
+* **Embrace change**
     * Change is inevitable therefore the system should be designed in such a way to relieve the potential stress caused by change. 
-* Incremental delivery
+* **Incremental delivery**
     * Software should be incrementally developed in small batches to test components and allow for feedback.
-* Maintain simplicity
+* **Maintain simplicity**
     * Systems should be simple where applicable.
-* People, not process
+* **People, not process**
     * People's skills should be recognized and used.
  
 ### Product Development and Custom System Development 
 
 Agile methods work best in two system development methodologies: 
-* Product-development 
+* **Product-development** 
     * This is when the software is small or medium-sized intended to be sold.
-* Custom-System development
+* **Custom-System development**
     * This occurs within an organization with few stakeholders and dedicated customers that can provide ample feedback. 
 
 Agile methods work best in these scenarios because the software created generally is not used to be integrated with other systems and there can be feedback provided about the software. 
@@ -70,15 +70,22 @@ Agile methods work best in these scenarios because the software created generall
 
 ![XP release cycle](../images/chap/3.3_XP.png)
 
-Extreme Programming, also known as XP programming, is as what is sounds; agile methodologies are taken to an "extreme" level. The goal of this development technique was to create several increments within a day and be able to test them. 
+Extreme Programming, also known as XP programming, is as what is sounds; 
+agile methodologies are taken to an "extreme" level. The goal of this development 
+technique was to create several increments within a day and be able to test them. 
 
-Instead of creating a document regarding requirement specifications, scenarios known as user stories are used instead. Pair programming is conducted, and tests are created before the code is written. All tests must be passed successfully for the tested code to be added to the system. 
+Instead of creating a document regarding requirement specifications, scenarios 
+known as user stories are used instead. Pair programming is conducted, and tests 
+are created before the code is written. All tests must be passed successfully for 
+the tested code to be added to the system. 
 
 Extreme programming includes the following practices:
 
 ![XP practices](../images/chap/3.4_XP_definitions.png)
 
-Because of this long list of practices, generally not XP practices can be implemented for a project. Because of this, only a select few are used during development depending on their usefulness. 
+Because of this long list of practices, generally not XP practices can be 
+implemented for a project. Because of this, only a select few are used during 
+development depending on their usefulness. 
 
 ### User Stories 
 
@@ -108,22 +115,27 @@ Problems of user stories include:
 ### Refactoring 
 
 Extreme programming believes that you should not design systems to cope with
-change because often times anticipated changes may not occur or a completely different change occurs. Instead, code should be refactored, or in other words improved, constantly. Refactoring
-includes renaming names of methods and attributes, removing duplicate code to
+change because often times anticipated changes may not occur or a completely 
+different change occurs. Instead, code should be refactored, or in other words improved, 
+constantly. Refactoringincludes renaming names of methods and attributes, removing duplicate code to
 reorganize class hierarchies and relationships, replacing code that is similar
 to each other, etc. The objective of doing this is to make developers
 understand the software more which would lead to less of a need for
 documentation due to the code being easier to understand and structured well.
 
-However, refactoring is not always possible as developmental pressures may occur and push for new features to be implented instead of refacotring old code. Refactoring system archiectures are also extremely expensive. 
+However, refactoring is not always possible as developmental pressures may 
+occur and push for new features to be implented instead of refacotring old code. 
+Refactoring system archiectures are also extremely expensive. 
 
 ### Test-first Development
 
 ![Test Cases](../images/chap/3.7_test_case.png)
-Extreme Programming included new ideas of testing. FOur key principles of testing in extreme programming are (textbook pg 81):
-* test-first development / test-driven development 
-* incremental test development from scenarios
-* user involvement in the test development and validation
+
+Extreme Programming included new ideas of testing. Four key principles of testing 
+in extreme programming are (textbook pg 81):
+* Test-first development / test-driven development 
+* Incremental test development from scenarios
+* User involvement in the test development and validation
 * Automated testing frameworks 
 
 In test-first development/test-driven development, tests are written first
@@ -170,13 +182,11 @@ incremental development to limit overhead caused by documentation.
 
 ![XP practices](../images/chap/3.8_scrum.png)
 
-Scrum is an agile approach that focuses on the management and organization of iterative development. There are three main phases in Scrum:
-* Initial Phase
-  * The project begins by outlining objectives for the project and a rough design of the software architecture. 
-* Sprint Cycles
-  * This phase is the incremental portion of development; each cycle will develop an increment of the project.
-* Closure phase 
-  * This phase involves wrapping up the project and completing any documentation that is required 
+Scrum is an agile approach that focuses on the management and organization 
+of iterative development. There are three main phases in Scrum:
+* **Initial Phase**: begin by outlining objectives for the project and a rough design of the software architecture. 
+* **Sprint Cycles**: are the incremental portion of development; each cycle will develop an increment of the project.
+* **Closure phase**: involves wrapping up the project and completing any documentation that is required 
 
 ![Scrum Sprints](../images/chap/3.9_Scrum_Sprint.png)
 
@@ -199,7 +209,8 @@ facilitate the organization of the sprint. They are tasked to arrange the daily
 Scrums, track what is being done and what is to be done, communicate with
 stakeholders and management, and other such organizational activities. 
 
-At the end of the sprint, the work will be reviewed and shown to stakeholders for any feedback to be used in the next sprint cycle. 
+At the end of the sprint, the work will be reviewed and shown to stakeholders 
+for any feedback to be used in the next sprint cycle. 
 
 Benefits of Scrum include:
 * Development is broken into multiple iterations that are manageable and understandable by all members. 
@@ -323,13 +334,13 @@ Approaches to scaling agile methods for larger systems  have 5 commonalities:
 ### Multi-team Scrum
 
 Scrum can be used for multi-team environments. Features of multi-team Scrum include:
-* Role replication
+* **Role replication**
   * Each team has a Product Owner and ScrumMaster
-* Product architects
+* **Product architects**
   * Each team has a member who is a product architect that will work with other architects to design and evolve the system architecture. 
-* Release alignment
+* **Release alignment**
   * Product releases for each team will match with each other so a complete system can be created
-* Scrum of Scrums 
+* **Scrum of Scrums** 
   * There are additional daily Scrums where each team has a representative that will meet to discuss progress. 
 
 ### Agile Methods acorss Organizations

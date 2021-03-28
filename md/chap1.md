@@ -106,7 +106,7 @@ During the software process, four issues may affect what type of software you pr
 * **Heterogeneity**
   * Can the software run as a Windows app, a Web app, and a phone app?
 * **Business and social change**
-  * * Economies grow and fall which determines the rate at which technology is developed.
+  * Economies grow and fall which determines the rate at which technology is developed.
 * **Security and trust**
   * Consumers should be able to trust their software as software may be related to our lives (ex. pacemakers)
 * **Scale**
@@ -163,6 +163,8 @@ information in remote "clouds".
 ## 1.2 Software engineering ethics
 
 ### Example professional responsibilities
+
+![Ethics](../images/chap/1.3_ethics.png)
 
 Similar to how other engineering or science disciplines have an ethics code, 
 software engineering has the same. Such responsibilities include (textbook pg. 28-29):

@@ -12,7 +12,7 @@
 
 # Software Engineering / Design Project
 
-### Topics:
+## Topics:
 
 - [The Twelve-Factor App](http://www.thedevopscourse.com/devops/twelve)
 - [What Is Software Engineering?](https://github.com/gcallah/SoftwareEngineering/blob/master/notebooks/WhatIsSE.ipynb)
