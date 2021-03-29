@@ -87,7 +87,7 @@ other systems in its environment, or interaction between the components of a sof
 system. User interaction modeling is important as it helps to identify user requirements.
 Modeling system-to-system interaction highlights the communication problems that
 may arise. Modeling component interaction helps us understand if a proposed system
-structure is likely to deliver the required system performance and dependability
+structure is likely to deliver the required system performance and dependability.
 Modeling these interactions is important as they identify potential problems and flaws that may occur, 
 such as whether or not the system meets stakeholders' requirements.
  
@@ -264,16 +264,16 @@ showing three levels of abstraction through three such models:
 ![Transformation](../images/chap/5.20_model.png)
  
 MDA has similar fundamentals to MDE where models can be created and eventually
-implemented automatically by the software. Figure 5.19 shows this level of transformation.
+implemented automatically by the software. Figure 5.19 shows this level of transformation. The difference between MDA and MDE is that MDA is focused on designing and implementing software whereas MDE is focused on every step in the software development process. For example, MDE would consider creating models for the requirements engineering phase whereas the requirements engineering process would not be a consideration in the MDA process. 
  
 ![MDA](../images/chap/5.19_MDA.png)
  
 However like MDE, in practice, this level of transformation will most likely not
-be possible as it is often too complex to implement due to how.
+be possible as it is often too complex to implement due to how. Creating these tools to translate models to code may also be not worth the effort as the tools will have to be maintained and if they create a contract between another company to develop the necessary tools, that company may go out of business in the future which leads to further problems. In other words, the potential cost-efffectiveness of the MDA approach may present future problems that cost more than the current cost-effectiveness 
  
 ### Problems of MDA
  
-The textbook outlines 4 other problems of MDA (textbook pg 161 - 162):
+The textbook outlines 4 other problems or reasons why MDA is not widely adopted(textbook pg 161 - 162):
 * Abstraction good for discussions does not necessarily mean that they are also good for implementation.
 * Requirements engineering, security and dependability, integration with older/legacy systems, and testing are more important than implementation.
 * Savings produced from MDA will be outweighed by the costs of creating/using tools needed for MDA for standard platforms (Windows, Linux, etc.)
