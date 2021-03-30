@@ -6,6 +6,8 @@ Architectural design involves understanding how the overall software system
 should be structured and organized. The end goal of this process is to show 
 how the system had main components with underlying relationships between each other. 
 
+![Packing Robot Control System](../images/chap/6.1_packing.png)
+
 Figure 6.1 is an example of system architecture. The diagram is an abstract 
 representation of a packing robot. Notice how there are five main components: 
 a vision component to see objects, an object identification system to see that 
@@ -61,6 +63,8 @@ The architectural design varies depending on what type of system you are
 creating, the background of the system architect, and what are the requirements. 
 Figure 6.2 shows some questions that system architects must consider. 
 
+![Decisions](../images/chap/6.2_decisions.png)
+
 An important aspect of architectural design is figuring out what parts of 
 architecture can be reused as systems in the same domain generally have similar 
 architectures. Architectural patterns/syles answer that question of reuse; they 
@@ -90,12 +94,14 @@ a basis for discussion or used as a document to outline implementation and desig
 It should self-explanatory that it is impossible to show every relevant information 
 about the system's architecture in a single diagram as it would be too messy. 
 Instead, the system architecture should be split into different modules or views. 
-Figure 4.3 shows four fundamental architectural views that should be made:
+Figure 6.3 shows four fundamental architectural views that should be made:
 
 * **Logical view**: shows what objects/object classes/entities should be in the system
 * **Process view**: shows what processes occur in runtime
 * **Development view**: shows how the development can be broken down into components
-* **Physical view**: shows the hardware for the system and how components may be dis
+* **Physical view**: shows the hardware for the system and how components may be distributed 
+
+![4 views](../images/chap/6.3_views.png)
 
 ## 6.3 Architectural patterns
 
@@ -107,6 +113,12 @@ with graphical or tabular descriptions.
 Figures 6.4 and 6.5 describe the Model-View-Controller pattern which is used 
 to manage interactions in web-based systems. 
 
+![MVC](../images/chap/6.4_MVC.png)
+
+![MVC](../images/chap/6.5_MVC.png)
+
+![MVC Web](../images/chap/6.6_web.png)
+
 ### Layered architecture 
 
 The Layered Architecture pattern is a way to separate system functionalities 
@@ -116,10 +128,16 @@ an interface of the layer changes, only that layer is affected.
 
 Figure 6.7 describes the Layered Architecture pattern more. 
 
+![layer](../images/chap/6.7_layer.png)
+
 Figure 6.8 is an example of using the Layered Architecture pattern with 4 layers. 
+
+![4 layer](../images/chap/6.8_4layer.png)
 
 Figure 6.9 is an example of the practical usage of 4 layered architecture 
 patterns for a system; this figure outlines what components are in each layer. 
+
+![iLearn](../images/chap/6.9_iLearn.png)
 
 ### Repository architercture
 
@@ -130,7 +148,11 @@ connect with the repository to fetch and edit the data.
 
 Figure 6.10 describes the Repository architecture approach.
 
+![repo](../images/chap/6.10_repo.png)
+
 Figure 6.11 is an example of a Repository architecture used for an IDE. 
+
+![repo](../images/chap/6.11_repo.png)
 
 ### Client-server architecture 
 
@@ -139,12 +161,16 @@ process data over a distributed system.
 
 Figure 6.12 describes the Client-server architecture approach.
 
+![CS](../images/chap/6.12_CS.png)
+
 The major components of the system are:
 * A set of servers that have services that are used by the components. 
 * A set of clients that rely on these services. typically clients will work on different computers and thus be using the services concurrently.
 * A network that allows the clients to access the services. 
 
 Figure 6.13 is an example of a Client-Server architecture. 
+
+![CS](../images/chap/6.13_CS.png)
 
 ### Pipe and filter architecture
 
@@ -153,7 +179,11 @@ Pipe and Filter patterns are used to show how inputs are processed to form outpu
 Figure 6.14 describes the pipe and filter architecture. Inputs are "filtered" 
 to the right component that will "pipe" it into its correct destination. 
 
+![Pipe and Filter](../images/chap/6.14_pipe.png)
+
 Figure 6.15 shows an example of the Pipe and Filter architecture. 
+
+![Pipe and Filter](../images/chap/6.15_pipe.png)
 
 ## 6.4 Application architectures
 
@@ -188,8 +218,11 @@ Transactions are considered any sequence of operations that has a clear goal
 systems are systems where users make asynchronous requests for services; 
 figure 6.16 is an overview of a transaction processing system. 
 
+![TPA](../images/chap/6.16_TPA.png)
+
 Figure 6.17 is an example of a transaction processing system. 
 
+![TPA in ATM](../images/chap/6.17_ATM.png)
 
 ### Information systems
 
@@ -199,9 +232,12 @@ database transactions. The layers include a user interface, user communications,
 information retrieval, and a system database. Figure 6.18 shows a general example 
 of an information system. 
 
+![4 layer](../images/chap/6.18_4layer.png)
+
 Figure 6.19 is an example of an information system. 
 
-Figure 6.20 is an example of a web-based information system. 
+![mentcare](../images/chap/6.19_mentcare.png)
+
 
 ### Language processing systems 
 
@@ -221,8 +257,12 @@ A compiler is composed of the following parts:
 
 Figure 6.20 is an overview of a language processing system. 
 
+![LPS](../images/chap/6.20_LPS.png)
+
 Figure 6.21 shows an example of how a repository architecture is used for a language processing system. 
+
+![repo](../images/chap/6.21_repo.png)
 
 Figure 6.22 shows an example of a pipe and filter computer architecture. 
 
-
+![compiler](../images/chap/6.22_compiler.png)
