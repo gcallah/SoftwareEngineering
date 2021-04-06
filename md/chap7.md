@@ -41,8 +41,10 @@ can help them decided what features should be implemented in the system that
 is to be made and what features are in any associated systems. 
 
 To show system context and interactions, two types of models are used:
-* **System Context Model**: the structural model that shows connections with other systems in the environment.
+* **System context model**: the structural model that shows connections with other systems in the environment.
 * **Interaction model**: a dynamic model that shows how systems interacts with the environment
+
+![Context Model](../images/chap/7.1_context.png)
 
 Figure 7.1 shows an example of a system context model. Lines between systems 
 show that there is a relationship between the systems. The numbers above the 
@@ -55,8 +57,12 @@ one weather station connected to the control system)
 Use case models are an example of an interaction model. 
 Figure 7.2 shows an example of a use case model. 
 
+![Use case models](../images/chap/7.2_useCases.png)
+
 Figure 7.3 shows a description of a use case. These descriptions are used to 
 supplement use case diagrams to show any stimuli and/or outputs associated with the stimuli. 
+
+![Use case descriptions](../images/chap/7.3_useCases.png)
 
 ### 7.1.2 Architectural design 
 
@@ -70,7 +76,11 @@ architectural pattern (layered, client-server, etc.) would they use.
 Figure 7.4 shows an example of architectural design where the weather station 
 is made up of different independent subsystems. 
 
+![Architecture](../images/chap/7.4_architecture.png)
+
 Figure 7.5 is an example of an architecture of a tat collection subsystem. 
+
+![Architecture](../images/chap/7.5_architecture.png)
 
 ### 7.1.3 Object Class Identification
 
@@ -88,7 +98,9 @@ Approaches to identifying object classes include (textbook pg. 202):
 * Use a scenario-based analysis where objects, attributes, and methods are identified in each scenario.
  
 Figure 7.6 shows examples of five object classes.
- 
+
+![Object](../images/chap/7.6_objects.png)
+
 ### 7.1.4 Design models
  
 Design/system models show the object/object classes in a system as well as 
@@ -104,7 +116,7 @@ Three UML model types are used for adding more details to architectural models a
 * **Subsystem models**: shows how objects can be grouped to form subsystems.
    * are represented using class diagrams
    * are structural models
-* **Swequnce Models** show the sequence in which object interactions happen
+* **Sequence models** show the sequence in which object interactions happen
    * are represented with collaboration diagrams or UML sequences
    * are dynamic models
 * **State machine models** show how objects change states depending on the events
@@ -122,6 +134,8 @@ representation. The reason behind this is that if the data representation is hid
 it can be changed without affecting anything that uses that data.
  
 Figure 7.9 shows an example of two interfaces used for a weather station.
+
+![Interface](../images/chap/7.9_interface.png)
  
 ## 7.2 Design patterns
  
@@ -136,22 +150,23 @@ Four essential elements of design patterns are (textbook pg. 210):
 * A problem description
 * A solution description that is a template for design solutions that can be done in different ways
 * A statement telling the consequences (results and trade-offs)
- 
-### Observer Pattern
- 
-Figure 7.10 is an example of the Observer Pattern.
 
-
-## 7.2 Design patterns
+One such pattern is the Observer pattern.
 
 In the figure, the five essential components are as follow:
-* Name: Observer Pattern
-* Description: Separates the display of object states from the object itself
-* Problem Description: Used when multiple displays of state are needed
-* Solution Description: Figure 7.12
-* Consequences: Optimizations to enhance display performance are impractical
+* **Name**: Observer Pattern
+* **Description**: Separates the display of object states from the object itself (figure 11)
+* **Problem Description**: Used when multiple displays of state are needed
+* **Solution Description**: Figure 7.12
+* **Consequences**: Optimizations to enhance display performance are impractical
 
 Figure 7.10 explains this pattern description in more depth. 
+
+![Observer pattern](../images/chap/7.10_observer.png)
+
+![Multiple displays](../images/chap/7.11_observer.png)
+
+![UML Observer](../images/chap/7.12_observer.png)
 
 Examples of situations and what patterns to use in those situations are (textbook pg. 211):
 * Tell objects the state of other objects have changes (Observer pattern)
@@ -180,8 +195,10 @@ a prominent methodology for creating software.
 Software reuse can be down at different levels:
 * **Abstraction level**: software are not directly reused but knowledge and design abstractions are used
 * **Object Level**: objects from libraries are reused
-* **COmponent level**: components/collections of object and object classes are resued
+* **Component level**: components/collections of object and object classes are resued
 * **System-level**: entire applications systems are reused
+
+![Software reuse](../images/chap/7.13_reuse.png)
 
 However, reusing software also has costs associated with it:
 * Cost of time spent looking for software to reuse and analyzing whether it meets requirements
@@ -195,10 +212,12 @@ Configuration management is the process of managing change in a software system.
 This is done so developers can access project doe and documentation in an orderly 
 fashion; developers can easily find out what changes have been made. 
 There are four fundamental configuration management activities:
-* **version management**: a process of keeping track of different versions of software components and coordinating development among multiple developers
-* **system integration**: the process of helping developers pick which versions of components are used to create a new version of a system by linking and compiling such components
-* **problem tracking**: process in which users report bugs and developers can assign members to work on these problems
-* **release management**: process in which new versions of the software system has their functionalities planned and organized before release
+* **Version management**: a process of keeping track of different versions of software components and coordinating development among multiple developers
+* **System integration**: the process of helping developers pick which versions of components are used to create a new version of a system by linking and compiling such components
+* **Problem tracking**: process in which users report bugs and developers can assign members to work on these problems
+* **Release management**: process in which new versions of the software system has their functionalities planned and organized before release
+
+![Configuration Management](../images/chap/7.14_configuration.png)
 
 Examples of software management tools include Subversion and Git. 
 
@@ -223,14 +242,18 @@ different aspects of software development by bundling everything into a common
 user interface or framework. IDEs usually support development in a specific 
 programming language or could be for general-purpose with specific language-support tools. 
 
+![Host-target development](../images/chap/7.15_hostTarget.png)
+
 Issues that developers might run into when deciding how and which 
 platforms developed software will be deployed to include:
-* Hardware and software requirements of a component 
-  * if a component is designed for or relies on  specific hardware architecture, it must be deployed on a platform that has those requisites 
-* Availability requirements of the system
+* **Hardware and software requirements of a component**
+  * If a component is designed for or relies on  specific hardware architecture, it must be deployed on a platform that has those requisites 
+* **Availability requirements of the system**
   * High availability systems may require components to be deployed on more than one platform in case of platform failure
-* Component communications 
+* **Component communications** 
   * If there is high traffic between components, components should be deployed on the same platform or platforms physically close to each other to reduce delay. 
+
+
 
 ## 7.4 Open-source development
 
@@ -263,12 +286,12 @@ developer of the code owns the code and can place restrictions on how the
 software can be used; these restrictions are outlined in an open-source software license. 
 
 Some models of open-source licenses include:
-* GNU Gneral Public Liscense (GPL)
-  * if you use the open-source software to make software, your software must make the software open-source
-* GNU Lesser General Public Liscnese (LGPL)
-  * a variant of GPL where you can create components that use the open-source code without publishing the code to create such components
-* Berkley Standard Distribution (BSD) License
-  *  you are not obliged to republish modifications made to the open-source code and can include the code int systems that are to be sold. 
+* **GNU Gneral Public Liscense (GPL)**
+  * If you use the open-source software to make software, your software must make the software open-source
+* **GNU Lesser General Public Liscnese (LGPL)**
+  * A variant of GPL where you can create components that use the open-source code without publishing the code to create such components
+* **Berkley Standard Distribution (BSD) License**
+  *  You are not obliged to republish modifications made to the open-source code and can include the code int systems that are to be sold. 
 
 Companies that use open source should consider (textbook pg. 221):
 * Establish a system for maintaining information about open-source components that are downloaded and used
