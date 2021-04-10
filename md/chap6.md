@@ -249,7 +249,7 @@ language that is being processed.
 For example, a compiler is a form of a language processing system. 
 A compiler is composed of the following parts:
 * **Lexical analyzer**: takes input language and converts them to something the compiler can understand 
-* **Synmnbol table**: holds information about entities (variables, class names, etc.)
+* **Symnbol table**: holds information about entities (variables, class names, etc.)
 * **Syntax analyzer**: checks the syntax of the language being translated
 * **Syntax tree**: represents the program being compiled 
 * **Semantic analyzer**: uses information from the symbol tabke and the syntax tree to check if the input language is correct 
