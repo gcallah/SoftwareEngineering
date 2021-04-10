@@ -123,8 +123,8 @@ to manage interactions in web-based systems.
 
 The Layered Architecture pattern is a way to separate system functionalities 
 into layers where each layer relies only on services from the layer directly 
-underneath it. This architecture works well with incremental development as if 
-an interface of the layer changes, only that layer is affected. 
+underneath it. This architecture works well with incremental development since
+when an interface of the layer changes, only that layer is affected. 
 
 Figure 6.7 describes the Layered Architecture pattern more. 
 
