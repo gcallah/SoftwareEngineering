@@ -28,7 +28,7 @@ Figure 8.1 shows the difference between validation and defect testing. Defect
 testing would test the inputs in the set I<sub>e</sub> because those inputs show
 problems in the system. Validation testing would test the correct inputs outside of I<sub>e</sub>.
 
-### Verifciation and Validation
+### Verification and validation
 
 Testing is part of a process known as "verification and validation".
 **Validation** asks the question "are we building the right product" (in other words,
