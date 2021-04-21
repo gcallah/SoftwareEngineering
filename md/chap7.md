@@ -83,7 +83,7 @@ is made up of different independent subsystems.
 
 ![Architecture](../images/chap/7.4_architecture.png)
 
-Figure 7.5 is an example of an architecture of a tat collection subsystem.
+Figure 7.5 is an example of an architecture of a data collection subsystem.
 
 ![Architecture](../images/chap/7.5_architecture.png)
 
