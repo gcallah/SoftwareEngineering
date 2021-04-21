@@ -122,10 +122,12 @@ Automated test has three components:
 ### 8.1.2 Choosing unit test cases
 
 Testing is a time-consuming process so it is important to pick the most effective
-unit test cases. Effectiveness in this context is defined as (textbook pg.234):
+unit test cases. Effectiveness in this context is defined as:
 
 - The test cases show that the component does what it is supposed to do
 - Defects in the components are shown by test cases
+
+(textbook pg.234)
 
 Because of this, developers should define two kinds of unit test cases:
 
@@ -160,13 +162,15 @@ Other methods to test sequences include:
 - Test the first, middle, and last elements of the sequence
 - Test with zero-length sequences
 
-Examples of general testing guidelines include (textbook pg. 237):
+Examples of general testing guidelines include:
 
 - Choose inputs that force the system to generate all error messages
 - Design inputs that result in possible buffer overflows
 - Repeat same input(s) multiple times
 - Force invalid outputs to be generated
 - Force computation results to be too large or too big
+
+(textbook pg.237)
 
 ### 8.1.3 Component testing
 
@@ -229,9 +233,9 @@ test a subset of possible test cases. Example of testing policies include:
 
 ## 8.2 Test-driven development
 
-Test-driven development is the process fo interleaving testing and code 
-development. Tests are written before the code and tests fuel the development 
-procedures. Code and tets are developed incrementally and developers cannot move 
+Test-driven development is the process fo interleaving testing and code
+development. Tests are written before the code and tests fuel the development
+procedures. Code and tets are developed incrementally and developers cannot move
 to the next increment unless the code passes its tests.
 
 Test-driven development is shown in figure 8.9 The steps in this process involve:
@@ -250,15 +254,15 @@ Benefits of test-driven development include:
 - **Simplified debugging**: when a test fails, it means that the newly written code is faulty
 - **System documentation**: tests can be a form of documentation that describes what code should do
 
-Regression testing is the process of testing the system if changes are broken 
-previous working code. With an automated process, regression testing is simple as 
+Regression testing is the process of testing the system if changes are broken
+previous working code. With an automated process, regression testing is simple as
 all tests are rerun when a change is made.
 
 ## 8.3 Release testing
 
-Release testing is the process of testing a release of the system that consumers will 
-be able to use. The goal of this is to convince developers that the system is ready 
-to be used. The system has to show that it can do its specified functionalities, 
+Release testing is the process of testing a release of the system that consumers will
+be able to use. The goal of this is to convince developers that the system is ready
+to be used. The system has to show that it can do its specified functionalities,
 perform well, and does not fail during normal use.
 
 Release testing is a form of system testing but there are two main differences:
@@ -267,26 +271,28 @@ Release testing is a form of system testing but there are two main differences:
 - System testing conducted by developers focuses on discovering bugs in the system whereas, in release testing, tests are done to check if the system meets its requirements and is usable.
   - In other words, system testing is a form of defect testing whereas releasing testing is a form of validation testing.
 
-Release testing is usually a "black-box" testing process where tests are made 
-from the system specification and the tester does not care about how it is implemented. 
-This is also known as functional testing as the tester only cares about the 
+Release testing is usually a "black-box" testing process where tests are made
+from the system specification and the tester does not care about how it is implemented.
+This is also known as functional testing as the tester only cares about the
 functionality of the code based on its inputs and outputs.
 
 ### 8.3.1 Requirements-based testing
 
-Requirements-based testing is an approach where the tester considers each 
-requirement and creates a set of tests for the respective requirement. 
-This is more similar to validation testing as the tester is concerned with 
+Requirements-based testing is an approach where the tester considers each
+requirement and creates a set of tests for the respective requirement.
+This is more similar to validation testing as the tester is concerned with
 showing that the system has implemented the desired requirement.
 
-Let us take the Mentcare system requirements as an example. Some of the following 
-system requirements as follow (textbook pg.246):
+Let us take the Mentcare system requirements as an example. Some of the following
+system requirements as follow:
 
 - If a patient is known to be allergic to any particular medication, then a prescription of that medication shall result in a warning message being issued to the system user.
 - If a prescriber chooses to ignore an allergy warning, they shall provide a reason why this has been ignored.
 
-Some of the possible requirements tests to address the requirement 
-tests include (textbook pg. 246):
+(textbook pg.246)
+
+Some of the possible requirements tests to address the requirement
+tests include:
 
 - Set up a patient record with no known allergies. Prescribe medication for allergies that are known to exist. Check that a warning message is not issued by the system.
 - Set up a patient record with a known allergy. Prescribe the medication that the patient is allergic to and check that the warning is issued by the system.
@@ -294,13 +300,15 @@ tests include (textbook pg. 246):
 - Prescribe two drugs that the patient is allergic to. Check that two warnings are correctly issued.
 - Prescribe a drug that issues a warning and overrule that warning. Check that the system requires the user to provide information explaining why the warning was overruled.
 
-Note that not solely one test is created to test a requirement; preferably 
+(textbook pg.246)
+
+Note that not solely one test is created to test a requirement; preferably
 a whole suite of tests is run to ensure that you covered all parts of the requirements.
 
 ### 8.3.2 Scenario testing
 
-Scenario testing is an approach of release testing where testers create scenarios 
-and use those scenarios to design tests for that scenario. Figure 8.10 is an 
+Scenario testing is an approach of release testing where testers create scenarios
+and use those scenarios to design tests for that scenario. Figure 8.10 is an
 example of a user story/scenario for the Mentcare system.
 
 Features that could be tested from this scenario include:
@@ -315,12 +323,12 @@ Features that could be tested from this scenario include:
 
 ### 8.3.3 Performance testing
 
-Performance tests are designed to test if the system can process its intended 
-load. Often this would mean a suite of tests is run where the workload is 
+Performance tests are designed to test if the system can process its intended
+load. Often this would mean a suite of tests is run where the workload is
 increased until the system cannot perform to acceptable standards.
 
-Stress testing is a form of performance testing where the system is deliberately 
-overloaded to see how the system will behave and is especially used in distributed 
+Stress testing is a form of performance testing where the system is deliberately
+overloaded to see how the system will behave and is especially used in distributed
 systems. Stress testing has two main benefits:
 
 - Tests show the system behaves during failure when the load is exceeded
@@ -330,9 +338,9 @@ systems. Stress testing has two main benefits:
 
 ## 8.4 User testing
 
-User/customer testing, as the name suggests, is the stage where users and customers 
-can provide their input and advice on the system. This is important as the user's 
-working environment cannot be replicated in a testing environment and although the 
+User/customer testing, as the name suggests, is the stage where users and customers
+can provide their input and advice on the system. This is important as the user's
+working environment cannot be replicated in a testing environment and although the
 system works on the developer's machines, it might not perform adequately on the consumers' machine.
 
 There are three types of user testing:
@@ -341,12 +349,12 @@ There are three types of user testing:
 - **Beta testing**: software release is made available to everyone to experiment with
 - **Acceptance testing**: customers test a system and decide whether it can be deployed in the customer environment
 
-Alpha testing involves users and developers working together to test a system. 
-The user will identify problems and issues that developer testing teams did not 
+Alpha testing involves users and developers working together to test a system.
+The user will identify problems and issues that developer testing teams did not
 notice and can provide information about their practice that helps developers create better tests.
 
-Beta testing involves early releases or unfinished systems. Beta testers could 
-be a selected group of customers or made public to everyone. It is used to discover 
+Beta testing involves early releases or unfinished systems. Beta testers could
+be a selected group of customers or made public to everyone. It is used to discover
 interaction problems between software and features in the environment the system is run on.
 
 Figure 8.11 shows the six main stages of the acceptance testing process:
@@ -366,8 +374,8 @@ Figure 8.11 shows the six main stages of the acceptance testing process:
 - **Reject/accept system**
   - Determine if the system is good enough to move to the next acceptance testing phase
 
-In agile methods, the user/customer is part of the development team and is 
-responsible for making decisions on the acceptability of the system. The 
-user/customer defines the tests and there is no separate acceptance testing 
-process. One problem with this is that the embedded user (in other words the 
+In agile methods, the user/customer is part of the development team and is
+responsible for making decisions on the acceptability of the system. The
+user/customer defines the tests and there is no separate acceptance testing
+process. One problem with this is that the embedded user (in other words the
 user that works with the team) may not represent the interests of all the stakeholders.

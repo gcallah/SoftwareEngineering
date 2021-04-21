@@ -18,8 +18,8 @@ specific requirements of stakeholders.
 
 An objected-oriented system uses interacting objects that keep track of their
 local state and have operations they can do in that state. These states are
-private and can not be accessed directly from anything other than the object.  
-<<<<<<< HEAD
+private and can not be accessed directly from anything other than the object.
+
 The objects also house data and methods to modify such data; changing the implementation
 of an object should also not affect other objects (in other words, changes should only
 affect itself).
@@ -34,16 +34,15 @@ To change an idea of a system design into an object-oriented design, you must:
 
 (textbook pg. 198)
 
-### 7.1.1 System context and interactions
+### 7.1.1 System Context and interactions
 
 The first step should involve understanding relationships between software
 components and the external environment. This is important as it will help
-developers decide how to provide required system functionalities and how to
+developers decide how to provide required system functions and how to
 structure the system to be able to communicate with its environment. Understanding
 such context also lets developers establish boundaries of the system which
 can help them decided what features should be implemented in the system that
 is to be made and what features are in any associated systems.
-
 
 To show system context and interactions, two types of models are used:
 
@@ -96,13 +95,15 @@ system descriptions, already known domain knowledge, retrieved from requirements
 documentation, etc. Object identification is an iterative process as you are unlikely
 to pinpoint all of the required objects correctly the first time.
 
-Approaches to identifying object classes include (textbook pg. 202):
+Approaches to identifying object classes include:
 
 - Using a grammatical analysis of natural language descriptions
   - For example, attributes and objects are the nouns in the descriptions while operations or services are the verbs.
 - Base the identification on tangible items in the application domain.
 - Use a behavioral approach and identify objects based on what it does
 - Use a scenario-based analysis where objects, attributes, and methods are identified in each scenario.
+
+(textbook pg. 202)
 
 Figure 7.6 shows examples of five object classes.
 
@@ -154,12 +155,14 @@ These descriptions usually have object-oriented characteristics such as polymorp
 and inheritance to be as general as possible and applicable to multiple similar problems.
 These are used to instill the best practices or good designs.
 
-Four essential elements of design patterns are (textbook pg. 210):
+Four essential elements of design patterns are:
 
 - A meaningful name that identifies the pattern
 - A problem description
 - A solution description that is a template for design solutions that can be done in different ways
 - A statement telling the consequences (results and trade-offs)
+
+(textbook pg. 210)
 
 One such pattern is the Observer pattern.
 
@@ -179,12 +182,14 @@ Figure 7.10 explains this pattern description in more depth.
 
 ![UML Observer](../images/chap/7.12_observer.png)
 
-Examples of situations and what patterns to use in those situations are (textbook pg. 211):
+Examples of situations and what patterns to use in those situations are:
 
 - Tell objects the state of other objects have changes (Observer pattern)
 - Clean up interfaces to several incrementally-developed related objects (Facade pattern)
 - Provide a standard way to access elements in a collection (Iterator pattern)
 - Allow for extending the functionality of a class during runtime (Decorator pattern)
+
+(textbook pg. 211)
 
 ## 7.3 Implementation issues
 
@@ -279,10 +284,12 @@ large population of volunteer developers as they can be connected easier.
 Examples of open-source products are Linux, Java, Apache web server, and
 mySQL database management system.
 
-Two open-source issues are as follow (textbook pg. 219):
+Two open-source issues are as follow:
 
 - Should the product that is being developed make use of open-source components?
 - Should an open-source approach be used for its software development?
+
+(textbook pg. 219)
 
 Answers to the questions depend on the software being developed and the
 experience of the developers. If the product is in a domain with high-quality
@@ -310,7 +317,7 @@ Some models of open-source licenses include:
 - **Berkley Standard Distribution (BSD) License**
   - You are not obliged to republish modifications made to the open-source code and can include the code int systems that are to be sold.
 
-Companies that use open source should consider (textbook pg. 221):
+Companies that use open source should consider:
 
 - Establish a system for maintaining information about open-source components that are downloaded and used
 - Be aware of the different types of licenses for components and how these components can be used und ner those licenses
@@ -322,3 +329,5 @@ Companies that use open source should consider (textbook pg. 221):
   - Someone has to check if developers may have broken the terms of a licenses
 - Participate in the open-source community
   - You should participate and support the development of open-source products you use
+
+(textbook pg. 221)
