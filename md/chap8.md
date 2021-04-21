@@ -12,7 +12,7 @@ When you are testing software, there are two main goals:
 
 - Demonstrating that the software meets its requirements
   - This type of testing is known as validation testing.
-- Discovering situations where the software does not behave as intended (results could be understandable, incorrect, or does not follow its specifications )
+- Discovering situations where the software does not behave as intended (results could be understandable, incorrect, or does not follow its specifications)
   - This type of testing is known as defect testing.
 
 Validation testing aims to solve this first main goal. Validation testing
@@ -23,6 +23,8 @@ Defect testing aims to solve the second main goal. As the name implies, defect
 testing is the process of using test cases to expose defects. A successful test
 of this type of testing would show that the system performs incorrectly and thus
 a defect is exposed.
+
+![IO](../images/chap/8.1_IO.png)
 
 Figure 8.1 shows the difference between validation and defect testing. Defect
 testing would test the inputs in the set I<sub>e</sub> because those inputs show
@@ -49,6 +51,8 @@ required confidence is determined by three factors:
   - Software must take into consideration competing products.
   - Getting a product to market early may be more important than finding defects as users may be willing to trade-off reliability for a better price
 
+![Testing process model](../images/chap/8.3_testing.png)
+
 Figure 8.3 is an example of the testing process. There are typically three stages of testing:
 
 - **Development testing**: testing system during development to discover defects
@@ -63,6 +67,8 @@ any code and these techniques analyze the static system representation.
 Software testing is known as dynamic verification as developers observe product
 behavior by executing test data. Figure 8.2 shows an example of when software
 inspections and testing can occur during a software's lifecycle.
+
+![Inspections](../images/chap/8.2_inspections.png)
 
 Software inspection is mainly focused on looking through the source code but
 can be applied to any representation of the system (ex. design models).
@@ -96,6 +102,8 @@ tested may be individual functions or methods of an object or object classes.
 Object class testing is a form of unit testing where developers test operations
 associated with an object, setting and changing object attributes, and using
 the objects in all of their possible states.
+
+![Interface](../images/chap/8.4_interface.png)
 
 Figure 8.4 is an example of a potential object to be unit tested. To unit test
 the weather station object interface, you would need to test if it has been
@@ -139,6 +147,8 @@ Two strategies used to choose test cases are:
 - Partition testing: identify groups of common inputs that should be processed in the same way
 - Guideline-based testing: use testing guidelines (usually shows typical kinds of errors) to choose test cases
 
+![Equivalence partitioning](../images/chap/8.5_equivalence.png)
+
 Figure 8.5 outlines the idea of equivalent partitioning.
 Input data and output often fall into different classes where programs behave
 in the same way for each class member. Equivalence partitions/domains are this;
@@ -155,6 +165,9 @@ test cases from each partition by choosing test cases on the boundaries of
 such partitions as well as test cases in the midpoint of the partition. An example
 of this is in figure 8.6 where if you are testing a sequence between 10000 and
 99999, you want to test for 50000 and numbers on the left and right-hand sides.
+
+![Equivalence partitioning](../images/chap/8.6_equivalence.png)
+
 Other methods to test sequences include:
 
 - Test software with sequences with one value
@@ -182,7 +195,9 @@ Figure 8.7 shows the overall idea of component interface testing. Components A, 
 and C are integrated into one subsystem/larger component and assumed that unit tests
 on those components work. Test cases for component testing are applied to this
 interface of the composite component. The objective is then to detect faults due
-to interface errors or invalid assumptions about the interface
+to interface errors or invalid assumptions about the interface.
+
+![Interface Testing](../images/chap/8.7_interface.png)
 
 There are different types of interfaces between program components. of which include:
 
@@ -237,6 +252,8 @@ Test-driven development is the process fo interleaving testing and code
 development. Tests are written before the code and tests fuel the development
 procedures. Code and tets are developed incrementally and developers cannot move
 to the next increment unless the code passes its tests.
+
+![Test-driven development](../images/chap/8.9_test.png)
 
 Test-driven development is shown in figure 8.9 The steps in this process involve:
 
@@ -311,6 +328,8 @@ Scenario testing is an approach of release testing where testers create scenario
 and use those scenarios to design tests for that scenario. Figure 8.10 is an
 example of a user story/scenario for the Mentcare system.
 
+![Story](../images/chap/8.10_story.png)
+
 Features that could be tested from this scenario include:
 
 - Authentication by logging on to the system
@@ -356,6 +375,8 @@ notice and can provide information about their practice that helps developers cr
 Beta testing involves early releases or unfinished systems. Beta testers could
 be a selected group of customers or made public to everyone. It is used to discover
 interaction problems between software and features in the environment the system is run on.
+
+![Acceptance testing](../images/chap/8.11_acceptance.png)
 
 Figure 8.11 shows the six main stages of the acceptance testing process:
 
