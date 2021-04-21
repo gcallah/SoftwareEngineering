@@ -23,12 +23,13 @@ The objects also house data and methods to modify such data; changing the implem
 of an object should also not affect other objects (in other words, changes should only 
 affect itself). 
 
-To change an idea of a  system design into an object-oriented design, you must (textbook pg. 198):
+To change an idea of a  system design into an object-oriented design, you must:
 * Understand and define the contest and any potential external interactions with the system
 * Design the system architecture
 * Identify principal objects in the system
 * Develop design models
 * Specify interfaces 
+(Textbook pg. 198)
   
 ### 7.1.1 System Context and interactions 
 
