@@ -37,7 +37,7 @@ To change an idea of a  system design into an object-oriented design, you must:
 
 The first step should involve understanding relationships between software 
 components and the external environment. This is important as it will help 
-developers decide how to provide required system functionalities and how to 
+developers decide how to provide required system functions and how to 
 structure the system to be able to communicate with its environment. Understanding 
 such context also lets developers establish boundaries of the system which 
 can help them decided what features should be implemented in the system that 
