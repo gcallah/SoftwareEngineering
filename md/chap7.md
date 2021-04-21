@@ -19,6 +19,7 @@ specific requirements of stakeholders.
 An objected-oriented system uses interacting objects that keep track of their
 local state and have operations they can do in that state. These states are
 private and can not be accessed directly from anything other than the object.  
+<<<<<<< HEAD
 The objects also house data and methods to modify such data; changing the implementation
 of an object should also not affect other objects (in other words, changes should only
 affect itself).
@@ -40,6 +41,7 @@ structure the system to be able to communicate with its environment. Understandi
 such context also lets developers establish boundaries of the system which
 can help them decided what features should be implemented in the system that
 is to be made and what features are in any associated systems.
+
 
 To show system context and interactions, two types of models are used:
 
