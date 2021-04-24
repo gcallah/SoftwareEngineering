@@ -90,7 +90,7 @@ Figure 7.5 is an example of an architecture of a data collection subsystem.
 ### 7.1.3 Object class identification
 
 In this stage, developers will use their pre-existing knowledge found in previous
-stages to more identify object classes. This knowledge can be gathered from informal
+stages to identify more object classes. This knowledge can be gathered from informal
 system descriptions, already known domain knowledge, retrieved from requirements
 documentation, etc. Object identification is an iterative process as you are unlikely
 to pinpoint all of the required objects correctly the first time.
