@@ -180,7 +180,8 @@ information in remote "clouds".
 ![Ethics](../images/chap/1.3_ethics.png)
 
 Similar to how other engineering or science disciplines have an ethics code,
-software engineering has the same. Such responsibilities include:
+software engineering has one also. The responsibilities of software engineers
+include:
 
 - **Confidentiality**
   - Engineers should keep the information of their clients secret.

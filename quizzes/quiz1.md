@@ -70,27 +70,28 @@ a. the waterfall model
 b. structured programming
 c. lean and agile methods
 d. GUI interfaces
+e. none of the above
 
 
-10. ?
-a.
-b.
-c.
-d.
+10. Which of the following is **NOT** a requirement for successful software?
+a. acceptability
+b. dependability and security
+c. recursion
+d. efficiency
+e. maintainability
 
 
-11. ?
-a.
-b.
-c.
-d.
+11. Is computer science the same thing as software engineering?
+a. yes
+b. no
 
 
-12. ?
-a.
-b.
-c.
-d.
+12. Which of the following are **NOT** a basic type of software system?
+a. embedded systems
+b. data collection systems
+c. batch processing systems
+d. modeling and simulation systems
+e. none of the above
 
 
 13. ?
