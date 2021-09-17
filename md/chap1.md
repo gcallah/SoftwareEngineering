@@ -197,7 +197,7 @@ include:
 ### The ethic code and its eight principles
 
 CM and the IEEE are professional associations that created a code of ethics that contains
-eight Principles related to how software engineers should behave and make decisions.
+eight principles related to how software engineers should behave and make decisions.
 These eight principles include:
 
 - **Public**
