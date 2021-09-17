@@ -94,11 +94,12 @@ d. modeling and simulation systems
 e. none of the above
 
 
-13. ?
-a.
-b.
-c.
-d.
+13. Among the ethical responsibilities of a professional software engineer are?
+a. preserving confidentiality
+b. exhibiting competence
+c. respect for intellectual property rights
+d. preventing computer misuse
+e. all of the above
 
 
 14. ?
@@ -113,12 +114,4 @@ a.
 b.
 c.
 d.
-
-
-16. ?
-a.
-b.
-c.
-d.
-
 

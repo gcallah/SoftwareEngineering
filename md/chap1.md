@@ -183,13 +183,13 @@ Similar to how other engineering or science disciplines have an ethics code,
 software engineering has one also. The responsibilities of software engineers
 include:
 
-- **Confidentiality**
+- **Preserving confidentiality**
   - Engineers should keep the information of their clients secret.
-- **Competence**
+- **Exhibiting competence**
   - Engineers should only work on assignments they have the skills for.
-- **Intellectual property rights**
+- **Respecting intellectual property rights**
   - Engineers should listen to laws regarding intellectual property and protect such property.
-- **Computer misuse**
+- **Preventing computer misuse**
   - Engineers should not use their skills to the detriment of their consumers.
 
 (textbook pg. 28-29)
