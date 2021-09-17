@@ -63,12 +63,12 @@ Sofware produced can be split into two categories:
 
 - **Generic products**
   - These are stand-alone general-purpose products sold to any customers/consumers
-  - Ex) PC software such as graphics/art programs, project management tools
-  - Ex) Software for specific markets/groups for general use such as appointment systems for dentists
+  - **Example**: PC software such as graphics/art programs, project management tools
+  - **Example**: Software for specific markets/groups for general use such as appointment systems for dentists
 - **Customized or bespoke products**
   - These are tools commissioned by a specific customer to meet their own unique
     needs.
-  - Ex) Systems wrote to a particular business process or air traffic
+  - **Example**: Systems wrote to a particular business process or air traffic
     control systems.
 
 (textbook pg. 20-21)
