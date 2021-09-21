@@ -1,9 +1,7 @@
-# Quiz 1 F
-all 2021
+# Quiz 1 Fall 2021
 
 
-N
-ame: _________________________________
+Name: _________________________________
 
 
 1. Software engineering could be defined as the art of controlling ____?
