@@ -2,7 +2,9 @@
 
 
 def calc_pay(emp, rate, hours):
-    return 0
+    pay = rate * hours
+
+    return pay
 
 
 def main():
