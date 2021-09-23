@@ -1,21 +1,32 @@
 #!/usr/local/bin/python3
 
+BIG_NUM = 999999999999999999
+BRACKET_MAX = 0
+BRACKET_RATE = 1
+FED_TAX_BRACKETS = [
+    [501, 0],
+    [1001, .1],
+    [1501, .2],
+    [2001, .3],
+    [BIG_NUM, .4]
+]
+
+
+def calc_fed_inc(gross_pay):
+    """
+    Calculate federal income tax deduction.
+    """
+    for bracket in FED_TAX_BRACKETS:
+        if bracket[BRACKET_MAX] > gross_pay:
+            fed_inc = gross_pay * bracket[BRACKET_RATE]
+            break
+    return fed_inc
+
 
 def calc_pay(emp, rate, hours, state):
     gross_pay = rate * hours
     net_pay = gross_pay
-    # deduct federal income tax
-    fed_inc = 0
-    if gross_pay <= 500:
-        fed_inc = 0
-    elif gross_pay <= 1001:
-        fed_inc = gross_pay * .1
-    elif gross_pay <= 1501:
-        fed_inc = gross_pay * .2
-    elif gross_pay <= 2001:
-        fed_inc = gross_pay * .3
-    else:
-        fed_inc = gross_pay * .4
+    fed_inc = calc_fed_inc(gross_pay)
     net_pay -= fed_inc
     state_inc = 0
     if state == "NY":
