@@ -56,7 +56,7 @@ The waterfall model is a straight forward model where the
 software process follows a linear pattern;
 for it to advance to the next stage, the prior stage must be completed.
 Only after the "operation and maintenance" step is completed can
-the project go to earlier steps as it sees fit.
+the project goes to earlier steps as it sees fit.
 The waterfall model is commonly known as a **plan-driven** model
 as the requirement specification phase
 and the development phase is distinct from each other;
@@ -83,12 +83,12 @@ multiple steps of iterations of attempts.
 The first step of this process involves outlining the initial product specification.
 A first draft of the product is then made and at the same time, product feedback is taken.
 This feedback will allow for another round of product specification in which the previous
-product specification is built on top of and an intermediate product version is made.
+product specification is built on top of it and an intermediate product version is made.
 This process repeats until a final version is made that meets all the requirements.
 
 Incremental development can be either plan-driven or agile-developed.
 The difference between the two is that the increments are pre-determined in the plan-driven version
-whereas in the agile-development, later increment versions are determined by what new or
+whereas in the agile development, later increment versions are determined by what new or
 changed product specifications are made.
 
 Incremental development has three main benefits:
@@ -145,7 +145,7 @@ Software specification, also known as the requirement engineering process,
 is the stage where developers will figure out and outline what
 features are required by stakeholders. The result of this process is
 to create documentation that stakeholders understand and add upon to aid developers
-know what features they (the developers) need to create to meet the needs of the client.
+to know what features they (the developers) need to create to meet the needs of the client.
 Software specification can be visualized as the top 3 bubbles in figure 2.4.
 
 Note that stakeholder requirements and whereas system requirements
@@ -156,7 +156,7 @@ The requirements engineering process is composed of three main stages:
 - **Requirements elicitation and analysis**
   - This stage involves discussing the setting in which the system will be used (who are the users, what environment/hardware will they be using, etc.), and what functions and other such requirements will it need.
 - **Requirements specification**
-  - This stage is writing the information discussed in the prior step into two actual documents: user requirements and system requirements. User requirements are what functions and systems users want. System requirements are descriptions of the functions that are more detailed, generally containing terminology more relevant for developers so they can have a better understand of what is needed.
+  - This stage is writing the information discussed in the prior step into two actual documents: user requirements and system requirements. User requirements are what functions and systems users want. System requirements are descriptions of the functions that are more detailed, generally containing terminology more relevant for developers so they can have a better understanding of what is needed.
 - **Requirements validation**
   - This stage involves checking over the documentation and fixing any errors. Errors can also include whether requirements are realistic and complete.
 
@@ -187,7 +187,7 @@ After taken into consideration the inputs, developers will then consider four de
 ### Software validation
 
 Software validation, also known as V & V (verification and validation),
-is used to test whether or not the current the version of the software meets
+is used to test whether or not the current version of the software meets
 the demands of the consumers and any such specification. This process may involve
 using dummy/fake data or specific test cases to simulate the usage of the software.
 
@@ -196,9 +196,9 @@ using dummy/fake data or specific test cases to simulate the usage of the softwa
 In a simple software testing process, there are 3 main stages:
 
 - **Component testing**
-  - In this phase, individual functions are components are tested as single parts; in other words, each component is tested isolated from each other.
+  - In this phase, individual functions are components are tested as single parts; in other words, each component is tested isolated from the other.
 - **System testing**
-  - The entire system will be tested to make sure each component works with each other.
+  - The entire system will be tested to make sure each component works with the other.
 - **Customer testing**
   - The consumer tests the system to give their opinions to see if the system meets the consumer's needs.
 
@@ -250,7 +250,7 @@ The steps are as follows:
 - **Establishing prototype objectives**
   - This means that developers will agree on what is the end goal of the product. Is it to create a usable user interface? Is it to add CRUD (Create Read Update Delete) operations to the application?
 - **Define prototype functionality**
-  - In this stage, developers will decide what functionalities the prototype must-have. The prototype does not have to have all the functionalities required for the final product. For example, if the objective of the prototype is to create a user interface for the user interface for the login and account creation pages for the software, the actual account-creation functionalities do not need to be added for this prototype.
+  - In this stage, developers will decide what functionalities the prototype must have. The prototype does not have to have all the functionalities required for the final product. For example, if the objective of the prototype is to create a user interface for the login and account creation pages, the actual account-creation functionalities do not need to be added for this prototype.
 - **Develop prototype**
   - This stage is the actual development and creation of the prototype.
 - **Evaluate prototype**

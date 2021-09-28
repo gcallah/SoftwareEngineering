@@ -7,10 +7,10 @@ here.](https://iansommerville.com/software-engineering-book/videos/se/)
 
 ## Preface
 
-You might be wondering, why should I study software engineering? Walk down the
-street of New York City or around NYU's campuses and you will probably see few
-people who are not on their phones or their laptops. Every one of these
-technology runs on some form of a software system; it should be no
+You might be wondering, why should I study software engineering? If
+you were to walk down any street ofNew York City or around NYU's campuses,
+you will probably see few people who are not on their phones or their laptops.
+Every one of these technology runs on some form of a software system; it should be no
 surprise that software engineering is vital to everyday life as the whole world
 is run by computer systems.
 
@@ -44,7 +44,7 @@ Two potential ways that software projects fail to include:
 ![FAQ](../images/chap/1.1_faq.png)
 
 Software engineering is a discipline that runs from the very start of
-the creation of the software to beyond its competition and into the maintenance
+the creation of the software to beyond its completion and into the maintenance
 of the software. There are two important concepts to keep in mind about what is
 the core of software engineering:
 
@@ -77,7 +77,7 @@ The main difference between these categorizations is who specifies what are the
 requirements for the software.
 In the case of a generic product, the software developers
 control the specification and can choose how and what is needed to be made for
-their product as there product is for general use and not for a specialized case.
+their product as their product is for general use and not for a specialized case.
 In the case of customized products, the client/consumer are
 the ones that outline the specification and requirements that the developers
 need to follow.
@@ -85,9 +85,9 @@ need to follow.
 For the software to be deemed as good, it must follow four principles:
 
 - **Acceptability**
-  - The software must be usable for its consumer (whether it means it can run on the customer's systems or if meets the needs of the customer).
+  - The software must be usable for its consumer (whether it means it can be run on the customer's systems or if it meets the needs of the customer).
 - **Dependability and security**
-  - The software must not be harmful to the consumer and do not allow any malicious users or criminals to be able to tamper with the software.
+  - The software must not be harmful to the consumer and does not allow any malicious users or criminals to be able to tamper with the software.
 - **Efficiency**
   - The software should not waste resources but instead be able to utilize them well and be responsive.
 - **Maintainability**
@@ -101,11 +101,11 @@ must include four fundamental activities:
   - Customers and developers define what software is to be built, what
     functionalities it will have, and what constraints it will have
 - **Software development**
-  - The stage in which the software is made.
+  - This is the stage in which the software is made and "coded".
 - **Software validation**
   - The software is checked to see if it meets its specification
 - **Software evolution**
-  - The stage where software is maintained to meet future changes in its requirements and specification
+  - This is the stage where software is maintained to meet future changes in its requirements and specification
 
 (textbook pg. 23)
 
@@ -114,7 +114,7 @@ During the software process, four issues may affect what type of software you pr
 - **Heterogeneity**
   - Can the software run as a Windows app, a Web app, and a phone app?
 - **Business and social change**
-  - Economies grow and fall which determines the rate at which technology is developed.
+  - Economies grow and fall; these actions determine the rate at which technology is developed.
 - **Security and trust**
   - Consumers should be able to trust their software as software may be related to our lives (ex. pacemakers)
 - **Scale**
@@ -205,7 +205,7 @@ These eight principles include:
 - **Client and Employer**
   - Software engineers shall act in the best interest of clients, employers, and the public.
 - **Product**
-  - Software engineers shall make products to their best of their abilities.
+  - Software engineers shall make products to the best of their abilities.
 - **Judgement**
   - Software engineers shall be professional and maintain their integrity when making decisions.
 - **Management**

@@ -48,7 +48,7 @@ explain the reasoning behind the agile approach. These principles include:
 - **Customer involvement**
   - Stakeholders should give their input in all stages of the development process to show what components should be prioritized and give input that can be analyzed to evaluate the progress of every iteration.
 - **Embrace change**
-  - Change is inevitable therefore the system should be designed in such a way to relieve the potential stress caused by change.
+  - Change is inevitable therefore the system should be designed in such a way as to relieve the potential stress caused by change.
 - **Incremental delivery**
   - Software should be incrementally developed in small batches to test components and allow for feedback.
 - **Maintain simplicity**
@@ -112,7 +112,7 @@ Problems of user stories include:
 
 - Users may not go over all the requirements they need from one story.
 - Stories may not give a good view of the requirements.
-- Terminology differs from developer and consumer as consumers are more familiar with the software.
+- Terminology differs between developer and consumer as consumers are more familiar with the software.
   - This may lead to consumers leaving out details when describing how they use an application as they are used to using it and may deem actions useless or forgettable.
 
 ![Task Cards](../images/chap/3.6_task_cards.png)
@@ -120,23 +120,23 @@ Problems of user stories include:
 ### Refactoring
 
 Extreme programming believes that you should not design systems to cope with
-change because often times anticipated changes may not occur or a completely
+change because often anticipated changes may not occur or a completely
 different change occurs. Instead, code should be refactored, or in other words improved,
-constantly. Refactoringincludes renaming names of methods and attributes, removing duplicate code to
+constantly. Refactoring includes renaming names of methods and attributes, removing duplicate code to
 reorganize class hierarchies and relationships, replacing code that is similar
 to each other, etc. The objective of doing this is to make developers
 understand the software more which would lead to less of a need for
 documentation due to the code being easier to understand and structured well.
 
 However, refactoring is not always possible as developmental pressures may
-occur and push for new features to be implented instead of refacotring old code.
-Refactoring system archiectures are also extremely expensive.
+occur and push for new features to be implemented instead of refactoring old code.
+Refactoring system architectures are also extremely expensive.
 
 ### Test-first development
 
 ![Test Cases](../images/chap/3.7_test_case.png)
 
-Extreme Programming included new ideas of testing. Four key principles of testing
+Extreme Programming included new ideas for testing. Four key principles of testing
 in extreme programming are:
 
 - Test-first development / test-driven development
@@ -201,7 +201,7 @@ of iterative development. There are three main phases in Scrum:
 
 ![Scrum Sprints](../images/chap/3.9_Scrum_Sprint.png)
 
-Scrum sprints have a fixed length (usually 2 - 4 weeks) and begin by the
+Scrum sprints have a fixed length (usually 2 - 4 weeks) and begin with the
 creation of a product backlog which is a list of objectives and work that
 should be done. The next stage is the selection phase where features and
 functionalities are selected from the product backlog. These will be the
@@ -211,7 +211,7 @@ during the time frame. After this stage, teams are organized to develop the
 software.
 
 Teams will hold short daily meetings known as Scrums to discuss current
-progress and any changes they need to make towards prioritization of features.
+progress and any changes they need to make towards the prioritization of features.
 This allows everyone on the team to know what is currently happening and can
 replan activities quickly if needed. to maximize the time of creating the
 code, the development team is also isolated from stakeholders and other members
@@ -290,13 +290,13 @@ with developing software with such methodologies:
 ![Factors](../images/chap/3.12_factors.png)
 
 Figure 3.12 showcases some factors that should be considered to determine
-whether an agile and/or plan-driven model should be considered. Some example of
+whether an agile and/or plan-driven model should be considered. Some examples of
 issues/questions and answers to this include:
 
 - Is it important to have detailed documentation before implementation happens?
-  - Use plan-driven approach
+  - Use a plan-driven approach
 - Is it realistically feasible to have stakeholders give constant input and developers can deliver many prototypes?
-  - Use Agile approach
+  - Use the Agile approach
 - How large is the system?
   - Agile methods work best in small co-located teams; use a plan-driven approach is the system is too large and requires bigger or multiple teams.
 - What type of system is being developed?
