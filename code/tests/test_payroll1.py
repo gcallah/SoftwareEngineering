@@ -4,7 +4,7 @@ This is the test suite for payroll1.py.
 
 from unittest import TestCase, skip
 
-from code.payroll1 import calc_fed_inc
+import code.payroll1 as pr
 
 TEST_GROSS_INC = 1000
 
@@ -16,7 +16,16 @@ class PayrollTestCase(TestCase):
     def tearDown(self):
         pass
 
-    def test_calc_fed_inc(self):
-        self.assertLessEqual(calc_fed_inc(TEST_GROSS_INC), TEST_GROSS_INC)
-        self.assertGreaterEqual(calc_fed_inc(TEST_GROSS_INC), 0)
+    def test_calc_bracketed_deduct(self):
+        """
+        We want to be sure the deduction is >= 0 and <= gross pay.
+        """
+        deduct = pr.calc_bracketed_deduct(TEST_GROSS_INC,
+                                          pr.FED_TAX_BRACKETS)
+        self.assertGreaterEqual(deduct, 0)
+        self.assertLessEqual(deduct, TEST_GROSS_INC)
+        deduct = pr.calc_bracketed_deduct(TEST_GROSS_INC,
+                                          pr.PA_TAX_BRACKETS)
+        self.assertGreaterEqual(deduct, 0)
+        self.assertLessEqual(deduct, TEST_GROSS_INC)
 

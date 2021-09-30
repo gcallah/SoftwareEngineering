@@ -10,59 +10,44 @@ FED_TAX_BRACKETS = [
     [2001, .3],
     [BIG_NUM, .4]
 ]
+PA_TAX_BRACKETS = [
+    [501, 0],
+    [1001, .005],
+    [1501, .01],
+    [2001, .02],
+    [BIG_NUM, .03]
+]
+NY_TAX_BRACKETS = [
+    [501, 0],
+    [1001, .1],
+    [1501, .15],
+    [2001, .2],
+    [BIG_NUM, .25]
+]
+
+STATE_TABLES = {
+    "NY": NY_TAX_BRACKETS,
+    "PA": PA_TAX_BRACKETS,
+}
 
 
-def calc_fed_inc(gross_pay):
+def calc_bracketed_deduct(gross_pay, bracket_table):
     """
-    Calculate federal income tax deduction.
+    Calculate a deduction based on a bracket table.
     """
-    for bracket in FED_TAX_BRACKETS:
+    for bracket in bracket_table:
         if bracket[BRACKET_MAX] > gross_pay:
-            fed_inc = gross_pay * bracket[BRACKET_RATE]
+            deduct = gross_pay * bracket[BRACKET_RATE]
             break
-    return fed_inc
+    return deduct
 
 
 def calc_pay(emp, rate, hours, state):
     gross_pay = rate * hours
     net_pay = gross_pay
-    fed_inc = calc_fed_inc(gross_pay)
+    fed_inc = calc_bracketed_deduct(gross_pay, FED_TAX_BRACKETS)
     net_pay -= fed_inc
-    state_inc = 0
-    if state == "NY":
-        if gross_pay <= 500:
-            state_inc = 0
-        elif gross_pay <= 1001:
-            state_inc = gross_pay * .01
-        elif gross_pay <= 1501:
-            state_inc = gross_pay * .02
-        elif gross_pay <= 2001:
-            state_inc = gross_pay * .03
-        else:
-            state_inc = gross_pay * .04
-    elif state == "PA":
-        if gross_pay <= 500:
-            state_inc = 0
-        elif gross_pay <= 1001:
-            state_inc = gross_pay * .005
-        elif gross_pay <= 1501:
-            state_inc = gross_pay * .01
-        elif gross_pay <= 2001:
-            state_inc = gross_pay * .02
-        else:
-            state_inc = gross_pay * .03
-    elif state == "CT":
-        if gross_pay <= 500:
-            state_inc = 0
-        elif gross_pay <= 1001:
-            state_inc = gross_pay * .05
-        elif gross_pay <= 1501:
-            state_inc = gross_pay * .1
-        elif gross_pay <= 2001:
-            state_inc = gross_pay * .15
-        else:
-            state_inc = gross_pay * .2
-    net_pay -= fed_inc
+    net_pay -= calc_bracketed_deduct(gross_pay, STATE_TABLES[state])
     ss_deduct = max(gross_pay, 2000) * .07
     net_pay -= ss_deduct
     ins_deduct = 12
