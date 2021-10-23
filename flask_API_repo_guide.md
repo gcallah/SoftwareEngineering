@@ -38,3 +38,13 @@
    - At this point, you should see a message saying "hello world" being returned to you in the response body with the repose code 200
    - To stop the server, type ```control + c``` in your shell. 
 
+4. You should also be able to run tests.
+   - From the top level directory type `make tests`
+   - Try writing a new endpoint and a new test: put the endpoint in `API/endpoints.py` and the test in `API/tests/test_endpoints.py`
+
+5. Running `make prod` should run the tests and then push to GitHub.
+
+6. There is a `.travis.yml` file in the top-level directory of the repo. You need to edit it to use your repo name instead of `flask-api`.
+
+7. Set up an account at `travis-ci.com` using your GitHub account. Turn on *Build on pushes* for your repo. Now, when you push to GitHub, Travis should run a build for your project.  
+
