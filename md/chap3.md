@@ -167,7 +167,7 @@ etc.
 Problems of test-first development include:
 
 - Incomplete tests may be made as it is impossible to test for all exceptions. In other words, tests can be written incompletely or haphazardly.
-- Tests may be difficult to be written incrementally.
+- Tests may be difficult to write incrementally.
 
 ### Pair programming
 
