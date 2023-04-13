@@ -1,0 +1,42 @@
+Project Name,Project GitHub repo URL,Team Member # 1,Team Member # 1 GitHub Username,Team Member # 2,Team Member # 2 GitHub Username,Team Member # 3,Team Member # 3 GitHub Username,Team Member # 4,Team Member # 4 GitHub Username,Team Member # 5,Team Member # 5 GitHub Username,TA,"09/09/23
+Standup notes"
+Food Your Way,https://github.com/agm316/Food-Your-Way/,Ricky Chu,rchu6120,Ara Mangoyan,agm316,Roman Negri,Rn9303,Brad Yuan,bradyawn,,,Tanmay,
+BJ,https://github.com/BowenGong2000/swe_project,Tracy Zhu,TracyZhu0608,George Huang,GeorgeHuang1126 ,Bowen Gong,BowenGong2000,Shangyu Xie,xieshangyu,Yishi Wang,FantasiA10,Tanmay,"Continue - Did DB stuff, UI last sem
+Last week - Table for storing existing projects
+Next plan - Build frontend, Project details page, clickable buttons to save or export project, how to deploy the project
+This week - Connect DB with frontend
+
+No issues"
+Guild Manager,https://github.com/Jorge-A-Velasquez/Guild-Manager-Capstone,Charlie Cai,charliecai00,Zhiquan Cao,ZhiquanCao,Ziynou Fleming,Zighnou,jav494 NYU,Jorge-A-Velasquez,,,Shubham,
+Virtual Wardrobe,https://github.com/bsaun99/Virtual-Wardrobe,Aadiba Haque,adibsxion19,Bismah Shahid,bismahshahid,Bethany Louise Saunders,bsaun99,Dorothy Uriri Akpovwa,Dorothyakpovwa,Nakeya Adams,nadams019,Tanmay,"Prev sem
+Login, homepage, designs on Figma, connected to MongoDB, Test cases working
+Goals for this sem
+Finishing the clothes upload page, fix spacing issues, work on backend, aesthetics, 
+Recommendations pending
+
+No issues"
+AptGet,https://github.com/Apt-Get-SWE/SWEProject-Aptget,Leo Li,leo4life2,oliver.li@nyu.edu,Oliver Li / Olivernyu,Tom Zhang,TomY-Zhang,Alex Yan,Alex-YuYan,,,Shubham,
+Ticket Scraper,https://github.com/mateogu0620/ticket_scraper,Joshua Wirth,joshw202,Mateo Garcia Uribe,mateogu0620,Nirav Golyalla,NiravGolyalla,Naren Srinivasan,narensrinivasan,,,Shubham,
+BrewBot,https://github.com/Tyarporn/coldbrew-coders,Ty Arpornsuksant,Tyarporn,Shashanka Sharma,Shashanka-Sharma,Cameron Vong,cameronvong,Tahmeed Chowdhury,chowdhurytahmeed,,,Tanmay,"Setting up Mongo, finishing server endpoints, Added tests, 
+This sem
+Ensure automated CICD works, automated stuff, explore cloud deployment, 
+Add Travis tests
+Mock frontend using Figma - Info about bots 
+"
+Roommate Finder,https://github.com/juliawnyu/roommate-app,Julia Westphal,juliawnyu,Bianca Macias,biancamacias,CJ Nnorom,ChineduNnorom,Kang In Park,kip218,,,Shubham,
+Coin Wizards/fintech,https://github.com/Dayana20/monitoring-crypto ,Dayana Alejandro,Dayana20,Ahnaf Tazwar,Ahnaf146,Dipu Chowdhury,Dipu-Chowdhury,ARUUKE BAIAKMATOVA,aruuuke,Darren Chan,ddarrenc,Tanmay,"Created endpoints, connected to DB,
+
+Work on frontend
+MVP by midsemester
+Timeline available on GitHub
+
+No issues"
+REPSAJ,https://github.com/AndrewCzh/SDE-project,Andrew Cao,Zhenghua_Cao,Tianzuo Liu,tl3119,Sanyu Feng,SanyuFeng,Jiali Xu,,,,Shubham,
+GroGetter,https://github.com/zhangdzh/SWE-F22,Dorothy Zhang,zhangdzh,Jeffery Tse,tse-jeff,Yeseon Kim,Yeseon02,Jun Hyung Kim,junhkim20,,,Tanmay,"Mongo cluster and working locally
+MongoDB connections does not have Github actions?
+Goals for this sem
+"
+word cluster,https://github.com/Sophie-Xinyu-Zhang/word-cluster,Sophie Zhang,Sophie-Xinyu-Zhang,Mohammed Shipat Uddin,muddin3031,Ac8736@nyu.edu,ac8736,,,,,Shubham,
+Cheffing it up,https://github.com/dia-bolix/cheffing_it_up,as13388@nyu.edu,AlstonS,Rosio Angeles,dia-bolix,,,,,,,Shubham,
+Anubis,https://github.com/AnubisLMS,ytc344@nyu.edu ,KHVIII,Pinhan Zhao,zphw,,,,,,,Tanmay,
+movie ticketing,https://github.com/StevenV0277/DesignProject,Steven Villagran,,Giancarlos Cabrera,,Fernando Parada Orellana,,,,,,shubham,
