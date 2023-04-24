@@ -32,9 +32,11 @@ $(PTML_DIR)/%.ptml: $(MARKDOWN_DIR)/%.md
 
 ptml: $(PTMLFILES)
 
-prod: $(INCS) $(HTMLFILES) tests
+github:
 	-git commit -a 
 	git push origin master
+
+prod: $(INCS) $(HTMLFILES) tests github
 
 submods:
 	git submodule foreach 'git pull origin master'
