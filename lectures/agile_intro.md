@@ -4,10 +4,22 @@
 
 ### The Ford / Taylor Factory Model
 
+#### Taylorism
+
 [Frederick Winslow Taylor](https://en.wikipedia.org/wiki/Frederick_Winslow_Taylor)
 
+#### Ford
 
-This was taken to be the best practice for production, so naturally managers tried to apply it to software.
+[Ford assembly
+line](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ford_assembly_line_-_1913.jpg/440px-Ford_assembly_line_-_1913.jpg)
+
+* Huge batches (economy of scale)
+* Push model of production
+* Don't respond to customer preferences: shape them!
+
+Ford: "Any customer can have a car painted any color that he wants so long as it is black."
+
+These approaches were taken to be the best practice for production, so naturally managers tried to apply it to software.
 
 The result was:
 
@@ -55,6 +67,7 @@ Notable features:
 * Work in small batches.
 * Limit work in progress.
 
+Note: small batch foods are based on the same "small batch" idea!
 
 ### UNIX
 
@@ -112,12 +125,18 @@ agile developers. Since he was bringing together DEVelopment and OPerations, he 
 
 [DevOps](https://en.wikipedia.org/wiki/DevOps)
 
-I have forwarded a definition of DevOps as "Agile carried over to operations."
+The name caught on and was applied to an entire movement.
+
+I have suggested a definition of DevOps as "Agile carried over to operations."
 
 In the early 2000s, participants at a conference were shocked to hear that one group was releasing software *several
 time per day*.
 
 By 2013, Amazon was pushing new code into production *every 11 seconds*.
+
+The heuristic: "If releasing new software versions is painful... keep doing it, often, until it is easy!"
+
+(Helped by small batches, automated testing, version control, easy rollbacks.)
 
 ### Chaos Engineering
 
@@ -142,6 +161,9 @@ See Nassim Taleb's book [Antifragile](https://en.wikipedia.org/wiki/Antifragile_
 * Automated builds
 * Automated deploys
 
+Note: Continuous Integration means **first** integrate all of the parts of 
+a system, and then gradually refine them, while making sure they still work together. Quite the opposite of
+how Summerville defines it!
 
 ## Demo
 
@@ -158,41 +180,58 @@ Let's do some actual Agile / DevOps work!
 a. Google
 b. Ford
 c. Microsoft
-*d. Toyota
+d. Toyota
 
 2. In Agile, the primary measure of progress is?
 a. requirements documents
 b. diagrams
-*c. working software
+c. working software
 d. a progress report sent to the customer
 
 3. In software development, an MVP refers to a?
 a. Most Valuable Programmer
 b. Modular Variable Programming
 c. Multiply Vector Probability
-*d. Minimum Viable Product
+d. Minimum Viable Product
 
 4. Waterfall projects often fail because?
 a. It is very difficult to fully understand what a program needs to do without building it.
 b. The competitive environment may change.
 c. The regulatory environment may change.
-*d. All of the above.
+d. All of the above.
 
 5. The Waterfall Model works well when one is?
 a. Breaking new ground with a product.
 b. Solving a brand new problem.
-*c. Replicating an existing solution.
+c. Replicating an existing solution.
 d. All of the above.
 
 6. DevOps essentially arose from applying ____ principles to ____.
 a. waterfall, development
 b. operations, testing
-*c. agile, operations
+c. agile, operations
 d. lean, development
 
 7. DevOps could be defined as?
-*a. Agile applied to operations
+a. Agile applied to operations
 b. A total waste of time.
 c. A return to Waterfall methods.
-d. 
+d. Developing operations to a greater extent.
 
+8. In Taylorism, process input from workers was?
+a. encouraged
+b. the most important part of design
+c. not wanted
+d. All of the above.
+
+9. When practicing Continuous Integration, we should?
+a. First integrate our components, and then build them.
+b. Integrate our components as soon as we are done building them.
+c. Make sure their is continuity in our integrated components.
+d. All of the above.
+
+10. Why were many operations people fearful of Agile develpment?
+a. They disliked the word "agile."
+b. In the past, releases had been high-stress events for them.
+c. They just didn't like developers.
+d. None of the above.
