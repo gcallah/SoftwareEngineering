@@ -128,7 +128,7 @@ I would say that Lean and Agile are basically two different names for the same a
 
 ### DevOps
 
-![The DevOps cycle](http://www.thedevopscourse.com/static/devops/devops_inter.png)
+<img src="http://www.thedevopscourse.com/static/devops/devops_inter.png" height="300" width="600">
 
 By the early 2000s, many development teams had embraced agile and lean processes. But operations was lagging behind.
 
