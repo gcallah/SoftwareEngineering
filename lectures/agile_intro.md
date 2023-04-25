@@ -30,16 +30,27 @@ The result was:
 
 ### The Waterfall Model
 
-![Waterfall model diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Waterfall_model.svg/700px-Waterfall_model.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Waterfall_model.svg/700px-Waterfall_model.svg.png" width="600" height="300">
 
 "The waterfall development model originated in the manufacturing and
 construction industries, where the highly structured physical
 environments meant that design changes became prohibitively expensive much
 sooner in the development process." -- Wikipedia
 
+All of the intelligence was supposedto reside in the "analysts," while the programmers merely knew howto type those
+requirements out in their chosen programming language.
+
+The programmers never met the users.
+
+Building a new Walmart warehouse vs. building a new piece of software.
+
+If we need to "stamp out" new software, what do we do?
+
 [Failed waterfall projects](https://en.wikipedia.org/wiki/List_of_failed_and_overbudget_custom_software_projects)
 
-My failed project stories.
+Some failed project stories.
+
+Contrast with working with option traders.
 
 Why did the Waterfall Model fail so often and so spectacularly?
 
