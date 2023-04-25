@@ -173,6 +173,7 @@ See Nassim Taleb's book [Antifragile](https://en.wikipedia.org/wiki/Antifragile_
 * Incremental Development (small batches)
 * Infrastructure-as-Code
 * Automated testing
+* Test-Driven Development
 * Limit work in progress
 * Kanban
 * Version control
