@@ -10,7 +10,7 @@
 
 #### Ford
 
-[Ford assembly
+![Ford assembly
 line](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Ford_assembly_line_-_1913.jpg/440px-Ford_assembly_line_-_1913.jpg)
 
 * Huge batches (economy of scale)
