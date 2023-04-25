@@ -156,7 +156,7 @@ The heuristic: "If releasing new software versions is painful... keep doing it, 
 
 ### Chaos Engineering
 
-![Zooming the Mandelbrot set](https://upload.wikimedia.org/wikipedia/commons/a/a4/Mandelbrot_sequence_new.gif)
+![The Mandelbrot set](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mandel_zoom_00_mandelbrot_set.jpg/644px-Mandel_zoom_00_mandelbrot_set.jpg)
 
 Amazon East crash of 2011: brought down Foursquare and Reddit, among other major sites.
 
