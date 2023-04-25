@@ -30,7 +30,7 @@ The result was:
 
 ### The Waterfall Model
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Waterfall_model.svg/700px-Waterfall_model.svg.png" width="600" height="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Waterfall_model.svg/700px-Waterfall_model.svg.png" width="600" height="400">
 
 "The waterfall development model originated in the manufacturing and
 construction industries, where the highly structured physical
