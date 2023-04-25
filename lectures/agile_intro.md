@@ -127,7 +127,7 @@ Netflix kept running.
 
 Why? [Chaos Monkey](https://en.wikipedia.org/wiki/Chaos_engineering)!
 
-See Nassim Taleb's book [Antifragile]("https://en.wikipedia.org/wiki/Antifragile_(book)").
+See Nassim Taleb's book [Antifragile](https://en.wikipedia.org/wiki/Antifragile_%28book%29).
 
 ## Practices
 
