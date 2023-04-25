@@ -8,6 +8,11 @@
 
 [Frederick Winslow Taylor](https://en.wikipedia.org/wiki/Frederick_Winslow_Taylor)
 
+![A machinist at a Taylorist
+plant](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Musterarbeitsplatz.png/500px-Musterarbeitsplatz.png)
+
+All intelligence was in management and resesarch departments: the workers were human machines.
+
 #### Ford
 
 ![Ford assembly
