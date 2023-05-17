@@ -6,5 +6,5 @@
 - No 'SWE' names.
 - Stress constants.
 - Short functions.
--
+- Install MongoDB in `make dev_env`
 -
