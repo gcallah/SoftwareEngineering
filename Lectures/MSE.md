@@ -5,9 +5,17 @@
 
 We are able to get rapid feedback and *learn* what our software needs to do.
 
-## Components:
+## When Do We Need It?
+
+We don't always need software engineering. Sometimes "just programming" is fine. And when we do need it, how much is often a matter of degree. We need more software engineering the greater the:
+
+* Lifespan of the project
+* Number of people working on the project
+* Amount of code in the project
+
+## Aspects of MSE:
 
 * [[Modularity]]
 * Incremental development
-* Automated testing
+* [[Automated testing]]
 * CI-CD

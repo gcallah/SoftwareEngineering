@@ -4,11 +4,12 @@
 * Examples from a car.
 * What represents a component in software:
 	* A function
-	* An class
+	* A class
 	* A file (module)
 	* A directory (package)
 	* An executable program
 		* UNIX versus IBM 360
+	* Servers
 * What's a "single purpose"? Can you say what the component does in a short sentence? This will repeat at lower and lower levels. Example:
 	* The engine powers the car.
 		* The pistons are where the power is generated.
