@@ -19,3 +19,4 @@ We don't always need software engineering. Sometimes "just programming" is fine.
 * Incremental development
 * [[Automated testing]]
 * CI-CD
+* [[Special purpose languages]]
