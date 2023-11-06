@@ -15,8 +15,10 @@ We don't always need software engineering. Sometimes "just programming" is fine.
 
 ## Aspects of MSE:
 
+* [[Agile versus Waterfall]]
 * [[Modularity]]
 * Incremental development
+* [[Automated builds]]
 * [[Automated testing]]
 * CI-CD
 * [[Special purpose languages]]

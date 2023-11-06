@@ -40,3 +40,13 @@ Don't have one component that "reads the file, removes the newlines, and substit
 ## How do we practice it?
 
 A great technique is to code top-down. **Do not** worry about the details of components to start.
+
+
+## Organizing Modules
+
+It is usually best to organize them in a hierarchy.
+
+`A` imports from `B` imports from `C`... means `C` should never import from `A` or `B`, and `B` never 
+import from `A`.
+
+Often the top level, you will find your user facing code. The very bottom level will be details of connecting to external packages.
