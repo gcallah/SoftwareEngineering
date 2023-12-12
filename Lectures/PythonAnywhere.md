@@ -6,7 +6,7 @@
 4. Clone repo
 5. [Create virtual environment](https://help.pythonanywhere.com/pages/Virtualenvs/)
 6. Install packages
-7. Set up whiskey file
+7. Set up WSGI file
 8. Try your server
 9. Read the log file if it doesn’t work
 10. Fix problems
