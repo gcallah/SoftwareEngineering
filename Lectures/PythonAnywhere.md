@@ -5,6 +5,7 @@
 3. Install public SSH key
 4. Clone repo
 5. [Create virtual environment](https://help.pythonanywhere.com/pages/Virtualenvs/)
+6. Set virtual env in Web dashboard
 6. Install packages
 7. Set up WSGI file
 8. Try your server
