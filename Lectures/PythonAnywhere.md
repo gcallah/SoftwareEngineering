@@ -5,6 +5,7 @@
 1. Install public SSH key on GitHub
 1. Clone your repo
 1. [Create a virtual environment](https://help.pythonanywhere.com/pages/Virtualenvs/)
+1. Create a Web app using the Web dashboard (choose 'Manual Configuration')
 1. Set virtual env in Web dashboard
 1. Install packages in your virtual env using `pip`
 1. Set up WSGI file: add your MongoDB password and set CLOUD_MONGO=1 (Sample WSGI below!)
