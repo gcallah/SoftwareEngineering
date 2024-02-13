@@ -8,5 +8,5 @@
 1. If you'd like, test `rebuild.sh` separately on PA. (You have to set VENV, PA_DOMAIN, and PA_USER!)
 1. Try SSHing into your PA account: https://help.pythonanywhere.com/pages/SSHAccess/ (`ssh Fall2023@ssh.pythonanywhere.com`)
 1. Install sshpass locally. (Mac: `brew install hudochenkov/sshpass/sshpass`; Ubuntu: `apt -y install sshpass`)
-1. 
+1. Uncomment the section of your `main.yml` that deploys to PythonAnywhere.
 
