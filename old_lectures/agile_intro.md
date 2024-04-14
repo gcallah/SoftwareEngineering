@@ -112,7 +112,7 @@ the concept of [Lean software development](https://en.wikipedia.org/wiki/Lean_so
 
 ### Agile
 
-At roughly the same time as Lean was being developed, a group of developers, often from the UNIX world, were developing
+At roughly the same time as Lean was being developed, a group of developers, often from the UNIX world, were articulating
 the concept of [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development).
 
 Key agile principles:
