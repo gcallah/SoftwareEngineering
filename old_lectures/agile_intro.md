@@ -150,6 +150,8 @@ time per day*.
 
 By 2013, Amazon was pushing new code into production *every 11 seconds*.
 
+Today, Amazon puts new code into production more than once per second!
+
 The heuristic: "If releasing new software versions is painful... keep doing it, often, until it is easy!"
 
 (Helped by small batches, automated testing, version control, easy rollbacks.)
