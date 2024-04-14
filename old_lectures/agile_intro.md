@@ -168,6 +168,19 @@ Why? [Chaos Monkey](https://en.wikipedia.org/wiki/Chaos_engineering)!
 
 See Nassim Taleb's book [Antifragile](https://en.wikipedia.org/wiki/Antifragile_%28book%29).
 
+
+### Alienation
+
+Karl Marx developed the concept of *alienation*:
+under capitalism, he said, workers were *alienated*
+from the product they made: they might mechanically
+perform an action, again and again, to make some small piece
+of a larger product about which they had no clue. They lost their.
+humanity and became essentially human machines.
+
+We could view Agile, Lean, and DevOps as,
+to some extent, undoing this alienation.
+
 ## Practices
 
 * Continuous Integration
@@ -185,6 +198,7 @@ See Nassim Taleb's book [Antifragile](https://en.wikipedia.org/wiki/Antifragile_
 Note: Continuous Integration means **first** integrate all of the parts of 
 a system, and then gradually refine them, while making sure they still work together. Quite the opposite of
 how Summerville defines it!
+
 
 ## Demo
 
