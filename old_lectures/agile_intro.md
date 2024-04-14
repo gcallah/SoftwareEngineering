@@ -198,61 +198,101 @@ Let's do some actual Agile / DevOps work!
 ## Quiz
 
 1. What company was at the forefront of lean production?
+
 a. Google
+
 b. Ford
+
 c. Microsoft
+
 d. Toyota
 
 2. In Agile, the primary measure of progress is?
+
 a. requirements documents
+
 b. diagrams
+
 c. working software
+
 d. a progress report sent to the customer
 
 3. In software development, an MVP refers to a?
+
 a. Most Valuable Programmer
+
 b. Modular Variable Programming
+
 c. Multiply Vector Probability
+
 d. Minimum Viable Product
 
 4. Waterfall projects often fail because?
+
 a. It is very difficult to fully understand what a program needs to do without building it.
+
 b. The competitive environment may change.
+
 c. The regulatory environment may change.
+
 d. All of the above.
 
 5. The Waterfall Model works well when one is?
+
 a. Breaking new ground with a product.
+
 b. Solving a brand new problem.
+
 c. Replicating an existing solution.
+
 d. All of the above.
 
 6. DevOps essentially arose from applying ____ principles to ____.
+
 a. waterfall, development
+
 b. operations, testing
+
 c. agile, operations
+
 d. lean, development
 
 7. DevOps could be defined as?
+
 a. Agile applied to operations
+
 b. A total waste of time.
+
 c. A return to Waterfall methods.
+
 d. Developing operations to a greater extent.
 
 8. In Taylorism, process input from workers was?
+
 a. encouraged
+
 b. the most important part of design
+
 c. not wanted
-d. All of the above.
+
+d. none of the above.
 
 9. When practicing Continuous Integration, we should?
+
 a. First integrate our components, and then build them.
+
 b. Integrate our components as soon as we are done building them.
+
 c. Make sure their is continuity in our integrated components.
+
 d. All of the above.
 
 10. Why were many operations people fearful of Agile develpment?
+
 a. They disliked the word "agile."
+
 b. In the past, releases had been high-stress events for them.
+
 c. They just didn't like developers.
+
 d. None of the above.
