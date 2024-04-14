@@ -104,7 +104,7 @@ What accounts for the success of UNIX?
 
 ### Lean
 
-Mary Popendieck was is a product development manager at 3M, A company which had adapted, lean manufacturing and product
+Mary Popendieck was a product development manager at 3M, A company which had adapted, lean manufacturing and product
 development. When she was put in charge of the software project, she was shocked at the idea that the team should begin
 by writing a huge requirements document. She miss used to product developers building simple versions of an idea getting
 feedback from customers right away. She and her husband, Tom adapted this approach to software development, pioneering
