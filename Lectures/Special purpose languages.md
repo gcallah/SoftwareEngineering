@@ -1,3 +1,5 @@
+# Special Purpose Languages
+
 First, every CS student should understand the idea of a [Universal Turing Machine](https://en.wikipedia.org/wiki/Universal_Turing_machine) and the [Church-Turing Thesis](https://en.wikipedia.org/wiki/Church–Turing_thesis). The practical import of these ideas is that all general-purpose computers, and all general-purpose programming languages, can compute anything any other general-purpose computer or language can compute. (Some of them might be much slower than others, or make it easier to express a computation.)
 
 You are familiar with lots of general-purpose languages: C, C++, C#, Java, Python, JavaScript, Pascal, Fortran, Cobol, Perl, Rust, Go, Lisp, Clojure, Haskell... there are *many*! (Rule 110)
