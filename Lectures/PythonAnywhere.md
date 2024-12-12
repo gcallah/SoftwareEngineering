@@ -11,8 +11,13 @@
 1. Set up WSGI file: add your MongoDB password and set CLOUD_MONGO=1 (Sample WSGI below!)
 1. Try your server
 1. Read the error log file if it doesn’t work
-1. Fix problems
+1. Fix problemsSet
 1. Try your server
+
+# Autodeploy through GitHub Actions
+1. From the `Account` tab create a API Key. Copy it!
+1. Enter the key in your `.bashrc` in a PythonAnywhere console. (`export API_KEY=<YOUR_KEY>`)
+1. Setup ssh access to your PythonAnywhere account; instructions here: https://help.pythonanywhere.com/pages/SSHAccess
 
 
 ## Sample WSGI file:
