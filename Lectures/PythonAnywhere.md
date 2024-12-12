@@ -18,7 +18,7 @@
 1. From the `Account` tab create a API Key. Copy it!
 1. Enter the key in your `.bashrc` in a PythonAnywhere console. (`export API_KEY=<YOUR_KEY>`)
 1. Setup ssh access to your PythonAnywhere account; instructions here: https://help.pythonanywhere.com/pages/SSHAccess
-
+1. From now on when you push to GitHub, **if** your tests pass, your server should update automatically.
 
 ## Sample WSGI file:
 
