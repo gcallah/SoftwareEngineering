@@ -18,7 +18,7 @@
 1. Make sure your "Deploy to PythonAnywhere" code in `.github/workflows/main.yml` is **not** commented out!
 1. Install the PythonAnywhere (PA) helper scripts from your PA console: `pip3.10 install --user pythonanywhere`
 1. From the `Account` tab create a API Key. Copy it!
-1. Enter the key in your `.bashrc` in a PythonAnywhere console. (`export API_KEY=<YOUR_KEY>`)
+1. Enter the key in your `.bashrc` in a PythonAnywhere console. (`export API_TOKEN=<YOUR_KEY>`)
 1. Setup ssh access to your PythonAnywhere account; instructions here: https://help.pythonanywhere.com/pages/SSHAccess
 1. From now on when you push to GitHub, **if** your tests pass, your server should update automatically.
 
