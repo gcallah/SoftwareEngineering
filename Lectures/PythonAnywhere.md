@@ -3,9 +3,9 @@
 1. Create an account at [Python Anywhere](https://www.pythonanywhere.com/)
 1. Clone your repo
 1. [Create a virtual environment](https://help.pythonanywhere.com/pages/VirtualEnvForWebsites)
+1. Install packages in your virtual env using `pip` and `requirements.txt`
 1. Create a Web app using the Web dashboard (choose 'Manual Configuration')
 1. Set virtual env in Web dashboard
-1. Install packages in your virtual env using `pip`
 1. Set up WSGI file: add your MongoDB password and set CLOUD_MONGO=1 (Sample WSGI below!)
 1. Try your server
 1. Read the error log file if it doesn’t work
@@ -13,6 +13,7 @@
 1. Try your server
 
 Not necessary? 1. [Create SSH key](https://help.pythonanywhere.com/pages/ExternalVCS/)
+
 Not necessary? 1. Install public SSH key on GitHub Not necessary?
 
 # Autodeploy through GitHub Actions
