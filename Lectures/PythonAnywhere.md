@@ -1,6 +1,6 @@
 # Deploying to Python Anywhere
 
-1. Create an account at [Python Amywhere](https://www.pythonanywhere.com/)
+1. Create an account at [Python Anywhere](https://www.pythonanywhere.com/)
 1. [Create SSH key](https://help.pythonanywhere.com/pages/ExternalVCS/)
 1. Install public SSH key on GitHub
 1. Clone your repo
