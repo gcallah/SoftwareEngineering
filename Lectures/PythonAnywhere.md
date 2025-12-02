@@ -1,8 +1,6 @@
 # Deploying to Python Anywhere
 
 1. Create an account at [Python Anywhere](https://www.pythonanywhere.com/)
-# 1. [Create SSH key](https://help.pythonanywhere.com/pages/ExternalVCS/) Not necessary?
-# 1. Install public SSH key on GitHub Not necessary?
 1. Clone your repo
 1. [Create a virtual environment](https://help.pythonanywhere.com/pages/Virtualenvs/)
 1. Create a Web app using the Web dashboard (choose 'Manual Configuration')
@@ -13,6 +11,9 @@
 1. Read the error log file if it doesn’t work
 1. Fix problems
 1. Try your server
+
+Not necessary? 1. [Create SSH key](https://help.pythonanywhere.com/pages/ExternalVCS/)
+Not necessary? 1. Install public SSH key on GitHub Not necessary?
 
 # Autodeploy through GitHub Actions
 1. Make sure your "Deploy to PythonAnywhere" code in `.github/workflows/main.yml` is **not** commented out!
