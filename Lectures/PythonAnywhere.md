@@ -2,7 +2,7 @@
 
 1. Create an account at [Python Anywhere](https://www.pythonanywhere.com/)
 1. Clone your repo
-1. [Create a virtual environment](https://help.pythonanywhere.com/pages/Virtualenvs/)
+1. [Create a virtual environment](https://help.pythonanywhere.com/pages/VirtualEnvForWebsites)
 1. Create a Web app using the Web dashboard (choose 'Manual Configuration')
 1. Set virtual env in Web dashboard
 1. Install packages in your virtual env using `pip`
