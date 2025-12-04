@@ -14,7 +14,7 @@
 
 Not necessary? 1. [Create SSH key](https://help.pythonanywhere.com/pages/ExternalVCS/)
 
-Not necessary? 1. Install public SSH key on GitHub Not necessary?
+Not necessary? 1. Install public SSH key on GitHub
 
 # Autodeploy through GitHub Actions
 1. Make sure your "Deploy to PythonAnywhere" code in `.github/workflows/main.yml` is **not** commented out!
