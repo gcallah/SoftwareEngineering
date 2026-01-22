@@ -1,2 +1,3 @@
-# IntroPython
-An introduction to programming using Python.
+# Software Engineering
+
+A class on software engineering.
