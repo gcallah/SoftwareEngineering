@@ -13,6 +13,8 @@
 2. Steven Dorry
 3. Amish Vandse
 4. Karl Zerbe
+1. Lily McAmis
+2. Muath Alghamdi
 
 ## AXIS
 1. Si Yue Jiang
@@ -21,10 +23,12 @@
 
 
 ## ARSA
-1. Ryan jin
+1. Ryan Jin
 2. Sotiros Papadopoulos
 3. FuXian Gong
 4. Ramon Li
+5. Erik Lee
+
 
 ## Project Sens
 1. Erica Belcena
@@ -32,19 +36,19 @@
 3. Suha Hoque
 4. Ananya Shah
 5. Chris Cortes
-6. Ninai Li
+6. Nina Li
 
 ## Manager: Geethika Rao Gouravelli (CA)
 
 ## BEMG
-1. George Sirich
+1. George Sirichartchai
 2. Raymond Lin
-3. Emily wei
+3. Emily Wei
 4. Maksym Yemelianenko
 5. Bryant Chong
 
 
-## ENG404
+## Eng404
 1. Kyle Jia
 2. Alicia Li
 3. Rachel Chen 
@@ -52,7 +56,7 @@
 5. Carl Shi
 6. Alicia Tian
 
-## JSDR
+## Jsdr
 1. Jefferson Le
 2. Sebastian Liu
 3. Derek Kim
@@ -77,19 +81,17 @@
 2. Jaden Ritchie
 3. Rebecca Boadu
 4. Mikiyas Legesse
+5. Terra Nagai
 
 ## KSS
 1. Kushal Mamillapalli
 2. Siddhanth Bhatnagar
+3. Sanjana Chowdary
 
-## Unamed Group
+## Name pending
 1. Khalid Omer
 2. Prince Tsiquaye
-3. Eric Ma
-4. Alex
-
-## Students with No Group
+4. Alex Cheng
 1. Hongyi Wu
 2. Steven Oluwabusi
-3. Lily McAmis
-4. Alex Cheng
+
