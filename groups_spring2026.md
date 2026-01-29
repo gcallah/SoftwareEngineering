@@ -2,31 +2,31 @@
 
 # Manager: Prof. Eugene Callahan
 
-# SOUP
+## SOUP
 1. Haoxuan Wang
 2. Steven Kang
 3. Jerry Wu
 4. Eric Ma
 
-# Winterst 
+## Winterest 
 1. Ebtesham Ahmed
 2. Steven Dorry
 3. Amish Vandse
 4. Karl Zerbe
 
-# AXIS
+## AXIS
 1. Si Yue Jiang
 2. Aisha Roslan
 3. XinYan Chen
 
 
-# ARSA
+## ARSA
 1. Ryan jin
 2. Sotiros Papadopoulos
 3. FuXian Gong
 4. Ramon Li
 
-# Project Sens
+## Project Sens
 1. Erica Belcena
 2. Salma Awan
 3. Suha Hoque
