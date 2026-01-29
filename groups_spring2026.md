@@ -1,6 +1,6 @@
 # Groups List Spring 2026
 
-# Manager: Prof. Eugene Callahan
+## Manager: Prof. Eugene Callahan
 
 ## SOUP
 1. Haoxuan Wang
