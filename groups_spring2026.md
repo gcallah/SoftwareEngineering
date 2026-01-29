@@ -34,9 +34,9 @@
 5. Chris Cortes
 6. Ninai Li
 
-# Manager: Geethika Rao Gouravelli (CA)
+## Manager: Geethika Rao Gouravelli (CA)
 
-# BEMG
+## BEMG
 1. George Sirich
 2. Raymond Lin
 3. Emily wei
@@ -44,7 +44,7 @@
 5. Bryant Chong
 
 
-# ENG404
+## ENG404
 1. Kyle Jia
 2. Alicia Li
 3. Rachel Chen 
@@ -52,7 +52,7 @@
 5. Carl Shi
 6. Alicia Tian
 
-# JSDR
+## JSDR
 1. Jefferson Le
 2. Sebastian Liu
 3. Derek Kim
@@ -60,35 +60,35 @@
 5. Soohyuek Choi
 6. Dhruv Gupta
 
-# GitJits
+## GitJits
 1. Charlie Li
 2. Brandon Kim
 3. Serena Nam 
 4. Sarah Niu
 
-# WAMP
+## WAMP
 1. Wendy Song
 2. Alexander Wu
 3. Mingjian li
 4. Pari Patel
 
-# RJRTM
+## RJRTM
 1. Riku Santa Cruz
 2. Jaden Ritchie
 3. Rebecca Boadu
 4. Mikiyas Legesse
 
-# KSS
+## KSS
 1. Kushal Mamillapalli
 2. Siddhanth Bhatnagar
 
-# Unamed Group
+## Unamed Group
 1. Khalid Omer
 2. Prince Tsiquaye
 3. Eric Ma
 4. Alex
 
-# Students with No Group
+## Students with No Group
 1. Hongyi Wu
 2. Steven Oluwabusi
 3. Lily McAmis
