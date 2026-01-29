@@ -5,7 +5,8 @@
 # SOUP
 1. Haoxuan Wang
 2. Steven Kang
-3. Jerry wu
+3. Jerry Wu
+4. Eric Ma
 
 # Winterst 
 1. Ebtesham Ahmed
