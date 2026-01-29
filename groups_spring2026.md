@@ -20,6 +20,7 @@
 1. Si Yue Jiang
 2. Aisha Roslan
 3. XinYan Chen
+4. Moayad Alismail
 
 
 ## ARSA
