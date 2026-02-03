@@ -88,6 +88,7 @@
 1. Kushal Mamillapalli
 2. Siddhanth Bhatnagar
 3. Sanjana Chowdary
+4. Jungwoo Park
 
 ## Name pending
 1. Khalid Omer
