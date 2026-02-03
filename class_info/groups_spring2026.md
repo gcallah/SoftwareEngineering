@@ -74,7 +74,7 @@
 ## WAMP
 1. Wendy Song
 2. Alexander Wu
-3. Mingjian li
+3. Mingjian Li
 4. Pari Patel
 
 ## RJRTM
@@ -90,10 +90,11 @@
 3. Sanjana Chowdary
 4. Jungwoo Park
 
-## Name pending
+## Nexus
 1. Khalid Omer
 2. Prince Tsiquaye
 4. Alex Cheng
 1. Hongyi Wu
 2. Steven Oluwabusi
+3. Christy Liu
 
