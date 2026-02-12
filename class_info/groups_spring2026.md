@@ -2,34 +2,41 @@
 
 ## Manager: Prof. Eugene Callahan
 
-## SOUP
+## Soup
 1. Haoxuan Wang
 2. Steven Kang
-3. Jerry Wu
+3. Jerry Wu  - x
 4. Eric Ma
 
+Presentations: |
+
 ## Winterest 
-1. Ebtesham Ahmed
-2. Steven Dorry
+1. Ebtesham Ahmed  - x
+2. Steven Dorry  - x
 3. Amish Vandse
 4. Karl Zerbe
 1. Lily McAmis
 2. Muath Alghamdi
 
+Presentations: |
+
 ## AXIS
-1. Si Yue Jiang
+1. Si Yue Jiang  - x
 2. Aisha Roslan
-3. XinYan Chen
+3. XinYan Chen  - x
 4. Moayad Alismail
+
+Presentations: |
 
 
 ## ARSA
-1. Ryan Jin
+1. Ryan Jin  - x
 2. Sotiros Papadopoulos
 3. FuXian Gong
-4. Ramon Li
+4. Ramon Li  - x
 5. Erik Lee
 
+Presentations: |
 
 ## Project Sens
 1. Erica Belcena
@@ -42,34 +49,42 @@
 ## Manager: Geethika Rao Gouravelli (CA)
 
 ## BEMG
-1. George Sirichartchai
+1. George Sirichartchai  - x
 2. Raymond Lin
-3. Emily Wei
+3. Emily Wei  - x
 4. Maksym Yemelianenko
 5. Bryant Chong
+
+Presentations: |
 
 
 ## Eng404
 1. Kyle Jia
-2. Alicia Li
-3. Rachel Chen 
+2. Alicia Li  - x
+3. Rachel Chen  - x
 4. Jenny Dong
 5. Carl Shi
 6. Alicia Tian
 
-## Jsdr
+Presentations: |
+
+## JSDR
 1. Jefferson Le
-2. Sebastian Liu
+2. Sebastian Liu  - x
 3. Derek Kim
 4. Rafiul Kashfi
 5. Soohyuek Choi
-6. Dhruv Gupta
+6. Dhruv Gupta  - x
+
+Presentations: |
 
 ## GitJits
-1. Charlie Li
-2. Brandon Kim
+1. Charlie Li  - x
+2. Brandon Kim  - x
 3. Serena Nam 
 4. Sarah Niu
+
+Presentations: |
 
 ## WAMP
 1. Wendy Song
