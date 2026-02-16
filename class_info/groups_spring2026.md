@@ -24,11 +24,11 @@
 
 
 ## ARSA
-1. Ryan Jin  - 2/5
-2. Sotiros Papadopoulos
+1. Ryan Jin (ryljin) - 2/5
+2. Sotiros Papadopoulos (sjp9)
 3. FuXian Gong
-4. Ramon Li  - 2/5
-5. Erik Lee
+4. Ramon Li (rl4694) - 2/5
+5. Erik Lee (leeerik)
 
 ## Project Sens
 1. Erica Belcena
