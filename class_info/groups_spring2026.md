@@ -41,8 +41,8 @@
 ## Manager: Geethika Rao Gouravelli (CA)
 
 ## BEMG
-1. George Sirichartchai  - 2/10
-2. Raymond Lin
+1. George Sirichartchai (gsiri-code) - 2/10
+2. Raymond Lin (SimplyFlawed)
 3. Emily Wei  - 2/10
 4. Maksym Yemelianenko
 5. Bryant Chong
@@ -57,31 +57,31 @@
 6. Alicia Tian
 
 ## JSDR
-1. Jefferson Le
-2. Sebastian Liu  - 2/10
-3. Derek Kim
-4. Rafiul Kashfi
-5. Soohyuek Choi
-6. Dhruv Gupta  - 2/10
+1. Jefferson Le (jeffersonnle)
+2. Sebastian Liu (SebL2) - 2/10
+3. Derek Kim (dyk6601)
+4. Rafiul Kashfi (kashfi1)
+5. Soohyuek Choi (soohyeuk)
+6. Dhruv Gupta (dhurvsgupta) - 2/10
 
 ## GitJits
-1. Charlie Li  - 2/12
-2. Brandon Kim  - 2/12
-3. Serena Nam 
-4. Sarah Niu
+1. Charlie Li (CharlieLi16) - 2/12
+2. Brandon Kim (branmkim) - 2/12
+3. Serena Nam (serenanam)
+4. Sarah Niu (Sssarah-N)
 
 ## WAMP
-1. Wendy Song  - 2/12
-2. Alexander Wu  - 2/12
-3. Mingjian Li
-4. Pari Patel
+1. Wendy Song (WendySong31)  - 2/12
+2. Alexander Wu (awu0518) - 2/12
+3. Mingjian Li (Normanisfine)
+4. Pari Patel (paripatel55)
 
 ## RJRTM
 1. Riku Santa Cruz  - 2/12
-2. Jaden Ritchie
-3. Rebecca Boadu  - 2/12
+2. Jaden Ritchie (jadenar07)
+3. Rebecca Boadu (rboadu) - 2/12
 4. Mikiyas Legesse
-5. Terra Nagai
+5. Terra Nagai (terranagai)
 
 ## KSS
 1. Kushal Mamillapalli (Techdude01)
@@ -90,10 +90,10 @@
 4. Jungwoo Park (Park J82)
 
 ## Nexus
-1. Khalid Omer
-2. Prince Tsiquaye
-4. Alex Cheng
-1. Hongyi Wu
-2. Steven Oluwabusi
-3. Christy Liu
+1. Khalid Omer (komer301)
+2. Prince Tsiquaye (princetsiq)
+4. Alex Cheng (alexchny)
+1. Hongyi Wu (WHRANKY)
+2. Steven Oluwabusi (St12t)
+3. Christy Liu (ChristyLiu557)
 
