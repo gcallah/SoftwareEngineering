@@ -44,17 +44,17 @@
 1. George Sirichartchai (gsiri-code) - 2/10
 2. Raymond Lin (SimplyFlawed)
 3. Emily Wei  - 2/10
-4. Maksym Yemelianenko
+4. Maksym Yemelianenko (1impossible-code)
 5. Bryant Chong
 
 
 ## Eng404
-1. Kyle Jia
-2. Alicia Li  - 2/10
-3. Rachel Chen  - 2/10
-4. Jenny Dong
-5. Carl Shi
-6. Alicia Tian
+1. Kyle Jia (kylejjh)
+2. Alicia Li (aLIcia118) - 2/10
+3. Rachel Chen (Rachelcrm) - 2/10
+4. Jenny Dong (js12848)
+5. Carl Shi (js12848)
+6. Alicia Tian (aaalicia233)
 
 ## JSDR
 1. Jefferson Le (jeffersonnle)
