@@ -12,9 +12,9 @@
 1. Ebtesham Ahmed  - 2/5
 2. Steven Dorry  - 2/5
 3. Amish Vandse
-4. Karl Zerbe
+4. Karl Zerbe -02/20
 1. Lily McAmis
-2. Muath Alghamdi
+2. Muath Alghamdi -02/20
 
 ## AXIS
 1. Si Yue Jiang  - 2/10
@@ -27,7 +27,7 @@
 1. Ryan Jin (ryljin) - 2/5
 2. Sotiros Papadopoulos (sjp9)
 3. FuXian Gong
-4. Ramon Li (rl4694) - 2/5
+4. Ramon Li (rl4694) - 2/5, 2/24
 5. Erik Lee (leeerik)
 
 ## Project Sens
