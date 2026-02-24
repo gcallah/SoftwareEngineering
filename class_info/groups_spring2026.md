@@ -84,8 +84,8 @@
 5. Terra Nagai (terranagai)
 
 ## KSS
-1. Kushal Mamillapalli (Techdude01)
-2. Siddhanth Bhatnagar (Sidd-Codes)
+1. Kushal Mamillapalli (Techdude01) - 2/24
+2. Siddhanth Bhatnagar (Sidd-Codes) - 2/24
 3. Sanjana Chowdary (JuJams)
 4. Jungwoo Park (Park J82)
 
