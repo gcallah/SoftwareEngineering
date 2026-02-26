@@ -52,7 +52,7 @@
 1. Kyle Jia (kylejjh)
 2. Alicia Li (aLIcia118) - 2/10
 3. Rachel Chen (Rachelcrm) - 2/10
-4. Jenny Dong (js12848)
+4. Jenny Dong (JennyDonghe)
 5. Carl Shi (js12848)
 6. Alicia Tian (aaalicia233)
 
