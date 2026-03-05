@@ -24,8 +24,8 @@
 
 
 ## ARSA
-1. Ryan Jin (ryljin) - 2/5
-2. Sotiros Papadopoulos (sjp9)
+1. Ryan Jin (ryljin) - 2/5, 3/5
+2. Sotiros Papadopoulos (sjp9) - 3/5
 3. FuXian Gong
 4. Ramon Li (rl4694) - 2/5, 2/24
 5. Erik Lee (leeerik)
