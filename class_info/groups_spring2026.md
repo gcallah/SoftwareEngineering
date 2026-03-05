@@ -32,11 +32,11 @@
 
 ## Project Sens
 1. Erica Belcena
-2. Salma Awan  - 2/12
-3. Suha Hoque  - 2/12
-4. Ananya Shah - 3/5
-5. Chris Cortes
-6. Nina Li - 3/5
+2. Salma Awan (sma9000) - 2/12
+3. Suha Hoque (suha-hoque) - 2/12
+4. Ananya Shah (Ananya Shah) - 3/5
+5. Chris Cortes (ChrisCortesSanchez)
+6. Nina Li (ninal1811) - 3/5
 
 ## Manager: Geethika Rao Gouravelli (CA)
 
