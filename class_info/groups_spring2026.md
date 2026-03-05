@@ -5,7 +5,7 @@
 ## Soup
 1. Haoxuan Wang
 2. Steven Kang
-3. Jerry Wu  - 2/10
+3. Jerry Wu  - 2/10, 3/3
 4. Eric Ma
 
 ## Winterest 
@@ -20,7 +20,7 @@
 1. Si Yue Jiang  - 2/10
 2. Aisha Roslan
 3. XinYan Chen  - 2/10
-4. Moayad Alismail
+4. Moayad Alismail- 3/3
 
 
 ## ARSA
@@ -53,10 +53,10 @@
 3. Rachel Chen (Rachelcrm) - 2/10
 4. Jenny Dong (JennyDonghe)
 5. Carl Shi (js12848)
-6. Alicia Tian (aaalicia233)
+6. Alicia Tian (aaalicia233) - 3/3
 
 ## JSDR
-1. Jefferson Le (jeffersonnle)
+1. Jefferson Le (jeffersonnle)-3/3
 2. Sebastian Liu (SebL2) - 2/10
 3. Derek Kim (dyk6601)
 4. Rafiul Kashfi (kashfi1)
@@ -72,8 +72,8 @@
 ## WAMP
 1. Wendy Song (WendySong31)  - 2/12
 2. Alexander Wu (awu0518) - 2/12
-3. Mingjian Li (Normanisfine)
-4. Pari Patel (paripatel55)
+3. Mingjian Li (Normanisfine)-3/3
+4. Pari Patel (paripatel55)-3/3
 
 ## RJRTM
 1. Riku Santa Cruz  - 2/12
@@ -83,7 +83,7 @@
 5. Terra Nagai (terranagai)
 
 ## KSS
-1. Kushal Mamillapalli (Techdude01) - 2/24
+1. Kushal Mamillapalli (Techdude01) - 2/24, 3/3
 2. Siddhanth Bhatnagar (Sidd-Codes) - 2/24
 3. Sanjana Chowdary (JuJams)
 4. Jungwoo Park (Park J82)
@@ -92,11 +92,11 @@
 1. Khalid Omer (komer301)
 2. Prince Tsiquaye (princetsiq)
 4. Alex Cheng (alexchny)
-1. Hongyi Wu (WHRANKY)
+1. Hongyi Wu (WHRANKY)-3/3
 2. Steven Oluwabusi (St12t)
 3. Christy Liu (ChristyLiu557)
 
 ## Kitchen
-1.Kyle Jia (kylejjh)
+1.Kyle Jia (kylejjh)-3/3
 
 
