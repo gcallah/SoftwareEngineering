@@ -18,7 +18,7 @@
 
 ## AXIS
 1. Si Yue Jiang  - 2/10
-2. Aisha Roslan
+2. Aisha Roslan -3/3
 3. XinYan Chen  - 2/10
 4. Moayad Alismail- 3/3
 
