@@ -45,7 +45,7 @@
 2. Raymond Lin (SimplyFlawed)
 3. Emily Wei (818shushirolls) - 2/10
 4. Maksym Yemelianenko (1impossible-code)
-5. Bryant Chong (bcsjun)
+5. Bryant Chong (bcsjun) - 3/3
 
 
 ## Eng404
