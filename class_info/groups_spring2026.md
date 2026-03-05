@@ -90,9 +90,9 @@
 
 ## Nexus
 1. Khalid Omer (komer301)
-2. Prince Tsiquaye (princetsiq)
-4. Alex Cheng (alexchny)
-1. Hongyi Wu (WHRANKY)-3/3
+2. Prince Tsiquaye (princetsiq) - 2/24
+4. Alex Cheng (alexchny) - 2/24
+1. Hongyi Wu (WHRANKY)
 2. Steven Oluwabusi (St12t)
 3. Christy Liu (ChristyLiu557)
 
