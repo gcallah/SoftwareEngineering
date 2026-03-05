@@ -34,9 +34,9 @@
 1. Erica Belcena
 2. Salma Awan  - 2/12
 3. Suha Hoque  - 2/12
-4. Ananya Shah
+4. Ananya Shah - 3/5
 5. Chris Cortes
-6. Nina Li
+6. Nina Li - 3/5
 
 ## Manager: Geethika Rao Gouravelli (CA)
 
