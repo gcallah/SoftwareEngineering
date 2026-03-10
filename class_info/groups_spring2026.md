@@ -60,7 +60,7 @@
 2. Sebastian Liu (SebL2) - 2/10
 3. Derek Kim (dyk6601)
 4. Rafiul Kashfi (kashfi1)
-5. Soohyuek Choi (soohyeuk)
+5. Soohyuek Choi (soohyeuk) - 3/10
 6. Dhruv Gupta (dhurvsgupta) - 2/10
 
 ## GitJits
