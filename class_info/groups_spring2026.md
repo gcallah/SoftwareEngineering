@@ -66,8 +66,8 @@
 ## GitJits
 1. Charlie Li (CharlieLi16) - 2/12
 2. Brandon Kim (branmkim) - 2/12
-3. Serena Nam (serenanam)
-4. Sarah Niu (Sssarah-N)
+3. Serena Nam (serenanam) - 3/10
+4. Sarah Niu (Sssarah-N) - 3/10
 
 ## WAMP
 1. Wendy Song (WendySong31)  - 2/12
