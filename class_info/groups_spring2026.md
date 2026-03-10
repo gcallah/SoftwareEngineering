@@ -13,7 +13,7 @@
 2. Steven Dorry  - 2/5
 3. Amish Vandse
 4. Karl Zerbe -02/20
-1. Lily McAmis
+1. Lily McAmis - 3/10
 2. Muath Alghamdi -02/20
 
 ## AXIS
