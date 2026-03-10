@@ -94,7 +94,6 @@
 4. Alex Cheng (alexchny) - 2/24
 1. Hongyi Wu (WHRANKY)
 2. Steven Oluwabusi (St12t)
-3. Christy Liu (ChristyLiu557)
 
 ## Kitchen
 1.Kyle Jia (kylejjh)-3/3
