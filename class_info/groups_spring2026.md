@@ -96,6 +96,6 @@
 2. Steven Oluwabusi (St12t)
 
 ## Kitchen
-1.Kyle Jia (kylejjh)-3/3
+1. Kyle Jia (kylejjh)-3/3
 
 
