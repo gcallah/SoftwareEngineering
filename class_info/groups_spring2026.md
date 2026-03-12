@@ -44,7 +44,7 @@
 1. George Sirichartchai (gsiri-code) - 2/10, 3/3
 2. Raymond Lin (SimplyFlawed)
 3. Emily Wei (818shushirolls) - 2/10
-4. Maksym Yemelianenko (1impossible-code)
+4. Maksym Yemelianenko (1impossible-code) - 3/12
 5. Bryant Chong (bcsjun) - 3/3
 
 
