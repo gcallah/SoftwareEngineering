@@ -85,8 +85,8 @@
 ## KSS
 1. Kushal Mamillapalli (Techdude01) - 2/24, 3/3
 2. Siddhanth Bhatnagar (Sidd-Codes) - 2/24
-3. Sanjana Chowdary (JuJams)
-4. Jungwoo Park (Park J82)
+3. Sanjana Chowdary (JuJams) - 3/24
+4. Jungwoo Park (Park J82) - 3/24
 
 ## Nexus
 1. Khalid Omer (komer301)
