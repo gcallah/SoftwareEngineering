@@ -31,7 +31,7 @@
 5. Erik Lee (leeerik)
 
 ## Project Sens
-1. Erica Belcena
+1. Erica Belcena - 3/26
 2. Salma Awan (sma9000) - 2/12
 3. Suha Hoque (suha-hoque) - 2/12
 4. Ananya Shah (Ananya Shah) - 3/5
