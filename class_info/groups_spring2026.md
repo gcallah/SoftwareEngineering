@@ -6,7 +6,7 @@
 1. Haoxuan Wang - 3/12
 2. Steven Kang
 3. Jerry Wu  - 2/10, 3/3
-4. Eric Ma
+4. Eric Ma - 3/26
 
 ## Winterest 
 1. Ebtesham Ahmed  - 2/5
