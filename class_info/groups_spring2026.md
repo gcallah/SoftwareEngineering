@@ -12,9 +12,9 @@
 1. Ebtesham Ahmed  - 2/5
 2. Steven Dorry  - 2/5
 3. Amish Vandse
-4. Karl Zerbe -02/20
+4. Karl Zerbe - 2/20
 1. Lily McAmis - 3/10
-2. Muath Alghamdi -02/20
+2. Muath Alghamdi - 2/20
 
 ## AXIS
 1. Si Yue Jiang  - 2/10
