@@ -11,7 +11,7 @@
 ## Winterest 
 1. Ebtesham Ahmed  - 2/5
 2. Steven Dorry  - 2/5
-3. Amish Vandse
+3. Amish Vandse 
 4. Karl Zerbe - 2/20
 1. Lily McAmis - 3/10
 2. Muath Alghamdi - 2/20
@@ -58,7 +58,7 @@
 ## JSDR
 1. Jefferson Le (jeffersonnle)-3/3
 2. Sebastian Liu (SebL2) - 2/10
-3. Derek Kim (dyk6601)
+3. Derek Kim (dyk6601) - 3/26
 4. Rafiul Kashfi (kashfi1)
 5. Soohyuek Choi (soohyeuk) - 3/10
 6. Dhruv Gupta (dhurvsgupta) - 2/10
