@@ -11,7 +11,7 @@
 ## Winterest 
 1. Ebtesham Ahmed  - 2/5
 2. Steven Dorry  - 2/5
-3. Amish Vandse 
+3. Amish Vandse - 2/26
 4. Karl Zerbe - 2/20
 1. Lily McAmis - 3/10
 2. Muath Alghamdi - 2/20
