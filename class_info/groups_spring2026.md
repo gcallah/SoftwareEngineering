@@ -56,7 +56,7 @@
 6. Alicia Tian (aaalicia233) - 3/3
 
 ## JSDR
-1. Jefferson Le (jeffersonnle)-3/3
+1. Jefferson Le (jeffersonnle)- 3/3
 2. Sebastian Liu (SebL2) - 2/10
 3. Derek Kim (dyk6601) - 3/26
 4. Rafiul Kashfi (kashfi1)
@@ -72,8 +72,8 @@
 ## WAMP
 1. Wendy Song (WendySong31)  - 2/12
 2. Alexander Wu (awu0518) - 2/12
-3. Mingjian Li (Normanisfine)-3/3
-4. Pari Patel (paripatel55)-3/3
+3. Mingjian Li (Normanisfine) - 3/3
+4. Pari Patel (paripatel55) - 3/3
 
 ## RJRTM
 1. Riku Santa Cruz  - 2/12
