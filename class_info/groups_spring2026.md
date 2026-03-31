@@ -28,7 +28,7 @@
 2. Sotiros Papadopoulos (sjp9) - 3/5
 3. FuXian Gong - 3/24
 4. Ramon Li (rl4694) - 2/5, 2/24
-5. Erik Lee (leeerik)
+5. Erik Lee (leeerik) - 3/31
 
 ## Project Sens
 1. Erica Belcena - 3/26
@@ -42,8 +42,8 @@
 
 ## BEMG
 1. George Sirichartchai (gsiri-code) - 2/10, 3/3
-2. Raymond Lin (SimplyFlawed)
-3. Emily Wei (818shushirolls) - 2/10
+2. Raymond Lin (SimplyFlawed) - 3/31
+3. Emily Wei (818shushirolls) - 2/10, 3/31
 4. Maksym Yemelianenko (1impossible-code) - 3/12
 5. Bryant Chong (bcsjun) - 3/3
 
