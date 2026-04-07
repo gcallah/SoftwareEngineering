@@ -4,7 +4,7 @@
 
 ## Soup
 1. Haoxuan Wang - 3/12
-2. Steven Kang
+2. Steven Kang - 4/7
 3. Jerry Wu  - 2/10, 3/3
 4. Eric Ma - 3/26
 
@@ -35,7 +35,7 @@
 2. Salma Awan (sma9000) - 2/12
 3. Suha Hoque (suha-hoque) - 2/12
 4. Ananya Shah (Ananya Shah) - 3/5
-5. Chris Cortes (ChrisCortesSanchez)
+5. Chris Cortes (ChrisCortesSanchez) - 3/26
 6. Nina Li (ninal1811) - 3/5
 
 ## Manager: Geethika Rao Gouravelli (CA)
