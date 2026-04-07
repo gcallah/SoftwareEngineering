@@ -76,11 +76,11 @@
 4. Pari Patel (paripatel55) - 3/3
 
 ## RJRTM
-1. Riku Santa Cruz  - 2/12
+1. Riku Santa Cruz  - 2/12, 4/7
 2. Jaden Ritchie (jadenar07)
 3. Rebecca Boadu (rboadu) - 2/12, 3/10
 4. Mikiyas Legesse - 3/10
-5. Terra Nagai (terranagai)
+5. Terra Nagai (terranagai) - 4/7
 
 ## KSS
 1. Kushal Mamillapalli (Techdude01) - 2/24, 3/3
