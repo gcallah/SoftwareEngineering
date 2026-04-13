@@ -3,10 +3,10 @@
 ## Manager: Prof. Eugene Callahan
 
 ## Soup
+1. Eric Ma - 3/26
 1. Haoxuan Wang - 3/12
-2. Steven Kang - 4/7
-3. Jerry Wu  - 2/10, 3/3
-4. Eric Ma - 3/26
+1. Jerry Wu  - 2/10, 3/3
+1. Steven Kang - 4/7
 
 ## Winterest 
 1. Amish Vandse - 2/26
@@ -17,18 +17,18 @@
 1. Steven Dorry  - 2/5
 
 ## AXIS
+1. Aisha Roslan (aisharoslan) -3/3
+1. Moayad Alismail (MoyadAlismail)- 3/3
 1. Si Yue Jiang  - 2/10
-2. Aisha Roslan (aisharoslan) -3/3
-3. XinYan Chen (XinYanC) - 2/10
-4. Moayad Alismail (MoyadAlismail)- 3/3
-
+1. XinYan Chen (XinYanC) - 2/10
 
 ## ARSA
+1. Erik Lee (leeerik) - 3/31
+1. FuXian Gong - 3/24
+1. Ramon Li (rl4694) - 2/5, 2/24
 1. Ryan Jin (ryljin) - 2/5, 3/5
-2. Sotiros Papadopoulos (sjp9) - 3/5
-3. FuXian Gong - 3/24
-4. Ramon Li (rl4694) - 2/5, 2/24
-5. Erik Lee (leeerik) - 3/31
+1. Sotiros Papadopoulos (sjp9) - 3/5
+
 
 ## Project Sens
 1. Erica Belcena - 3/26
