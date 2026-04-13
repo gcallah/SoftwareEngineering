@@ -9,12 +9,12 @@
 4. Eric Ma - 3/26
 
 ## Winterest 
+1. Amish Vandse - 2/26
 1. Ebtesham Ahmed  - 2/5
-2. Steven Dorry  - 2/5
-3. Amish Vandse - 2/26
-4. Karl Zerbe - 2/20
+1. Karl Zerbe - 2/20
 1. Lily McAmis - 3/10
-2. Muath Alghamdi - 2/20
+1. Muath Alghamdi - 2/20
+1. Steven Dorry  - 2/5
 
 ## AXIS
 1. Si Yue Jiang  - 2/10
