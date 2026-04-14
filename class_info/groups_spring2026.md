@@ -9,7 +9,7 @@
 1. Steven Kang - 4/7
 
 ## Winterest 
-1. Amish Vandse - 2/26
+1. Amish Vandse - 2/26, 4/14 (ALL)
 1. Ebtesham Ahmed  - 2/5
 1. Karl Zerbe - 2/20
 1. Lily McAmis - 3/10
@@ -71,7 +71,7 @@
 4. Sarah Niu (Sssarah-N) - 3/10
 
 ## WAMP
-1. Wendy Song (WendySong31)  - 2/12
+1. Wendy Song (WendySong31)  - 2/12, 4/14 (ALL)
 2. Alexander Wu (awu0518) - 2/12
 3. Mingjian Li (Normanisfine) - 3/3
 4. Pari Patel (paripatel55) - 3/3
