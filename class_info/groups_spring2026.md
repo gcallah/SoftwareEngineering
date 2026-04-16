@@ -84,7 +84,7 @@
 5. Terra Nagai (terranagai) - 4/7
 
 ## KSS
-1. Kushal Mamillapalli (Techdude01) - 2/24, 3/3
+1. Kushal Mamillapalli (Techdude01) - 2/24, 3/3, 4/16 (ALL)
 2. Siddhanth Bhatnagar (Sidd-Codes) - 2/24
 3. Sanjana Chowdary (JuJams) - 3/24
 4. Jungwoo Park (Park J82) - 3/24
