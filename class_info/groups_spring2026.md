@@ -42,7 +42,7 @@
 ## Manager: Geethika Rao Gouravelli (CA)
 
 ## BEMG
-1. George Sirichartchai (gsiri-code) - 2/10, 3/3
+1. George Sirichartchai (gsiri-code) - 2/10, 3/3, 4/14 (ALL)
 2. Raymond Lin (SimplyFlawed) - 3/31
 3. Emily Wei (818shushirolls) - 2/10, 3/31
 4. Maksym Yemelianenko (1impossible-code) - 3/12
