@@ -23,7 +23,7 @@
 1. XinYan Chen (XinYanC) - 2/10
 
 ## ARSA
-1. Erik Lee (leeerik) - 3/31
+1. Erik Lee (leeerik) - 3/31, 4/16 (ALL)
 1. FuXian Gong - 3/24
 1. Ramon Li (rl4694) - 2/5, 2/24
 1. Ryan Jin (ryljin) - 2/5, 3/5
