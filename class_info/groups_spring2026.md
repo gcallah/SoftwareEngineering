@@ -57,7 +57,7 @@
 6. Alicia Tian (aaalicia233) - 3/3
 
 ## JSDR
-1. Jefferson Le (jeffersonnle)- 3/3
+1. Jefferson Le (jeffersonnle)- 3/3, 4/21 (ALL)
 2. Sebastian Liu (SebL2) - 2/10
 3. Derek Kim (dyk6601) - 3/26
 4. Rafiul Kashfi (kashfi1) - 3/31
