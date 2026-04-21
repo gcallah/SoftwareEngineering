@@ -31,7 +31,7 @@
 
 
 ## Project Sens
-1. Ananya Shah (Ananya Shah) - 3/5
+1. Ananya Shah (Ananya Shah) - 3/5, 4/21 (ALL)
 1. Chris Cortes (ChrisCortesSanchez) - 3/26
 1. Erica Belcena - 3/26
 1. Nina Li (ninal1811) - 3/5
