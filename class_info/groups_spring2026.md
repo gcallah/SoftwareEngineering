@@ -50,7 +50,7 @@
 
 
 ## Eng404
-2. Alicia Li (aLIcia118) - 2/10
+2. Alicia Li (aLIcia118) - 2/10, 4/23 (ALL)
 3. Rachel Chen (Rachelcrm) - 2/10
 4. Jenny Dong (JennyDonghe) - 3/24
 5. Carl Shi (js12848) - 3/24
