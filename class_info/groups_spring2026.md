@@ -65,7 +65,7 @@
 6. Dhruv Gupta (dhurvsgupta) - 2/10
 
 ## GitJits
-1. Charlie Li (CharlieLi16) - 2/12
+1. Charlie Li (CharlieLi16) - 2/12, 4/23 (ALL)
 2. Brandon Kim (branmkim) - 2/12
 3. Serena Nam (serenanam) - 3/10
 4. Sarah Niu (Sssarah-N) - 3/10
