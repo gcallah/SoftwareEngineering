@@ -80,7 +80,7 @@
 1. Riku Santa Cruz  - 2/12, 4/7, 4/28 (ALL)
 2. Jaden Ritchie (jadenar07)
 3. Rebecca Boadu (rboadu) - 2/12, 3/10
-4. Mikiyas Legesse - 3/10, (ABSENT 4/28)
+4. Mikiyas Legesse - 3/10
 5. Terra Nagai (terranagai) - 4/7
 
 ## KSS
