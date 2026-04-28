@@ -3,7 +3,7 @@
 ## Manager: Prof. Eugene Callahan
 
 ## Soup
-1. Eric Ma - 3/26
+1. Eric Ma - 3/26, 4/28 (ALL)
 1. Haoxuan Wang - 3/12
 1. Jerry Wu  - 2/10, 3/3
 1. Steven Kang - 4/7
