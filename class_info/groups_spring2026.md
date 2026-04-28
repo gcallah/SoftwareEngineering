@@ -77,7 +77,7 @@
 4. Pari Patel (paripatel55) - 3/3
 
 ## RJRTM
-1. Riku Santa Cruz  - 2/12, 4/7
+1. Riku Santa Cruz  - 2/12, 4/7, 4/28 (ALL)
 2. Jaden Ritchie (jadenar07)
 3. Rebecca Boadu (rboadu) - 2/12, 3/10
 4. Mikiyas Legesse - 3/10
