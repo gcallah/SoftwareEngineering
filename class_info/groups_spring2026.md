@@ -17,7 +17,7 @@
 1. Steven Dorry  - 2/5
 
 ## AXIS
-1. Aisha Roslan (aisharoslan) -3/3
+1. Aisha Roslan (aisharoslan) - 3/3, 4/30 (ALL)
 1. Moayad Alismail (MoyadAlismail)- 3/3
 1. Si Yue Jiang  - 2/10
 1. XinYan Chen (XinYanC) - 2/10
