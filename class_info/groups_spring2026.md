@@ -90,7 +90,7 @@
 4. Jungwoo Park (Park J82) - 3/24
 
 ## Nexus
-1. Khalid Omer (komer301)
+1. Khalid Omer (komer301), 5/5 (ALL)
 2. Prince Tsiquaye (princetsiq) - 2/24
 4. Alex Cheng (alexchny) - 2/24
 1. Hongyi Wu (WHRANKY) - 3/12
